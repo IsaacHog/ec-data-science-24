@@ -1,4 +1,5 @@
-
+* text=auto
 statistisk_dataanalys/statistisk_dataanalys_bok.pdf
 statistisk_dataanalys/calculatorer.py
 statistisk_dataanalys/binomial_probability.py
+statistisk_dataanalys/poisson_probability.py

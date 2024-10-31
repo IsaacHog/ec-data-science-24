@@ -22,7 +22,7 @@ def binomial_probability(n, p, r, operator):
         raise ValueError("Invalid operator. Use '=', '<=', '<', '>', or '>='")
 
 probability = binomial_probability(n, p, r, operator)
-print(f"P(X {operator} {r}) = {probability}")
+print(f"Bi(X {operator} {r}) = {probability}")
 
 # Expected value E(X) = sum(i * P(X = i))
 expected_value = 0

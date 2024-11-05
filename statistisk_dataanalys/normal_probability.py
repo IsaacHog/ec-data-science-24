@@ -10,6 +10,10 @@ standard_deviation = 2.5
 calculated_z = (x - expected_value) / standard_deviation
 print(f"calculated_z = {calculated_z}")
 
+p = 0.95
+calculated_z0 = norm.ppf(p)
+print(f"calculated_z0 = {calculated_z0}")
+
 # Parameters
 z_1 = -0.333  # Lower bound
 z_2 = None     # Upper bound, or None if only one-sided

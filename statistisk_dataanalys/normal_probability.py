@@ -37,3 +37,17 @@ else:
     z0_2 = normal_probability(z_2, operator)
     z0 = z0_1 - z0_2
     print(f"P({z_1} <= Z <= {z_2}) = {z0}")
+
+# Plotting the normal distribution
+x = np.linspace(-4, 4, 1000)
+y = norm.pdf(x) 
+
+plt.plot(x, y, label='Normal Distribution', color='blue')  
+plt.fill_between(x, y, where=(x <= z_1), color='lightblue', alpha=0.5, label=f'P(Z <= {z_1})')
+plt.axvline(z_1, color='red', linestyle='--', label=f'Z = {z_1}') 
+plt.title('Normal Distribution')
+plt.xlabel('Z')
+plt.ylabel('Probability Density')
+plt.legend()
+plt.grid()
+plt.show()

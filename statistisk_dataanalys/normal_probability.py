@@ -6,13 +6,12 @@ import matplotlib.pyplot as plt
 x = 14
 expected_value = 10
 standard_deviation = 2.5
-# Calculate z 
-calculated_z = (x - expected_value) / standard_deviation
-print(f"calculated_z = {calculated_z}")
+calculated_z_from_x = (x - expected_value) / standard_deviation
+print(f"calculated_z_from_x = {calculated_z_from_x}")
 
 p = 0.95
-calculated_z0 = norm.ppf(p)
-print(f"calculated_z0 = {calculated_z0}")
+calculated_z_from_p = norm.ppf(p)
+print(f"calculated_z_from_p = {calculated_z_from_p}")
 
 # Parameters
 z_1 = -0.333  # Lower bound

@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Parameters
-z = 2.2
+z = 2.2 # = (X − μ) / σ
 operator = "<" # Operator: '=', '<=', '<', '>', or '>='
 
 def normal_probability(z, operator):

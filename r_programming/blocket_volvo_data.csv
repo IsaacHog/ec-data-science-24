@@ -1,4 +1,4 @@
-Index,Pris,Säljare,Bränsle,Växellåda,Miltal,Modellår,Biltyp,Drivning,Hästkrafter,Färg,Motorstorlek,Datum_i_trafik,Märke,Modell
+Index,Försäljningspris,Säljare,Bränsle,Växellåda,Miltal,Modellår,Biltyp,Drivning,Hästkrafter,Färg,Motorstorlek,Datum_i_trafik,Märke,Modell
 1,"259,000",Företag,Bensin,Automat,"  9,985 ",2019,Kombi,Tvåhjulsdriven,192,Grå,1969,6/12/2018,Volvo,V90
 2,"289,000",Företag,Bensin,Automat,"  9,400 ",2019,SUV,Fyrhjulsdriven,191,Grå (Osmium Grå Metallic ),1969,19/6/2019,Volvo,XC40
 3,"17,000",Privat,Bensin,Manuell,"  43,000 ",2004,,Tvåhjulsdriven,141,Röd,2435,25/6/2003,Volvo,V70

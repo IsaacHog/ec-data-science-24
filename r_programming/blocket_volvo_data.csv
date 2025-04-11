@@ -1,808 +1,808 @@
-Index,Försäljningspris,Säljare,Bränsle,Växellåda,Miltal,Modellår,Biltyp,Drivning,Hästkrafter,Färg,Motorstorlek,Datum_i_trafik,Märke,Modell
-1,"259,000 kr",Företag,Bensin,Automat,"  9,985 ",2019,Kombi,Tvåhjulsdriven,192,Grå,1969,6/12/2018,Volvo,V90
-2,"289,000 kr",Företag,Bensin,Automat,"  9,400 ",2019,SUV,Fyrhjulsdriven,191,Grå (Osmium Grå Metallic ),1969,19/6/2019,Volvo,XC40
-3,"17,000 kr",Privat,Bensin,Manuell,"  43,000 ",2004,,Tvåhjulsdriven,141,Röd,2435,25/6/2003,Volvo,V70
-4,"28,900 kr",Företag,Bensin,Manuell,"  20,798 ",2004,Sedan,Tvåhjulsdriven,141,Ljusgrå (Grå),2435,9/5/2003,Volvo,S60
-5,"61,997 kr",Privat,Bensin,Automat,"  2,840 ",2022,SUV,Tvåhjulsdriven,130,Svart,1477,2/6/2022,Volvo,XC40
-6,"15,000 kr",Privat,Bensin,Manuell,"  22,521 ",2004,Kombi,Tvåhjulsdriven,164,Grå,1948,24/6/2003,Volvo,V40
-7,"227,300 kr",Företag,Bensin,Automat,"  15,837 ",2018,Kombi,Tvåhjulsdriven,255,Svart,1969,1/9/2017,Volvo,V90
-8,"119,900 kr",Företag,Bensin,Manuell,"  15,839 ",2015,Halvkombi,Tvåhjulsdriven,120,Vit,1596,8/9/2014,Volvo,V40
-9,"12,000 kr",Privat,Bensin,Manuell,"  28,857 ",1998,,Tvåhjulsdriven,145,Blå,2435,22/8/1997,Volvo,V70
-10,"334,900 kr",Företag,Bensin,Automat,"  5,062 ",2020,SUV,Tvåhjulsdriven,253,Vit,1969,24/7/2019,Volvo,XC60
-11,"319,900 kr",Företag,Bensin,Automat,"  4,960 ",2021,Kombi,Tvåhjulsdriven,200,Vit,1969,25/11/2020,Volvo,V60
-12,"344,900 kr",Företag,Bensin,Automat,"  3,100 ",2021,SUV,Tvåhjulsdriven,131,Röd,1477,1/3/2021,Volvo,XC40
-13,"509,000 kr",Företag,Diesel,Automat,"  17,282 ",2021,SUV,Fyrhjulsdriven,238,Svart,1969,11/2/2021,Volvo,XC90
-14,"264,500 kr",Företag,Diesel,Automat,"  9,650 ",2020,Kombi,Tvåhjulsdriven,192,Silver,1969,26/3/2020,Volvo,V90
-15,"394,500 kr",Företag,Diesel,Automat,"  4,046 ",2023,SUV,Tvåhjulsdriven,200,Svart,1969,22/12/2022,Volvo,XC60
-16,"379,500 kr",Företag,Diesel,Automat,"  11,984 ",2022,SUV,Fyrhjulsdriven,200,Svart,1969,9/9/2021,Volvo,V90 Cross Country
-17,"229,900 kr",Privat,Diesel,Automat,"  12,460 ",2016,Kombi,Tvåhjulsdriven,200,Svart,1969,4/4/2016,Volvo,V70
-18,"217,900 kr",Företag,Diesel,Automat,"  7,485 ",2018,Coupé,Tvåhjulsdriven,191,Vit,1969,17/11/2017,Volvo,V60
-19,"185,000 kr",Privat,Diesel,Automat,"  11,607 ",2018,Kombi,Tvåhjulsdriven,150,Svart,1969,2/2/2018,Volvo,V90
-20,"29,500 kr",Privat,Diesel,Automat,"  61,900 ",2013,Kombi,Tvåhjulsdriven,116,Vit,1560,23/10/2012,Volvo,V70
-21,"33,500 kr",Privat,Diesel,Manuell,"  23,460 ",2006,Kombi,Tvåhjulsdriven,136,Grå,1997,28/7/2005,Volvo,V50
-22,"65,000 kr",Privat,Diesel,Manuell,"  21,300 ",2011,Kombi,Tvåhjulsdriven,116,Röd,1560,20/12/2010,Volvo,V50
-23,"44,000 kr",Privat,Diesel,Manuell,"  29,860 ",2008,Kombi,Tvåhjulsdriven,136,Brun,1997,28/12/2007,Volvo,V70
-24,"53,000 kr",Privat,Diesel,Manuell,"  23,400 ",2011,Kombi,Tvåhjulsdriven,109,Brun,1560,9/8/2010,Volvo,V70
-25,"629,000 kr",Företag,El,Automat,  138 ,2024,SUV,Fyrhjulsdriven,414,Vit,,1/9/2023,Volvo,XC40
-26,"559,900 kr",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Svart,,,Volvo,EX30
-27,"559,900 kr",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Vit,,,Volvo,EX30
-28,"619,900 kr",Företag,El,Automat,  508 ,2024,SUV,Fyrhjulsdriven,414,Grå,,23/8/2023,Volvo,XC40
-29,"449,900 kr",Företag,El,Automat,"  1,962 ",2023,SUV,Tvåhjulsdriven,234,Ljusgrå (Grå),,20/10/2022,Volvo,XC40
-30,"449,900 kr",Företag,El,Automat,"  2,276 ",2023,SUV,Tvåhjulsdriven,234,Svart,,24/10/2022,Volvo,C40
-31,"419,900 kr",Företag,El,Automat,"  5,093 ",2023,SUV,Tvåhjulsdriven,234,Svart,,23/11/2022,Volvo,XC40
-32,"469,900 kr",Företag,El,Automat,"  2,682 ",2022,SUV,Fyrhjulsdriven,414,Blå,,28/3/2022,Volvo,C40
-33,"459,900 kr",Företag,El,Automat,"  4,258 ",2021,SUV,Fyrhjulsdriven,414,Blå,,11/3/2021,Volvo,XC40
-34,"439,900 kr",Företag,El,Automat,"  5,760 ",2021,SUV,Fyrhjulsdriven,414,Grå,,11/3/2021,Volvo,XC40
-35,"599,900 kr",Företag,El,Automat,  501 ,2024,SUV,Tvåhjulsdriven,256,Blå,,15/9/2023,Volvo,XC40
-36,"549,900 kr",Företag,El,Automat,  221 ,2024,SUV,Tvåhjulsdriven,256,Silver,,6/9/2023,Volvo,XC40
-37,"479,900 kr",Företag,El,Automat,"  1,051 ",2023,SUV,Tvåhjulsdriven,234,Silver,,31/3/2023,Volvo,XC40
-38,"359,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  12,900 ",2018,SUV,Fyrhjulsdriven,408,Vit,1969,13/4/2018,Volvo,XC60
-39,"389,800 kr",Företag,Miljöbränsle/Hybrid,Automat,"  7,445 ",2020,Kombi,Fyrhjulsdriven,391,Grå,1969,17/7/2019,Volvo,V90
-40,"404,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  7,583 ",2019,SUV,Fyrhjulsdriven,391,Röd,1969,18/3/2019,Volvo,XC60
-41,"324,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  8,201 ",2020,Kombi,Fyrhjulsdriven,304,Grå (Savile Grey Metallic),1969,21/1/2020,Volvo,V90
-42,"32,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  22,698 ",2009,Kombi,Tvåhjulsdriven,126,Blå,1798,30/3/2009,Volvo,V50
-43,"439,500 kr",Företag,Miljöbränsle/Hybrid,Automat,"  8,596 ",2020,SUV,Fyrhjulsdriven,396,Svart,1969,5/8/2020,Volvo,XC60
-44,"493,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  8,351 ",2018,SUV,Fyrhjulsdriven,407,Vit,1969,29/12/2017,Volvo,XC90
-45,"442,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  3,423 ",2022,SUV,Tvåhjulsdriven,262,Svart,1477,5/11/2021,Volvo,XC40
-46,"359,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  6,608 ",2022,SUV,Tvåhjulsdriven,211,Svart,1477,15/7/2021,Volvo,XC40
-47,"189,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  16,021 ",2014,Kombi,Fyrhjulsdriven,283,Vit,2400,6/2/2014,Volvo,V60
-48,"368,800 kr",Företag,Miljöbränsle/Hybrid,Automat,"  11,778 ",2018,SUV,Fyrhjulsdriven,408,Ljusbrun (Lbrun),1969,30/4/2018,Volvo,XC60
-49,"424,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  9,100 ",2021,SUV,Fyrhjulsdriven,304,Svart,1969,15/2/2021,Volvo,XC60
-50,"109,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  25,498 ",2014,Kombi,Tvåhjulsdriven,214,Grå,1984,4/10/2013,Volvo,V70
-51,"169,800 kr",Företag,Diesel,Automat,"  9,000 ",2016,Halvkombi,Tvåhjulsdriven,120,Svart,1969,29/2/2016,Volvo,V40
-52,"349,900 kr",Företag,Diesel,Automat,"  6,814 ",2022,Kombi,Fyrhjulsdriven,200,Grå,1969,1/9/2021,Volvo,V60 Cross Country
-53,"289,900 kr",Företag,Diesel,Automat,"  12,021 ",2021,Kombi,Tvåhjulsdriven,200,Vit,1969,31/3/2021,Volvo,V90
-54,"369,900 kr",Företag,Diesel,Automat,"  7,053 ",2021,SUV,Fyrhjulsdriven,200,Mörkgrå (Grå),1969,5/3/2021,Volvo,XC60
-55,"219,000 kr",Privat,Diesel,Automat,"  17,173 ",2016,Kombi,Fyrhjulsdriven,181,Silver,2400,20/5/2016,Volvo,XC70
-56,"359,100 kr",Företag,Diesel,Automat,"  2,163 ",2023,Kombi,Tvåhjulsdriven,200,Silver,1969,12/1/2023,Volvo,V60
-57,"339,900 kr",Företag,Diesel,Automat,"  8,848 ",2021,Kombi,Fyrhjulsdriven,200,Vit,1969,18/12/2020,Volvo,V90
-58,"289,000 kr",Företag,Diesel,Automat,"  12,783 ",2021,Kombi,Fyrhjulsdriven,200,Svart,1969,25/3/2021,Volvo,V60 Cross Country
-59,"579,000 kr",Företag,Diesel,Automat,"  8,948 ",2021,SUV,Fyrhjulsdriven,238,Grå,1969,16/10/2020,Volvo,XC90
-60,"359,900 kr",Företag,Diesel,Automat,"  10,064 ",2021,SUV,Fyrhjulsdriven,200,Vit,1969,17/12/2020,Volvo,V90 Cross Country
-61,"194,800 kr",Företag,Diesel,Automat,"  19,629 ",2019,Kombi,Fyrhjulsdriven,151,Vit,1969,20/12/2018,Volvo,V60
-62,"559,000 kr",Företag,Diesel,Automat,"  11,979 ",2021,SUV,Fyrhjulsdriven,238,Mörkblå (Blå),1969,15/3/2021,Volvo,XC90
-63,"299,900 kr",Företag,Diesel,Automat,"  9,459 ",2020,Kombi,Fyrhjulsdriven,192,Vit,1969,18/3/2020,Volvo,V90
-64,"225,000 kr",Privat,Diesel,Automat,"  12,999 ",2018,Sedan,Tvåhjulsdriven,150,Svart,1969,2/5/2018,Volvo,S90
-65,"219,800 kr",Företag,Diesel,Automat,"  6,963 ",2018,Kombi,Tvåhjulsdriven,150,Grå,1969,29/6/2018,Volvo,V60
-66,"189,800 kr",Företag,Diesel,Automat,"  12,290 ",2016,Kombi,Tvåhjulsdriven,181,Brun,1969,28/6/2016,Volvo,V70
-67,"189,800 kr",Företag,Diesel,Automat,"  18,427 ",2018,Kombi,Tvåhjulsdriven,150,Vit,1969,13/2/2018,Volvo,V90
-68,"199,800 kr",Företag,Diesel,Automat,"  12,861 ",2014,Kombi,Tvåhjulsdriven,181,Vit,1969,6/5/2014,Volvo,V70
-69,"129,800 kr",Företag,Diesel,Manuell,"  15,758 ",2015,Kombi,Tvåhjulsdriven,116,Vit,1560,4/9/2014,Volvo,V70
-70,"335,000 kr",Privat,Diesel,Automat,"  16,533 ",2016,SUV,Fyrhjulsdriven,225,Vit,1969,13/7/2015,Volvo,XC90
-71,"128,900 kr",Företag,Diesel,Manuell,"  14,679 ",2015,Halvkombi,Tvåhjulsdriven,116,Svart,1560,27/6/2014,Volvo,V40
-72,"159,999 kr",Privat,Diesel,Manuell,"  22,900 ",2018,Sedan,Tvåhjulsdriven,150,Silver,1969,11/12/2017,Volvo,S90
-73,"219,800 kr",Företag,Diesel,Automat,"  21,542 ",2017,Kombi,Fyrhjulsdriven,221,Vit (Ice Vit),2400,9/11/2017,Volvo,XC60
-74,"230,000 kr",Privat,Diesel,Automat,"  7,500 ",2019,Kombi,Tvåhjulsdriven,150,Vit,1969,27/12/2018,Volvo,V60
-75,"104,900 kr",Företag,Diesel,Automat,"  22,398 ",2009,SUV,Fyrhjulsdriven,185,Silver,2400,22/9/2008,Volvo,XC90
-76,"213,900 kr",Företag,Diesel,Automat,"  10,121 ",2016,Kombi,Fyrhjulsdriven,191,Brun,2400,21/1/2016,Volvo,V60 Cross Country
-77,"199,900 kr",Företag,Diesel,Automat,"  19,635 ",2014,SUV,Fyrhjulsdriven,215,Röd,2400,20/9/2013,Volvo,XC60
-78,"178,900 kr",Företag,Diesel,Automat,"  10,714 ",2017,Halvkombi,Tvåhjulsdriven,120,Svart,1969,12/1/2017,Volvo,V40
-79,"159,900 kr",Företag,Diesel,Automat,"  15,100 ",2017,Kombi,Tvåhjulsdriven,191,Grå,1969,2/12/2016,Volvo,V60
-80,"254,800 kr",Företag,Diesel,Automat,"  8,200 ",2020,Kombi,Tvåhjulsdriven,191,Vit,1969,29/1/2020,Volvo,V60
-81,"154,900 kr",Företag,Diesel,Manuell,"  16,700 ",2016,Kombi,Tvåhjulsdriven,150,Vit,1969,4/8/2015,Volvo,V60 Cross Country
-82,"289,500 kr",Företag,Diesel,Automat,"  9,280 ",2021,Kombi,Tvåhjulsdriven,191,Vit,1969,1/9/2020,Volvo,V90
-83,"174,900 kr",Företag,Diesel,Automat,"  17,500 ",2016,SUV,Tvåhjulsdriven,191,Brun (Brown),1969,18/6/2015,Volvo,V60 Cross Country
-84,"69,900 kr",Företag,Diesel,Manuell,"  15,440 ",2010,Kombi,Tvåhjulsdriven,109,Ljusgrå (Grå),1560,21/9/2009,Volvo,V50
-85,"109,900 kr",Företag,Diesel,Automat,"  20,410 ",2012,Kombi,Tvåhjulsdriven,116,Svart,1560,1/6/2012,Volvo,V70
-86,"159,800 kr",Företag,Diesel,Manuell,"  14,300 ",2015,Halvkombi,Tvåhjulsdriven,191,Vit,1969,2/9/2014,Volvo,V40
-87,"149,800 kr",Företag,Diesel,Automat,"  11,701 ",2013,Sedan,Tvåhjulsdriven,136,Svart,1984,25/3/2013,Volvo,S60
-88,"209,800 kr",Företag,Diesel,Automat,"  11,322 ",2018,Halvkombi,Tvåhjulsdriven,120,Svart,1969,27/7/2017,Volvo,V40
-89,"139,900 kr",Företag,Diesel,Manuell,"  10,900 ",2014,Kombi,Tvåhjulsdriven,115,Blå,1560,30/8/2013,Volvo,V60
-90,"229,800 kr",Företag,Diesel,Automat,"  8,225 ",2017,Halvkombi,Tvåhjulsdriven,150,Vit,1969,5/9/2016,Volvo,V40 Cross Country
-91,"249,800 kr",Företag,Diesel,Automat,"  10,658 ",2019,SUV,Tvåhjulsdriven,150,Grå,1969,8/4/2019,Volvo,XC40
-92,"179,800 kr",Företag,Diesel,Automat,"  16,551 ",2016,Kombi,Tvåhjulsdriven,150,Silver,1969,2/9/2015,Volvo,V70
-93,"79,900 kr",Privat,Diesel,Manuell,"  18,640 ",2012,Sedan,Tvåhjulsdriven,116,Grå,1560,21/12/2011,Volvo,S60
-94,"9,500 kr",Privat,Diesel,Automat,"  39,112 ",2006,Kombi,Tvåhjulsdriven,185,Grå,2400,24/5/2006,Volvo,V70
-95,"168,000 kr",Privat,Diesel,Automat,"  12,200 ",2015,Kombi,Tvåhjulsdriven,181,Svart,1969,4/12/2014,Volvo,V60
-96,"62,000 kr",Privat,Diesel,Automat,"  35,881 ",2010,Kombi,Fyrhjulsdriven,206,Röd,2400,10/12/2009,Volvo,XC70
-97,"209,900 kr",Företag,Diesel,Automat,"  9,927 ",2014,Kombi,Fyrhjulsdriven,181,Röd,2400,14/4/2014,Volvo,V70
-98,"98,800 kr",Företag,Diesel,Automat,"  33,015 ",2011,Kombi,Fyrhjulsdriven,206,Ljusbrun (Lbrun),2400,9/8/2010,Volvo,XC70
-99,"299,900 kr",Företag,Diesel,Automat,"  13,225 ",2017,Kombi,Fyrhjulsdriven,236,Silver,1969,14/9/2016,Volvo,V90
-100,"198,900 kr",Företag,Diesel,Automat,"  6,700 ",2017,Halvkombi,Tvåhjulsdriven,120,Vit,1969,7/3/2017,Volvo,V40 Cross Country
-101,"219,800 kr",Företag,Bensin,Automat,"  6,845 ",2015,Halvkombi,Fyrhjulsdriven,180,Vit,1984,5/6/2014,Volvo,V40 Cross Country
-102,"42,000 kr",Privat,Bensin,Manuell,"  23,892 ",2004,Kombi,Tvåhjulsdriven,141,Vit,2435,12/12/2003,Volvo,V70
-103,"11,000 kr",Privat,Bensin,Automat,"  28,863 ",1997,Sedan,Tvåhjulsdriven,170,Röd,2435,16/5/1997,Volvo,S70
-104,"279,800 kr",Företag,Bensin,Automat,"  13,560 ",2018,Sedan,Tvåhjulsdriven,262,Grå,1969,28/12/2017,Volvo,S90
-105,"144,900 kr",Företag,Bensin,Manuell,"  10,555 ",2015,Halvkombi,Tvåhjulsdriven,120,Silver,1596,14/4/2015,Volvo,V40
-106,"277,000 kr",Företag,Bensin,Automat,"  10,770 ",2019,Kombi,Fyrhjulsdriven,310,Vit,1969,28/6/2018,Volvo,V60
-107,"262,000 kr",Företag,Bensin,Automat,"  7,589 ",2019,Kombi,Tvåhjulsdriven,214,Svart,1969,23/1/2019,Volvo,V90
-108,"329,900 kr",Företag,Bensin,Automat,"  8,998 ",2020,SUV,Tvåhjulsdriven,251,Svart,1969,25/2/2020,Volvo,XC60
-109,"373,000 kr",Företag,Bensin,Automat,"  2,606 ",2023,Kombi,Tvåhjulsdriven,200,Grå,1969,2/3/2023,Volvo,V60
-110,"299,500 kr",Företag,Bensin,Automat,"  4,841 ",2021,SUV,Tvåhjulsdriven,131,Svart,1477,27/11/2020,Volvo,XC40
-111,"39,900 kr",Företag,Bensin,Automat,"  26,999 ",2005,Kombi,Fyrhjulsdriven,221,Svart,2521,15/4/2005,Volvo,V50
-112,"25,000 kr",Privat,Bensin,Manuell,"  43,657 ",1989,Sedan,Tvåhjulsdriven,116,Grå,2316,18/4/1989,Volvo,740
-113,"6,000 kr",Privat,Bensin,Manuell,"  27,027 ",1993,Sedan,Tvåhjulsdriven,141,Röd,2435,22/10/1992,Volvo,850
-114,"14,900 kr",Företag,Bensin,Manuell,"  25,000 ",2005,Sedan,Tvåhjulsdriven,141,Svart,2435,22/2/2005,Volvo,S40
-115,"17,000 kr",Privat,Bensin,Automat,"  23,285 ",2003,Sedan,Tvåhjulsdriven,200,Grå,2435,10/2/2003,Volvo,S80
-116,"265,900 kr",Företag,Bensin,Automat,"  10,350 ",2020,Sedan,Tvåhjulsdriven,191,Mörkgrå (Grå),1969,30/3/2020,Volvo,S60
-117,"329,800 kr",Företag,Bensin,Automat,"  13,601 ",2019,SUV,Fyrhjulsdriven,253,Mörkblå (Blå),1969,23/10/2018,Volvo,V90 Cross Country
-118,"269,000 kr",Företag,Bensin,Automat,"  6,228 ",2018,Sedan,Tvåhjulsdriven,192,Grå,1969,30/8/2018,Volvo,S90
-119,"609,000 kr",Företag,Bensin,Automat,  -   ,2024,SUV,Fyrhjulsdriven,253,Silver,1969,,Volvo,V90 Cross Country
-120,"259,000 kr",Företag,Bensin,Automat,"  9,985 ",2019,Kombi,Tvåhjulsdriven,192,Grå,1969,6/12/2018,Volvo,V90
-121,"289,000 kr",Företag,Bensin,Automat,"  9,400 ",2019,SUV,Fyrhjulsdriven,191,Grå (Osmium Grå Metallic ),1969,19/6/2019,Volvo,XC40
-122,"28,900 kr",Företag,Bensin,Manuell,"  20,798 ",2004,Sedan,Tvåhjulsdriven,141,Ljusgrå (Grå),2435,9/5/2003,Volvo,S60
-123,"15,000 kr",Privat,Bensin,Manuell,"  22,521 ",2004,Kombi,Tvåhjulsdriven,164,Grå,1948,24/6/2003,Volvo,V40
-124,"227,300 kr",Företag,Bensin,Automat,"  15,837 ",2018,Kombi,Tvåhjulsdriven,255,Svart,1969,1/9/2017,Volvo,V90
-125,"119,900 kr",Företag,Bensin,Manuell,"  15,839 ",2015,Halvkombi,Tvåhjulsdriven,120,Vit,1596,8/9/2014,Volvo,V40
-126,"334,900 kr",Företag,Bensin,Automat,"  5,062 ",2020,SUV,Tvåhjulsdriven,253,Vit,1969,24/7/2019,Volvo,XC60
-127,"319,900 kr",Företag,Bensin,Automat,"  4,960 ",2021,Kombi,Tvåhjulsdriven,200,Vit,1969,25/11/2020,Volvo,V60
-128,"344,900 kr",Företag,Bensin,Automat,"  3,100 ",2021,SUV,Tvåhjulsdriven,131,Röd,1477,1/3/2021,Volvo,XC40
-129,"29,900 kr",Företag,Bensin,Manuell,"  27,800 ",2004,Kombi,Tvåhjulsdriven,164,Blå,1948,24/3/2003,Volvo,V40
-130,"39,900 kr",Företag,Bensin,Manuell,"  22,890 ",2003,Sedan,Tvåhjulsdriven,123,Silver,,8/1/2009,Volvo,S40
-131,"40,000 kr",Privat,Bensin,Automat,"  28,400 ",2008,Kombi,Tvåhjulsdriven,170,Grå,2435,17/10/2007,Volvo,V70
-132,"129,800 kr",Företag,Bensin,Manuell,"  15,000 ",2014,Kombi,Tvåhjulsdriven,150,Blå,1596,27/10/2013,Volvo,V60
-133,"29,900 kr",Företag,Bensin,Manuell,"  26,000 ",2001,Kombi,Tvåhjulsdriven,141,Mörkgrön (Grön),,7/6/2001,Volvo,V70
-134,"42,900 kr",Företag,Bensin,Automat,"  23,750 ",2004,Kombi,Tvåhjulsdriven,170,Blå,2435,13/5/2004,Volvo,V50
-135,"269,800 kr",Företag,Bensin,Automat,"  13,559 ",2018,Sedan,Tvåhjulsdriven,255,Svart (Onyx Svart Metallic),1969,10/1/2018,Volvo,S90
-136,"29,000 kr",Företag,Bensin,Manuell,"  23,330 ",2004,Sedan,Tvåhjulsdriven,141,Ljusgrön (Ljusgul Metallic),2435,26/3/2004,Volvo,S40
-137,"509,900 kr",Företag,Bensin,Automat,"  6,544 ",2020,SUV,Fyrhjulsdriven,251,Vit,1969,2/10/2019,Volvo,XC90
-138,"319,000 kr",Företag,Bensin,Automat,"  10,750 ",2018,Sedan,Tvåhjulsdriven,255,Silver,1969,20/12/2017,Volvo,S90
-139,"5,000 kr",Privat,Bensin,Automat,"  41,135 ",2003,Kombi,Tvåhjulsdriven,141,Vit,2435,2/10/2002,Volvo,V70
-140,"284,000 kr",Företag,Bensin,Automat,"  3,449 ",2021,SUV,Tvåhjulsdriven,131,Svart,1477,31/3/2021,Volvo,XC40
-141,"24,900 kr",Företag,Bensin,Manuell,"  31,135 ",2007,Sedan,Tvåhjulsdriven,141,Ljusgrå (Grå),2435,2/11/2006,Volvo,S60
-142,"21,500 kr",Privat,Bensin,Manuell,"  20,700 ",2004,Kombi,Tvåhjulsdriven,141,Röd,2435,4/8/2004,Volvo,V50
-143,"230,000 kr",Företag,Bensin,Automat,"  20,938 ",2018,Kombi,Tvåhjulsdriven,255,Svart,1969,24/10/2017,Volvo,V90
-144,"32,000 kr",Privat,Bensin,Automat,"  31,919 ",2002,Kombi,Fyrhjulsdriven,200,Blå,2435,17/1/2002,Volvo,XC70
-145,"2,000 kr",Privat,Bensin,Manuell,"  30,894 ",2002,Kombi,Tvåhjulsdriven,200,Grå,2435,6/12/2001,Volvo,V70
-146,"275,000 kr",Företag,Bensin,Automat,"  5,687 ",2021,SUV,Tvåhjulsdriven,130,Vit,1477,26/10/2020,Volvo,XC40
-147,"350,000 kr",Företag,Bensin,Automat,"  7,268 ",2021,SUV,Fyrhjulsdriven,253,Mörkblå (Mblå),1969,1/3/2021,Volvo,XC60
-148,"149,800 kr",Företag,Bensin,Manuell,"  14,603 ",2013,Sedan,Tvåhjulsdriven,241,Svart,1999,10/7/2012,Volvo,S60
-149,"27,900 kr",Privat,Bensin,Manuell,"  24,354 ",2006,Kombi,Tvåhjulsdriven,126,Vit,1798,8/9/2005,Volvo,V50
-150,"16,999 kr",Privat,Bensin,Manuell,"  20,844 ",2001,Sedan,Tvåhjulsdriven,109,Brun,1587,4/8/2000,Volvo,S40
-151,"429,800 kr",Företag,Miljöbränsle/Hybrid,Automat,"  8,830 ",2021,Kombi,Fyrhjulsdriven,304,Svart,1969 ,16/2/2021,Volvo,V90
-152,"499,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  9,288 ",2021,SUV,Fyrhjulsdriven,396,Grå,1969 ,19/2/2021,Volvo,XC60
-153,"599,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  5,983 ",2021,SUV,Fyrhjulsdriven,396,Svart,1969 ,26/3/2021,Volvo,XC90
-154,"389,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  11,267 ",2020,SUV,Fyrhjulsdriven,396,Vit,1969 ,17/1/2020,Volvo,XC60
-155,"355,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  8,176 ",2020,Kombi,Fyrhjulsdriven,398,Vit,1969 ,30/3/2020,Volvo,V60
-156,"689,900 kr",Företag,Miljöbränsle/Hybrid,Automat,  2 ,2023,Sedan,Fyrhjulsdriven,463,Svart,1969 ,7/8/2023,Volvo,S90
-157,"359,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  8,269 ",2021,SUV,Tvåhjulsdriven,266,Svart,1477 ,31/8/2020,Volvo,XC40
-158,"409,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  8,318 ",2021,SUV,Fyrhjulsdriven,344,Ljusbrun (Brun),1969 ,20/8/2020,Volvo,XC60
-159,"329,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  8,045 ",2020,Kombi,Fyrhjulsdriven,344,Svart,1969 ,10/1/2020,Volvo,V60
-160,"589,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  12,845 ",2021,SUV,Fyrhjulsdriven,396,Svart,1969 ,3/12/2020,Volvo,XC90
-161,"679,000 kr",Företag,Miljöbränsle/Hybrid,Automat,  615 ,2024,Kombi,Fyrhjulsdriven,404,Svart,1969 ,28/6/2023,Volvo,V90
-162,"479,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  3,436 ",2022,SUV,Fyrhjulsdriven,344,Grå,1969 ,23/6/2021,Volvo,XC60
-163,"528,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  2,348 ",2022,SUV,Fyrhjulsdriven,342,Mörkblå (Mblå),1969 ,10/11/2021,Volvo,XC60
-164,"329,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  15,634 ",2021,SUV,Fyrhjulsdriven,253,Vit,1969 ,24/9/2020,Volvo,XC60
-165,"339,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  6,557 ",2021,Kombi,Fyrhjulsdriven,253,Vit,1969 ,22/2/2021,Volvo,V60
-166,"369,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  5,429 ",2020,Kombi,Fyrhjulsdriven,253,Svart (Onyx Svart Metallic),2020,6/3/2020,Volvo,V60
-167,"39,900 kr",Företag,Miljöbränsle/Hybrid,Manuell,"  16,108 ",2007,Kombi,Tvåhjulsdriven,126,Ljusgrå (Grå),1798 ,9/8/2006,Volvo,V50
-168,"429,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  15,100 ",2017,SUV,Fyrhjulsdriven,407,Svart,1969 ,1/6/2016,Volvo,XC90
-169,"199,800 kr",Företag,Miljöbränsle/Hybrid,Automat,"  13,290 ",2015,Kombi,Fyrhjulsdriven,283,Blå,2400 ,11/3/2015,Volvo,V60
-170,"399,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  9,377 ",2018,SUV,Fyrhjulsdriven,408,Vit,1969 ,27/11/2017,Volvo,XC60
-171,"429,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  8,008 ",2020,SUV,Fyrhjulsdriven,396,Mörkgrå (Grå),1969 ,3/7/2020,Volvo,XC60
-172,"389,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  5,036 ",2021,SUV,Tvåhjulsdriven,266,Grå,1477 ,10/2/2021,Volvo,XC40
-173,"444,800 kr",Företag,Miljöbränsle/Hybrid,Automat,"  12,582 ",2017,SUV,Fyrhjulsdriven,407,Grå,1969 ,1/8/2016,Volvo,XC90
-174,"499,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  1,356 ",2024,Kombi,Fyrhjulsdriven,404,Grå,1969 ,31/7/2023,Volvo,V90
-175,"429,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  7,000 ",2021,SUV,Fyrhjulsdriven,344,Vit,1969 ,11/11/2020,Volvo,XC60
-176,"414,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  8,412 ",2020,SUV,Fyrhjulsdriven,391,Vit (Pärlemor-Metallic Vit),1969 ,4/6/2020,Volvo,XC60
-177,"424,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  4,459 ",2021,Kombi,Fyrhjulsdriven,391,Röd (Pärlemor-Metallic Röd),1969 ,13/10/2020,Volvo,V60
-178,"314,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  15,637 ",2019,Kombi,Fyrhjulsdriven,392,Vit,1969 ,6/3/2019,Volvo,V60
-179,"459,500 kr",Företag,Miljöbränsle/Hybrid,Automat,"  2,051 ",2023,SUV,Tvåhjulsdriven,214,Röd,1477 ,13/12/2022,Volvo,XC40
-180,"369,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  4,504 ",2022,SUV,Tvåhjulsdriven,211,Svart,1477 ,5/11/2021,Volvo,XC40
-181,"378,800 kr",Företag,Miljöbränsle/Hybrid,Automat,"  8,199 ",2020,Kombi,Fyrhjulsdriven,392,Svart,1969 ,30/4/2020,Volvo,V60
-182,"329,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  7,750 ",2021,SUV,Tvåhjulsdriven,211,Svart,1477 ,23/3/2021,Volvo,XC40
-183,"469,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  8,712 ",2021,SUV,Fyrhjulsdriven,344,Silver,1969 ,30/4/2021,Volvo,XC60
-184,"464,800 kr",Företag,Miljöbränsle/Hybrid,Automat,"  5,839 ",2020,Kombi,Fyrhjulsdriven,304,Svart (Onyx Svart Metallic),1969 ,13/12/2019,Volvo,XC60
-185,"35,900 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  19,123 ",2007,Kombi,Tvåhjulsdriven,126,Röd,1798 ,2/4/2007,Volvo,V50
-186,"399,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  15,200 ",2016,SUV,Fyrhjulsdriven,407,Svart,1969 ,12/2/2016,Volvo,XC90
-187,"269,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  11,511 ",2020,Kombi,Fyrhjulsdriven,344,Silver,1969 ,8/6/2020,Volvo,V60
-188,"44,900 kr",Företag,Miljöbränsle/Hybrid,Manuell,"  16,499 ",2008,Halvkombi,Tvåhjulsdriven,126,Röd,1798 ,2/2/2008,Volvo,C30
-189,"348,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  3,687 ",2020,Kombi,Fyrhjulsdriven,340,Svart,1969 ,31/1/2020,Volvo,V60
-190,"639,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  4,600 ",2023,SUV,Fyrhjulsdriven,399,Grå,1969 ,25/11/2022,Volvo,XC60
-191,"369,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  1,880 ",2021,Kombi,Fyrhjulsdriven,340,Röd (Vinröd),1969 ,9/3/2021,Volvo,V60
-192,"39,900 kr",Företag,Miljöbränsle/Hybrid,Manuell,"  24,000 ",2008,Kombi,Tvåhjulsdriven,126,Ljusblå (Blå),1798 ,25/2/2008,Volvo,V50
-193,"549,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  2,473 ",2022,Kombi,Fyrhjulsdriven,396,Grå,1969 ,3/11/2021,Volvo,V90
-194,"697,800 kr",Företag,Miljöbränsle/Hybrid,Automat,  -   ,2024,Sedan,Fyrhjulsdriven,344,Silver,1969 ,,Volvo,S60
-195,"29,900 kr",Företag,Miljöbränsle/Hybrid,Manuell,"  21,285 ",2002,Sedan,Tvåhjulsdriven,141,Röd,2435,28/3/2002,Volvo,S60
-196,"59,800 kr",Företag,Miljöbränsle/Hybrid,Automat,"  35,499 ",2009,Kombi,Tvåhjulsdriven,200,Grå,2521 ,15/5/2009,Volvo,V70
-197,"89,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  18,931 ",2010,Kombi,Tvåhjulsdriven,232,Grå,2521 ,3/3/2010,Volvo,V70
-198,"80,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  18,550 ",2009,Kombi,Tvåhjulsdriven,146,Brun,1999 ,26/11/2009,Volvo,V70
-199,"27,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  38,240 ",2009,Kombi,Tvåhjulsdriven,146,Grå,1999 ,21/4/2009,Volvo,V70
-200,"56,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  39,000 ",2015,Kombi,Tvåhjulsdriven,214,Svart,1984 ,16/3/2015,Volvo,V70
-201,"659,900 kr",Företag,El,Automat,  -   ,2024,Sedan,Tvåhjulsdriven,252,Röd,,,Volvo,C40
-202,"514,900 kr",Företag,El,Automat,"  2,037 ",2023,SUV,Tvåhjulsdriven,234,Svart,,13/4/2023,Volvo,XC40
-203,"619,000 kr",Företag,El,Automat,"  1,230 ",2024,SUV,Tvåhjulsdriven,256,Grön,,14/8/2023,Volvo,C40
-204,"438,900 kr",Företag,El,Automat,"  1,500 ",2023,SUV,Tvåhjulsdriven,234,Grå,,28/7/2023,Volvo,XC40
-205,"473,800 kr",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Grå,,,Volvo,EX30
-206,"579,400 kr",Företag,El,Automat,  -   ,2024,SUV,Fyrhjulsdriven,434,Grå,,,Volvo,EX30
-207,"680,400 kr",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,256,Svart,,,Volvo,XC40
-208,"449,500 kr",Företag,El,Automat,  712 ,2023,SUV,Tvåhjulsdriven,234,Röd,,30/11/2022,Volvo,C40
-209,"509,000 kr",Företag,El,Automat,  161 ,2024,SUV,Tvåhjulsdriven,275,Vit,,27/12/2023,Volvo,EX30
-210,"509,000 kr",Företag,El,Automat,  153 ,2024,SUV,Tvåhjulsdriven,275,Vit,,28/12/2023,Volvo,EX30
-211,"599,000 kr",Företag,El,Automat,  370 ,2024,SUV,Fyrhjulsdriven,414,Svart,,18/8/2023,Volvo,C40
-212,"509,900 kr",Företag,El,Automat,  -   ,2024,Sedan,Tvåhjulsdriven,272,Grå,,,Volvo,EX30
-213,"439,900 kr",Företag,El,Automat,"  2,265 ",2023,Sedan,Tvåhjulsdriven,232,Blå,,5/12/2022,Volvo,XC40
-214,"592,900 kr",Företag,El,Automat,  -   ,2024,Sedan,Fyrhjulsdriven,429,Vit,,,Volvo,EX30
-215,"438,800 kr",Företag,El,Automat,  713 ,2023,SUV,Tvåhjulsdriven,232,Svart,,25/5/2023,Volvo,XC40
-216,"520,000 kr",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Svart,,,Volvo,EX30
-217,"439,900 kr",Företag,El,Automat,"  3,116 ",2023,SUV,Tvåhjulsdriven,234,Svart,,17/11/2022,Volvo,C40
-218,"559,000 kr",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Svart,,,Volvo,
-219,"444,000 kr",Företag,El,Automat,"  3,890 ",2022,SUV,Tvåhjulsdriven,234,Svart,,24/1/2022,Volvo,XC40
-220,"459,500 kr",Företag,El,Automat,"  2,075 ",2023,SUV,Tvåhjulsdriven,234,Silver,,26/9/2022,Volvo,XC40
-221,"579,000 kr",Företag,El,Automat,  499 ,2024,SUV,Tvåhjulsdriven,256,Ljusblå,,3/8/2023,Volvo,C40
-222,"499,000 kr",Företag,El,Automat,"  2,568 ",2023,SUV,Fyrhjulsdriven,414,Svart,,25/11/2022,Volvo,C40
-223,"439,900 kr",Företag,El,Automat,"  9,538 ",2021,SUV,Fyrhjulsdriven,414,Blå,,12/3/2021,Volvo,XC40
-224,"581,300 kr",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Svart,,,Volvo,EX30
-225,"581,100 kr",Företag,El,Automat,  1 ,2024,SUV,Tvåhjulsdriven,275,Vit,,,Volvo,EX30
-226,"469,000 kr",Företag,El,Automat,"  3,741 ",2021,SUV,Fyrhjulsdriven,414,Svart,,18/12/2020,Volvo,XC40
-227,"579,000 kr",Företag,El,Automat,  707 ,2023,SUV,Fyrhjulsdriven,414,Blå,,25/11/2022,Volvo,C40
-228,"589,900 kr",Företag,El,Automat,  -   ,2024,SUV,Fyrhjulsdriven,434,Ljusblå,,,Volvo,EX30
-229,"559,900 kr",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Vit,,,Volvo,EX30
-230,"609,900 kr",Företag,El,Automat,  -   ,2024,SUV,Fyrhjulsdriven,434,Vit,,,Volvo,EX30
-231,"529,900 kr",Företag,El,Automat,"  1,256 ",2023,SUV,Fyrhjulsdriven,414,Vit,,30/12/2022,Volvo,C40
-232,"649,900 kr",Företag,El,Automat,  -   ,2023,SUV,Fyrhjulsdriven,414,Vit,,,Volvo,C40
-233,"449,900 kr",Företag,El,Automat,"  3,002 ",2023,SUV,Tvåhjulsdriven,234,Grå,,25/11/2022,Volvo,C40
-234,"609,900 kr",Företag,El,Automat,  -   ,2024,SUV,Fyrhjulsdriven,434,Svart,,,Volvo,EX30
-235,"439,900 kr",Företag,El,Automat,"  8,160 ",2021,SUV,Fyrhjulsdriven,414,Vit,,8/1/2021,Volvo,XC40
-236,"429,900 kr",Företag,El,Automat,"  3,173 ",2021,SUV,Fyrhjulsdriven,414,Vit,,5/5/2021,Volvo,XC40
-237,"649,900 kr",Företag,El,Automat,  548 ,2024,SUV,Fyrhjulsdriven,414,Vit,,16/8/2023,Volvo,XC40
-238,"449,900 kr",Företag,El,Automat,"  5,512 ",2022,SUV,Tvåhjulsdriven,234,Grön,,10/1/2022,Volvo,XC40
-239,"559,900 kr",Företag,El,Automat,"  2,114 ",2023,SUV,Fyrhjulsdriven,414,Blå,,3/3/2023,Volvo,XC40
-240,"636,900 kr",Företag,El,Automat,  -   ,2024,Sedan,Tvåhjulsdriven,252,Silver,,,Volvo,C40
-241,"459,500 kr",Företag,El,Automat,"  2,000 ",2023,SUV,Tvåhjulsdriven,234,Silver,,22/12/2022,Volvo,C40
-242,"569,500 kr",Företag,El,Automat,  289 ,2024,SUV,Tvåhjulsdriven,256,Svart,,6/11/2023,Volvo,C40
-243,"624,000 kr",Företag,El,Automat,  131 ,2024,SUV,Fyrhjulsdriven,414,Grå,,2/2/2024,Volvo,C40
-244,"429,000 kr",Företag,El,Automat,"  2,228 ",2023,SUV,Tvåhjulsdriven,234,Grön,,6/2/2023,Volvo,C40
-245,"419,000 kr",Företag,El,Automat,"  2,509 ",2023,SUV,Tvåhjulsdriven,234,Svart,,5/1/2023,Volvo,C40
-246,"429,000 kr",Företag,El,Automat,"  1,540 ",2023,SUV,Tvåhjulsdriven,234,Blå,,27/12/2022,Volvo,XC40
-247,"429,000 kr",Företag,El,Automat,"  3,619 ",2022,SUV,Tvåhjulsdriven,234,Svart,,23/2/2022,Volvo,XC40
-248,"557,000 kr",Företag,El,Automat,"  1,442 ",2023,SUV,Fyrhjulsdriven,414,Ljusgrå,,26/1/2023,Volvo,XC40
-249,"467,000 kr",Företag,El,Automat,"  4,637 ",2021,SUV,Fyrhjulsdriven,414,Blå,,14/12/2020,Volvo,XC40
-250,"469,000 kr",Företag,El,Automat,"  1,964 ",2023,SUV,Tvåhjulsdriven,234,Svart,,2/2/2023,Volvo,C40
-251,"45,000 kr",Privat,Bensin,Automat,"  27,700 ",2006,Kombi,Fyrhjulsdriven,210,Blå,2521,20/3/2006,Volvo,XC70
-252,"13,000 kr",Privat,Bensin,Manuell,"  22,700 ",1996,Sedan,Tvåhjulsdriven,145,Röd,2435,29/9/1995,Volvo,850
-253,"15,000 kr",Privat,Bensin,Manuell,"  33,751 ",2004,Kombi,Tvåhjulsdriven,123,Grön,1783,29/1/2004,Volvo,V40
-254,"32,900 kr",Privat,Bensin,Manuell,"  25,899 ",2006,Kombi,Tvåhjulsdriven,126,Grå,1798,22/12/2005,Volvo,V50
-255,"279,900 kr",Företag,Bensin,Automat,"  6,535 ",2019,Kombi,Tvåhjulsdriven,210,Ljusblå (Blå Metallic),1969,12/6/2019,Volvo,V90
-256,"434,900 kr",Företag,Bensin,Automat,"  12,200 ",2019,SUV,Fyrhjulsdriven,310,Svart,1969,18/6/2018,Volvo,XC90
-257,"19,000 kr",Privat,Bensin,Manuell,"  26,604 ",2005,Kombi,Tvåhjulsdriven,170,Vit,2435,28/2/2005,Volvo,V70
-258,"25,000 kr",Privat,Bensin,Manuell,"  25,685 ",2000,Sedan,Tvåhjulsdriven,170,Blå,2435,23/12/1999,Volvo,S70
-259,"79,000 kr",Privat,Bensin,Manuell,"  21,489 ",2012,Kombi,Tvåhjulsdriven,180,Svart,1596,17/11/2011,Volvo,V60
-260,"19,900 kr",Privat,Bensin,Manuell,"  23,515 ",2001,Kombi,Tvåhjulsdriven,170,Röd,2435,5/1/2001,Volvo,V70
-261,"339,900 kr",Företag,Bensin,Automat,"  7,493 ",2017,Sedan,Fyrhjulsdriven,368,Svart,1969,29/9/2016,Volvo,S60
-262,"209,900 kr",Företag,Bensin,Automat,"  6,567 ",2019,Halvkombi,Tvåhjulsdriven,153,Ljusbrun,1498,28/6/2019,Volvo,V40 Cross Country
-263,"8,000 kr",Privat,Bensin,Manuell,"  46,740 ",1999,Sedan,Tvåhjulsdriven,170,Blå,2435,22/1/1999,Volvo,S80
-264,"349,800 kr",Företag,Bensin,Automat,"  4,776 ",2020,Sedan,Tvåhjulsdriven,251,Vit,1969,1/8/2019,Volvo,S60
-265,"159,000 kr",Privat,Bensin,Manuell,"  10,293 ",2017,Kombi,Tvåhjulsdriven,153,Grå,1969,21/10/2016,Volvo,V60
-266,"159,900 kr",Företag,Bensin,Manuell,"  13,868 ",2016,Kombi,Tvåhjulsdriven,191,Svart,1969,22/7/2015,Volvo,V60
-267,"269,900 kr",Företag,Bensin,Automat,"  6,217 ",2021,Sedan,Tvåhjulsdriven,130,Svart,1477,25/2/2021,Volvo,XC40
-268,"18,000 kr",Privat,Bensin,Manuell,"  33,854 ",1990,Sedan,Tvåhjulsdriven,116,Svart,2316,15/12/1989,Volvo,740
-269,"309,900 kr",Företag,Bensin,Automat,"  8,237 ",2021,Sedan,Tvåhjulsdriven,198,Svart (Onyx Svart Metallic),1969,1/2/2021,Volvo,XC40
-270,"249,900 kr",Företag,Bensin,Manuell,"  4,505 ",2021,Sedan,Tvåhjulsdriven,130,Svart,1477,23/12/2020,Volvo,XC40
-271,"32,000 kr",Privat,Bensin,Automat,"  25,000 ",2007,Kombi,Tvåhjulsdriven,170,Grå,2435,9/6/2006,Volvo,V50
-272,"225,000 kr",Företag,Bensin,Automat,"  11,790 ",2018,Kombi,Tvåhjulsdriven,191,Grå,1969,21/12/2017,Volvo,V90
-273,"539,800 kr",Företag,Bensin,Automat,"  1,064 ",2020,Sedan,Fyrhjulsdriven,317,Grå (Osmium Grey Metallic),1969,20/1/2020,Volvo,S60
-274,"234,000 kr",Företag,Bensin,Automat,"  12,109 ",2018,Kombi,Tvåhjulsdriven,191,Grå,1969,14/3/2018,Volvo,V90
-275,"329,900 kr",Företag,Bensin,Automat,"  7,082 ",2021,SUV,Fyrhjulsdriven,198,Mörkblå,1969,1/6/2021,Volvo,XC40
-276,"189,000 kr",Privat,Diesel,Manuell,"  13,300 ",2017,SUV,Tvåhjulsdriven,150,Röd,1969,6/4/2017,Volvo,XC60
-277,"125,000 kr",Privat,Diesel,Manuell,"  15,737 ",2016,Halvkombi,Tvåhjulsdriven,120,Blå,1969,29/10/2015,Volvo,V40
-278,"75,000 kr",Privat,Diesel,Automat,"  48,688 ",2016,Kombi,Tvåhjulsdriven,181,Svart,1969,19/2/2016,Volvo,V70
-279,"155,000 kr",Privat,Diesel,Automat,"  25,680 ",2015,SUV,Fyrhjulsdriven,181,Svart,2400,23/12/2014,Volvo,XC60
-280,"35,000 kr",Privat,Diesel,Automat,"  25,000 ",2007,Kombi,Tvåhjulsdriven,180,Blå,2400,26/7/2006,Volvo,V50
-281,"110,000 kr",Privat,Diesel,Automat,"  29,416 ",2012,SUV,Fyrhjulsdriven,215,Svart,2400,18/4/2012,Volvo,XC60
-282,"184,000 kr",Privat,Diesel,Automat,"  17,800 ",2015,Kombi,Fyrhjulsdriven,181,Blå,2400,15/5/2015,Volvo,XC70
-283,"210,000 kr",Privat,Diesel,Automat,"  13,500 ",2018,Kombi,Fyrhjulsdriven,150,Vit,1969,27/6/2018,Volvo,V90
-284,"95,000 kr",Privat,Diesel,Automat,"  30,000 ",2014,SUV,Fyrhjulsdriven,181,Vit,2400,18/3/2014,Volvo,XC60
-285,"229,000 kr",Privat,Diesel,Automat,"  14,748 ",2016,SUV,Fyrhjulsdriven,221,Röd,2400,18/3/2016,Volvo,XC60
-286,"35,000 kr",Privat,Diesel,Manuell,"  32,000 ",1995,Sedan,Tvåhjulsdriven,123,Svart,2383,11/3/2020,Volvo,940
-287,"110,000 kr",Privat,Diesel,Automat,"  51,100 ",2017,Kombi,Tvåhjulsdriven,150,Vit,1969,8/2/2017,Volvo,V90
-288,"129,000 kr",Privat,Diesel,Automat,"  24,600 ",2015,Halvkombi,Tvåhjulsdriven,200,Silver,1969,24/3/2015,Volvo,V40
-289,"290,000 kr",Privat,Diesel,Automat,"  19,072 ",2020,Kombi,Fyrhjulsdriven,200,Grå,1969,30/12/2019,Volvo,V90 Cross Country
-290,"64,900 kr",Privat,Diesel,Manuell,"  28,951 ",2012,Kombi,Tvåhjulsdriven,116,Vit,1560,23/6/2011,Volvo,V60
-291,"138,900 kr",Privat,Diesel,Automat,"  34,657 ",2014,Kombi,Fyrhjulsdriven,215,Silver,2400,30/1/2014,Volvo,XC70
-292,"176,000 kr",Privat,Diesel,Automat,"  13,350 ",2014,Kombi,Tvåhjulsdriven,200,Blå,1969,11/4/2014,Volvo,V70
-293,"115,000 kr",Privat,Diesel,Manuell,"  12,800 ",2013,Kombi,Tvåhjulsdriven,116,Svart,1560,2/4/2013,Volvo,V60
-294,"289,800 kr",Företag,Diesel,Automat,"  14,647 ",2017,Kombi,Fyrhjulsdriven,236,Ljusblå (Lblå),1969,22/9/2016,Volvo,V90
-295,"239,000 kr",Företag,Diesel,Automat,"  11,960 ",2019,Kombi,Tvåhjulsdriven,150,Silver,1969,5/4/2019,Volvo,V60
-296,"299,800 kr",Företag,Diesel,Automat,"  10,114 ",2019,Kombi,Fyrhjulsdriven,191,Vit,1969,28/1/2019,Volvo,V90 Cross Country
-297,"164,800 kr",Företag,Diesel,Manuell,"  12,766 ",2015,Halvkombi,Tvåhjulsdriven,191,Blå,1969,29/9/2014,Volvo,V40
-298,"249,800 kr",Företag,Diesel,Automat,"  14,329 ",2016,Kombi,Fyrhjulsdriven,181,Brun,2400,27/4/2016,Volvo,XC70
-299,"279,900 kr",Företag,Diesel,Automat,"  13,417 ",2017,Kombi,Tvåhjulsdriven,233,Blå,1969,27/9/2016,Volvo,V60
-300,"179,700 kr",Företag,Diesel,Manuell,"  15,500 ",2015,Kombi,Tvåhjulsdriven,181,Vit,1969,16/12/2014,Volvo,XC70
-301,"70,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  37,000 ",2016,Kombi,Tvåhjulsdriven,245,Svart,1984,10/8/2016,Volvo,V70
-302,"20,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  30,229 ",2006,Kombi,Tvåhjulsdriven,141,Grön,2435,31/5/2006,Volvo,V70
-303,"50,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  20,000 ",2009,Kombi,Tvåhjulsdriven,146,Grå,1999,5/8/2009,Volvo,V70
-304,"348,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  16,705 ",2018,SUV,Fyrhjulsdriven,408,Silver,1969,27/3/2018,Volvo,XC60
-305,"597,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  8,395 ",2020,SUV,Fyrhjulsdriven,391,Svart,1969,25/6/2020,Volvo,XC90
-306,"555,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  1,300 ",2024,SUV,Fyrhjulsdriven,399,Grå,1969,12/6/2023,Volvo,XC60
-307,"89,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  25,425 ",2012,Kombi,Tvåhjulsdriven,180,Röd,1596,9/6/2011,Volvo,V70
-308,"20,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  30,000 ",2007,Sedan,Tvåhjulsdriven,126,Silver,1798,30/12/2005,Volvo,S40
-309,"39,900 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  33,203 ",2009,Kombi,Tvåhjulsdriven,146,Grå,1999,12/6/2008,Volvo,V70
-310,"29,500 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  24,814 ",2008,Kombi,Tvåhjulsdriven,126,Grön,1798,12/11/2007,Volvo,V50
-311,"35,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  31,049 ",2008,Kombi,Tvåhjulsdriven,146,Brun,1999,11/1/2008,Volvo,V70
-312,"95,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  24,170 ",2012,Kombi,Tvåhjulsdriven,180,Röd,1596,17/1/2012,Volvo,V60
-313,"70,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  31,291 ",2010,Kombi,Tvåhjulsdriven,232,Svart,2521,3/3/2010,Volvo,V70
-314,"74,900 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  21,149 ",2010,Kombi,Tvåhjulsdriven,146,Grå,1999,26/2/2010,Volvo,V70
-315,"12,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  35,255 ",2008,Kombi,Tvåhjulsdriven,146,Röd,1999,15/5/2008,Volvo,V70
-316,"360,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  10,645 ",2020,Kombi,Fyrhjulsdriven,391,Vit,1969,22/1/2020,Volvo,V90
-317,"35,900 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  23,837 ",2007,Kombi,Tvåhjulsdriven,141,Svart,2435,4/5/2007,Volvo,V70
-318,"65,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  19,395 ",2010,Kombi,Tvåhjulsdriven,146,Brun,1999,1/10/2009,Volvo,V70
-319,"110,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,  20 ,1988,Sedan,Tvåhjulsdriven,131,Blå,2316,16/6/1988,Volvo,740
-320,"449,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  17,285 ",2016,SUV,Fyrhjulsdriven,407,Grå,1969,15/3/2016,Volvo,XC90
-321,"539,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  7,215 ",2022,SUV,Fyrhjulsdriven,304,Svart,1969,29/11/2021,Volvo,XC60
-322,"69,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  29,103 ",2009,Kombi,Tvåhjulsdriven,200,Silver,2521,1/4/2009,Volvo,V70
-323,"469,800 kr",Företag,Miljöbränsle/Hybrid,Automat,"  1,192 ",2022,Kombi,Fyrhjulsdriven,340,Silver,1969,30/11/2021,Volvo,V60
-324,"694,500 kr",Företag,Miljöbränsle/Hybrid,Automat,"  2,624 ",2023,SUV,Fyrhjulsdriven,463,Ljusgrå (Grå),1969,12/4/2023,Volvo,XC60
-325,"234,800 kr",Företag,Miljöbränsle/Hybrid,Automat,"  12,700 ",2018,Kombi,Fyrhjulsdriven,164,Svart,2400,27/4/2018,Volvo,V60
-326,"419,900 kr",Företag,El,Automat,"  7,335 ",2021,SUV,Fyrhjulsdriven,408,Grå (Grey),,24/2/2021,Volvo,XC40
-327,"609,000 kr",Företag,El,Automat,  454 ,2024,SUV,Tvåhjulsdriven,256,Silver,,19/9/2023,Volvo,XC40
-328,"469,900 kr",Företag,El,Automat,"  2,395 ",2023,Sedan,Tvåhjulsdriven,232,Ljusgrå (Bright Dusk Metallic),,30/12/2022,Volvo,XC40
-329,"639,900 kr",Företag,El,Automat,"  1,067 ",2024,SUV,Fyrhjulsdriven,414,Grå,,21/8/2023,Volvo,C40
-330,"489,000 kr",Företag,El,Automat,"  5,240 ",2021,SUV,Fyrhjulsdriven,414,Svart,,12/4/2021,Volvo,XC40
-331,"499,900 kr",Företag,El,Automat,"  2,093 ",2022,SUV,Fyrhjulsdriven,414,Grå,,13/7/2022,Volvo,XC40
-332,"459,500 kr",Företag,El,Automat,"  1,892 ",2023,SUV,Tvåhjulsdriven,234,Blå,,29/9/2022,Volvo,XC40
-333,"439,500 kr",Företag,El,Automat,"  3,666 ",2023,SUV,Tvåhjulsdriven,234,Grå,,28/12/2022,Volvo,C40
-334,"449,500 kr",Företag,El,Automat,"  1,929 ",2023,SUV,Tvåhjulsdriven,234,Vit,,1/3/2023,Volvo,C40
-335,"459,900 kr",Företag,El,Automat,"  7,364 ",2021,Sedan,Fyrhjulsdriven,408,Svart (Onyx Svart Metallic),,2/3/2021,Volvo,XC40
-336,"459,500 kr",Företag,El,Automat,"  1,224 ",2023,SUV,Tvåhjulsdriven,234,Grå,,26/9/2022,Volvo,XC40
-337,"459,800 kr",Företag,El,Automat,"  1,261 ",2023,Sedan,Tvåhjulsdriven,232,Vit (Crystal Vit Metallic),,5/5/2023,Volvo,C40
-338,"499,000 kr",Företag,El,Automat,  722 ,2021,SUV,Fyrhjulsdriven,414,Grå,,15/10/2020,Volvo,XC40
-339,"519,500 kr",Företag,El,Automat,"  2,439 ",2023,SUV,Fyrhjulsdriven,414,Grön,,23/1/2023,Volvo,C40
-340,"469,500 kr",Företag,El,Automat,"  1,354 ",2023,SUV,Tvåhjulsdriven,234,Blå,,7/10/2022,Volvo,C40
-341,"499,500 kr",Företag,El,Automat,"  2,114 ",2023,SUV,Fyrhjulsdriven,414,Svart,,10/3/2023,Volvo,C40
-342,"438,900 kr",Företag,El,Automat,"  1,500 ",2023,SUV,Tvåhjulsdriven,234,Svart,,28/2/2023,Volvo,XC40
-343,"499,000 kr",Företag,El,Automat,"  2,199 ",2021,SUV,Fyrhjulsdriven,414,Grå,,15/10/2020,Volvo,XC40
-344,"467,000 kr",Företag,El,Automat,"  3,223 ",2021,SUV,Fyrhjulsdriven,414,Grå,,26/2/2021,Volvo,XC40
-345,"604,000 kr",Företag,El,Automat,  257 ,2024,SUV,Fyrhjulsdriven,414,Grå,,28/8/2023,Volvo,XC40
-346,"459,000 kr",Företag,El,Automat,  312 ,2023,SUV,Tvåhjulsdriven,234,Blå,,14/7/2023,Volvo,C40
-347,"439,000 kr",Företag,El,Automat,"  1,048 ",2023,SUV,Tvåhjulsdriven,234,Silver,,17/3/2023,Volvo,C40
-348,"479,000 kr",Företag,El,Automat,"  3,780 ",2022,SUV,Fyrhjulsdriven,414,Vit,,18/3/2022,Volvo,C40
-349,"539,800 kr",Företag,El,Automat,"  2,350 ",2023,SUV,Fyrhjulsdriven,414,Vit,,15/11/2022,Volvo,C40
-350,"494,900 kr",Företag,El,Automat,"  2,919 ",2022,Sedan,Fyrhjulsdriven,408,Röd (Fusion Red Metallic),,29/11/2021,Volvo,C40
-351,"237,200 kr",Företag,Bensin,Manuell,"  4,483 ",2021,SUV,Tvåhjulsdriven,131,Grå,1477,30/4/2021,Volvo,XC40
-352,"23,000 kr",Privat,Bensin,Automat,"  35,017 ",2004,Sedan,Tvåhjulsdriven,141,Grå,2435,3/7/2003,Volvo,S60
-353,"58,900 kr",Företag,Bensin,Automat,"  16,060 ",2006,Kombi,Tvåhjulsdriven,141,Blå,2435,5/7/2005,Volvo,V50
-354,"49,999 kr",Företag,Bensin,Manuell,"  25,999 ",1993,Sedan,Tvåhjulsdriven,116,Vit,,23/4/1993,Volvo,940
-355,"169,900 kr",Företag,Bensin,Manuell,"  9,036 ",2018,Halvkombi,Tvåhjulsdriven,153,Vit,1969,27/4/2018,Volvo,V40 Cross Country
-356,"9,500 kr",Privat,Bensin,Manuell,"  17,429 ",2004,Kombi,Tvåhjulsdriven,123,Grå,1783,18/7/2003,Volvo,V40
-357,"39,900 kr",Privat,Bensin,Automat,"  23,888 ",2001,Kombi,Tvåhjulsdriven,200,Grön,2435,6/12/2000,Volvo,V70
-358,"64,500 kr",Privat,Bensin,Manuell,"  29,124 ",1998,Sedan,Tvåhjulsdriven,165,Blå,2316,13/2/1998,Volvo,940
-359,"75,000 kr",Privat,Bensin,Manuell,"  9,434 ",1982,Sedan,Tvåhjulsdriven,112,Röd,2316,19/10/1981,Volvo,240
-360,"89,900 kr",Företag,Bensin,Automat,"  24,598 ",2008,Kombi,Fyrhjulsdriven,238,Svart,3192,27/11/2007,Volvo,XC70
-361,"17,000 kr",Privat,Bensin,Manuell,"  30,718 ",1997,Kombi,Tvåhjulsdriven,135,Röd,2316,30/8/1996,Volvo,940
-362,"229,000 kr",Företag,Bensin,Automat,"  11,955 ",2019,Kombi,Tvåhjulsdriven,192,Mörkbrun (Brun),1969,25/4/2019,Volvo,V90
-363,"229,000 kr",Företag,Bensin,Automat,"  15,453 ",2020,Kombi,Tvåhjulsdriven,192,Vit,1969,20/9/2019,Volvo,V60
-364,"43,000 kr",Privat,Bensin,Automat,"  25,539 ",2007,Kombi,Tvåhjulsdriven,170,Svart,2435,19/9/2006,Volvo,V70
-365,"24,500 kr",Privat,Bensin,Automat,"  28,100 ",2000,Kombi,Fyrhjulsdriven,194,Grå,2435,13/7/2022,Volvo,V70
-366,"17,900 kr",Privat,Bensin,Automat,"  44,827 ",2002,Kombi,Tvåhjulsdriven,251,Svart,2319,20/11/2001,Volvo,V70
-367,"238,900 kr",Företag,Bensin,Manuell,"  6,792 ",2020,SUV,Tvåhjulsdriven,164,Vit,1477,30/3/2020,Volvo,XC40
-368,"379,000 kr",Företag,Bensin,Automat,"  3,090 ",2020,SUV,Fyrhjulsdriven,251,Mörkblå (Blå),1969,28/10/2019,Volvo,XC60
-369,"339,400 kr",Företag,Bensin,Automat,"  5,441 ",2019,Sedan,Tvåhjulsdriven,251,Grå,1969,9/4/2019,Volvo,S60
-370,"184,500 kr",Företag,Bensin,Automat,"  9,400 ",2018,Familjebuss,Tvåhjulsdriven,153,Silver,1498,7/3/2018,Volvo,V40
-371,"338,800 kr",Företag,Bensin,Automat,"  8,000 ",2020,Kombi,Tvåhjulsdriven,253,Vit,1969,8/11/2019,Volvo,V60
-372,"29,867 kr",Företag,Bensin,Automat,"  28,435 ",2002,Kombi,Tvåhjulsdriven,170,Ljusgrå (Silvermetallic),2435,4/3/2002,Volvo,V70
-373,"9,900 kr",Företag,Bensin,Manuell,"  16,900 ",1998,Sedan,Tvåhjulsdriven,105,Mörkgrön (Grön),,23/6/1998,Volvo,S40
-374,"22,000 kr",Privat,Bensin,Manuell,"  26,271 ",2002,Kombi,Tvåhjulsdriven,141,Blå,2435,10/4/2002,Volvo,V70
-375,"39,900 kr",Företag,Bensin,Automat,"  24,100 ",2004,Kombi,Tvåhjulsdriven,170,Svart,2435,17/6/2004,Volvo,V70
-376,"562,300 kr",Företag,Bensin,Automat,  -   ,2024,SUV,Fyrhjulsdriven,253,Silver,1969,,Volvo,V90 Cross Country
-377,"439,900 kr",Företag,Bensin,Automat,"  2,351 ",2022,SUV,Tvåhjulsdriven,253,Silver,1969,3/1/2022,Volvo,XC60
-378,"279,000 kr",Företag,Bensin,Automat,"  10,419 ",2019,Kombi,Tvåhjulsdriven,253,Svart,1969,8/1/2019,Volvo,V60
-379,"94,900 kr",Företag,Bensin,Manuell,"  22,233 ",2011,Kombi,Tvåhjulsdriven,180,Vit,1596,26/5/2011,Volvo,V70
-380,"169,900 kr",Företag,Bensin,Automat,"  16,682 ",2012,Sedan,Fyrhjulsdriven,305,Röd,2953,6/2/2012,Volvo,S60
-381,"315,000 kr",Privat,Bensin,Automat,"  8,775 ",2018,Sedan,Tvåhjulsdriven,262,Svart,1969,18/6/2018,Volvo,S90
-382,"65,000 kr",Företag,Bensin,Manuell,"  13,400 ",2007,Sedan,Tvåhjulsdriven,141,Blå,2435,11/12/2006,Volvo,S60
-383,"48,000 kr",Privat,Bensin,Manuell,"  23,232 ",1994,Kombi,Tvåhjulsdriven,116,Vit,2316,17/5/1994,Volvo,940
-384,"489,900 kr",Företag,Bensin,Automat,"  9,625 ",2018,SUV,Fyrhjulsdriven,320,Vit,1969,27/3/2018,Volvo,XC90
-385,"13,000 kr",Privat,Bensin,Manuell,"  34,019 ",2007,Sedan,Tvåhjulsdriven,141,Blå,2435,10/8/2006,Volvo,S40
-386,"399,000 kr",Företag,Bensin,Automat,  603 ,2024,Kombi,Tvåhjulsdriven,200,Grå,1969,30/6/2023,Volvo,V60
-387,"334,000 kr",Företag,Bensin,Automat,"  4,392 ",2021,Sedan,Tvåhjulsdriven,253,Mörkblå (Blå),1969,18/9/2020,Volvo,S60
-388,"64,900 kr",Företag,Bensin,Automat,"  26,029 ",2006,Kombi,Fyrhjulsdriven,210,Grå,2521,19/8/2005,Volvo,XC70
-389,"79,900 kr",Företag,Bensin,Manuell,"  19,300 ",2008,Kombi,Tvåhjulsdriven,146,Ljusblå (Blå),1999,20/12/2007,Volvo,V70
-390,"59,900 kr",Företag,Bensin,Manuell,"  23,060 ",2006,Kombi,Fyrhjulsdriven,210,Ljusbrun (Brun),2521,5/10/2005,Volvo,XC70
-391,"29,900 kr",Företag,Bensin,Automat,"  26,500 ",2002,Kombi,Tvåhjulsdriven,170,Grön,2435,4/9/2002,Volvo,V70
-392,"109,900 kr",Företag,Bensin,Manuell,"  17,045 ",2013,Kombi,Tvåhjulsdriven,150,Ljusgrå,1596,21/12/2012,Volvo,V60
-393,"539,900 kr",Företag,Bensin,Automat,  -   ,2024,Kombi,Fyrhjulsdriven,253,Grå,1969,,Volvo,V60 Cross Country
-394,"21,900 kr",Privat,Bensin,Manuell,"  28,665 ",2002,Kombi,Tvåhjulsdriven,141,Grön,2435,27/5/2002,Volvo,V70
-395,"32,000 kr",Privat,Bensin,Manuell,"  40,330 ",1996,Kombi,Tvåhjulsdriven,135,Grå,2316,13/12/1995,Volvo,940
-396,"26,000 kr",Privat,Bensin,Manuell,"  27,056 ",2001,Kombi,Tvåhjulsdriven,141,Grön,2435,19/12/2000,Volvo,V70
-397,"229,800 kr",Företag,Bensin,Automat,"  5,168 ",2019,Halvkombi,Tvåhjulsdriven,153,Silver,1498,27/3/2019,Volvo,V40 Cross Country
-398,"94,800 kr",Företag,Bensin,Automat,"  25,472 ",2016,Halvkombi,Tvåhjulsdriven,123,Svart,1498,25/6/2015,Volvo,V40
-399,"13,000 kr",Privat,Bensin,Manuell,"  24,265 ",2001,Sedan,Tvåhjulsdriven,170,Gul,2435,6/6/2001,Volvo,S60
-400,"25,000 kr",Privat,Bensin,Manuell,"  28,661 ",2004,Kombi,Tvåhjulsdriven,141,Grå,2435,4/12/2003,Volvo,V70
-401,"185,000 kr",Privat,Bensin,Automat,"  7,575 ",2009,Cab,Tvåhjulsdriven,253,Röd,2521,4/7/2009,Volvo,C70
-402,"27,500 kr",Privat,Bensin,Manuell,"  12,273 ",1998,Sedan,Tvåhjulsdriven,141,Grå,1948,8/5/1998,Volvo,S40
-403,"14,000 kr",Privat,Bensin,Manuell,"  28,235 ",2000,Kombi,Tvåhjulsdriven,170,Röd,2435,21/10/1999,Volvo,V70
-404,"345,000 kr",Privat,Bensin,Automat,"  5,300 ",2020,Sedan,Tvåhjulsdriven,251,Grå,1969,29/7/2019,Volvo,S60
-405,"45,000 kr",Privat,Bensin,Automat,"  28,062 ",2008,Kombi,Tvåhjulsdriven,200,Brun,2521,17/9/2007,Volvo,V70
-406,"25,000 kr",Privat,Bensin,Manuell,"  28,468 ",2000,Kombi,Tvåhjulsdriven,141,Röd,2435,3/11/1999,Volvo,V70
-407,"18,000 kr",Privat,Bensin,Manuell,"  33,000 ",1994,Kombi,Tvåhjulsdriven,116,Röd,2316,24/8/1993,Volvo,940
-408,"40,000 kr",Privat,Bensin,Manuell,"  20,598 ",2007,Kombi,Fyrhjulsdriven,221,Röd,2521,21/9/2006,Volvo,V50
-409,"6,000 kr",Privat,Bensin,Manuell,"  27,000 ",2005,Sedan,Tvåhjulsdriven,170,Svart,2435,8/9/2004,Volvo,S40
-410,"14,000 kr",Privat,Bensin,Manuell,"  38,977 ",1995,Sedan,Tvåhjulsdriven,145,Blå,2435,27/2/1995,Volvo,850
-411,"20,000 kr",Privat,Bensin,Manuell,"  21,076 ",2005,Kombi,Tvåhjulsdriven,101,Grå,1596,20/4/2005,Volvo,V50
-412,"53,900 kr",Privat,Bensin,Automat,"  15,868 ",2005,Sedan,Fyrhjulsdriven,210,Röd,2521,27/5/2005,Volvo,S80
-413,"65,000 kr",Privat,Bensin,Manuell,"  11,377 ",1998,Kombi,Fyrhjulsdriven,194,Röd,2435,27/6/1997,Volvo,V70
-414,"38,500 kr",Privat,Bensin,Automat,"  24,255 ",2002,Sedan,Tvåhjulsdriven,200,Grå,2435,6/6/2002,Volvo,S80
-415,"30,000 kr",Privat,Bensin,Manuell,"  19,134 ",2006,Kombi,Tvåhjulsdriven,141,Blå,2435,2/9/2005,Volvo,V50
-416,"32,000 kr",Privat,Bensin,Manuell,"  14,280 ",2003,Kombi,Tvåhjulsdriven,141,Grå,2435,3/10/2002,Volvo,V70
-417,"21,000 kr",Privat,Bensin,Manuell,"  28,559 ",1999,Kombi,Tvåhjulsdriven,165,Grå,2435,13/11/1998,Volvo,V70
-418,"25,000 kr",Privat,Bensin,Manuell,"  32,782 ",2005,Kombi,Tvåhjulsdriven,170,Blå,2435,2/9/2004,Volvo,V70
-419,"125,000 kr",Privat,Bensin,Manuell,"  15,830 ",2011,Sedan,Tvåhjulsdriven,241,Vit,1999,16/4/2014,Volvo,S60
-420,"30,000 kr",Privat,Bensin,Manuell,"  32,133 ",2001,Kombi,Tvåhjulsdriven,200,Grön,2435,5/6/2001,Volvo,V70
-421,"15,000 kr",Privat,Bensin,Manuell,"  35,634 ",2004,Kombi,Tvåhjulsdriven,210,Grå,2521,23/12/2003,Volvo,V70
-422,"21,500 kr",Privat,Bensin,Manuell,"  34,275 ",2006,Kombi,Tvåhjulsdriven,170,Brun,2435,21/6/2006,Volvo,V70
-423,"42,000 kr",Privat,Bensin,Manuell,"  29,070 ",2006,Kombi,Tvåhjulsdriven,141,Grå,2435,30/9/2005,Volvo,V70
-424,"9,500 kr",Privat,Bensin,Manuell,"  39,789 ",2005,Kombi,Tvåhjulsdriven,141,Grön,2435,17/12/2004,Volvo,V70
-425,"56,000 kr",Privat,Bensin,Automat,"  29,576 ",2005,SUV,Fyrhjulsdriven,210,Grå,2521,4/4/2005,Volvo,XC90
-426,"16,000 kr",Privat,Bensin,Manuell,"  32,847 ",2000,Kombi,Tvåhjulsdriven,141,Grå,2435,27/3/2000,Volvo,V70
-427,"26,500 kr",Privat,Bensin,Manuell,"  21,586 ",2006,Kombi,Tvåhjulsdriven,126,Grå,1798,22/11/2005,Volvo,V50
-428,"19,000 kr",Privat,Bensin,Manuell,"  32,200 ",1999,Sedan,Tvåhjulsdriven,127,Blå,1984,18/12/1998,Volvo,S70
-429,"17,000 kr",Privat,Bensin,Manuell,"  36,692 ",2004,Sedan,Tvåhjulsdriven,210,Svart,2521,2/6/2003,Volvo,S60
-430,"9,900 kr",Privat,Bensin,Manuell,"  36,000 ",2003,Sedan,Tvåhjulsdriven,200,Gul,1948,6/12/2002,Volvo,S40
-431,"219,900 kr",Företag,Bensin,Automat,"  8,602 ",2016,Kombi,Tvåhjulsdriven,191,Vit,1969,13/10/2015,Volvo,V70
-432,"329,000 kr",Företag,Bensin,Automat,"  4,309 ",2021,SUV,Fyrhjulsdriven,198,Vit,1969,13/1/2021,Volvo,XC40
-433,"29,900 kr",Företag,Bensin,Manuell,"  20,600 ",2004,Kombi,Tvåhjulsdriven,164,Grå,1948,11/7/2003,Volvo,V40
-434,"27,000 kr",Privat,Bensin,Manuell,"  22,195 ",2004,Sedan,Tvåhjulsdriven,141,Brun,2435,23/9/2003,Volvo,S80
-435,"75,000 kr",Privat,Bensin,Automat,"  25,306 ",2007,Sedan,Tvåhjulsdriven,200,Grå,2521,5/10/2006,Volvo,S80
-436,"13,000 kr",Privat,Bensin,Manuell,"  38,000 ",2001,Kombi,Tvåhjulsdriven,141,Grön,2435,3/11/2000,Volvo,V70
-437,"22,000 kr",Privat,Bensin,Automat,"  28,311 ",2001,Sedan,Tvåhjulsdriven,141,Grå,2435,6/9/2001,Volvo,S80
-438,"320,000 kr",Privat,Bensin,Automat,"  9,800 ",2019,Kombi,Fyrhjulsdriven,310,Svart,1969,28/6/2018,Volvo,V60
-439,"42,000 kr",Privat,Bensin,Automat,"  26,270 ",2006,Kombi,Tvåhjulsdriven,170,Brun,2435,30/12/2005,Volvo,V70
-440,"279,900 kr",Företag,Bensin,Automat,"  4,632 ",2021,SUV,Tvåhjulsdriven,130,Vit (Ice Vit),1477,18/12/2020,Volvo,XC40
-441,"13,000 kr",Privat,Bensin,Automat,"  29,023 ",2001,Kombi,Fyrhjulsdriven,200,Brun,2435,19/10/2001,Volvo,XC70
-442,"69,900 kr",Företag,Bensin,Automat,"  16,836 ",2006,Kombi,Tvåhjulsdriven,141,Grå,2435,18/8/2006,Volvo,V70
-443,"459,000 kr",Företag,Bensin,Automat,"  5,867 ",2019,Kombi,Fyrhjulsdriven,304,Blå,1969,23/11/2018,Volvo,XC60
-444,"309,000 kr",Företag,Bensin,Automat,"  3,331 ",2022,SUV,Tvåhjulsdriven,165,Mörkblå (Blå),1477,31/5/2022,Volvo,XC40
-445,"16,000 kr",Privat,Bensin,Manuell,"  25,600 ",2001,Sedan,Tvåhjulsdriven,141,Gul,2435,29/5/2001,Volvo,S60
-446,"12,499 kr",Privat,Bensin,Manuell,"  29,409 ",2006,Kombi,Tvåhjulsdriven,141,Grå,2435,31/10/2005,Volvo,V70
-447,"9,500 kr",Privat,Bensin,Manuell,"  35,927 ",1999,Kombi,Fyrhjulsdriven,194,Röd,2435,24/3/1999,Volvo,XC70
-448,"25,000 kr",Privat,Bensin,Manuell,"  19,902 ",2005,Kombi,Tvåhjulsdriven,126,Blå,1798,10/5/2005,Volvo,V50
-449,"22,000 kr",Privat,Bensin,Manuell,"  36,000 ",2005,Kombi,Tvåhjulsdriven,141,Grå,2435,13/12/2004,Volvo,V70
-450,"12,000 kr",Privat,Bensin,Manuell,"  36,062 ",1999,Kombi,Tvåhjulsdriven,145,Grå,2435,29/12/1998,Volvo,V70
-451,"329,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  7,017 ",2021,Kombi,Fyrhjulsdriven,340,Svart,1969,5/10/2020,Volvo,V60
-452,"324,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  9,335 ",2021,SUV,Tvåhjulsdriven,211,Svart,1477 ,9/2/2021,Volvo,XC40
-453,"399,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  8,437 ",2020,SUV,Fyrhjulsdriven,391,Vit (White),1969,26/5/2020,Volvo,XC60
-454,"379,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  6,948 ",2021,SUV,Fyrhjulsdriven,340,Vit (White),1969,16/10/2020,Volvo,XC60
-455,"299,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  9,960 ",2020,Kombi,Fyrhjulsdriven,391,Svart (Black),1969,9/9/2019,Volvo,V60
-456,"639,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  1,095 ",2024,Kombi,Fyrhjulsdriven,463,Grå,1969,16/6/2023,Volvo,V60
-457,"639,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  7,545 ",2021,SUV,Fyrhjulsdriven,396,Svart,1969,12/10/2020,Volvo,XC90
-458,"32,500 kr",Privat,Miljöbränsle/Hybrid,,"  23,500 ",2007,Kombi,Tvåhjulsdriven,141,Blå,2435,8/6/2007,Volvo,V70
-459,"328,500 kr",Företag,Miljöbränsle/Hybrid,Automat,"  4,000 ",2020,Kombi,Fyrhjulsdriven,344,Vit,1969,30/12/2019,Volvo,V60
-460,"574,500 kr",Företag,Miljöbränsle/Hybrid,Automat,"  1,178 ",2024,Kombi,Fyrhjulsdriven,404,Grå,1969,3/7/2023,Volvo,V90
-461,"339,500 kr",Företag,Miljöbränsle/Hybrid,Automat,"  7,708 ",2021,Kombi,Fyrhjulsdriven,344,Grå,1969,17/12/2020,Volvo,V60
-462,"49,900 kr",Företag,Miljöbränsle/Hybrid,Manuell,"  22,000 ",2010,Kombi,Tvåhjulsdriven,126,Ljusgrå (Grå),1798,17/2/2009,Volvo,V50
-463,"469,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  8,120 ",2021,Kombi,Fyrhjulsdriven,344,Svart,1969,30/3/2021,Volvo,V90
-464,"789,000 kr",Företag,Miljöbränsle/Hybrid,Automat,  274 ,2024,SUV,Fyrhjulsdriven,463,Grå,1969,19/12/2023,Volvo,XC60
-465,"559,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  5,523 ",2023,SUV,Fyrhjulsdriven,404,Silver,1969 ,11/7/2022,Volvo,XC60
-466,"89,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  16,169 ",2010,Kombi,Tvåhjulsdriven,146,Grå,1999,10/5/2010,Volvo,V70
-467,"714,900 kr",Företag,Miljöbränsle/Hybrid,Automat,  -   ,2023,Sedan,Fyrhjulsdriven,463,Mörkblå (Blå),1969,,Volvo,S90
-468,"189,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  14,219 ",2016,Kombi,Fyrhjulsdriven,232,Grå,2400,29/4/2016,Volvo,V60
-469,"579,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  3,200 ",2023,Kombi,Fyrhjulsdriven,399,Silver,1969,10/2/2023,Volvo,V90
-470,"359,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  8,424 ",2020,Kombi,Fyrhjulsdriven,392,Vit,1969,18/6/2019,Volvo,V60
-471,"434,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  8,485 ",2020,SUV,Fyrhjulsdriven,391,Grå,1969,10/9/2019,Volvo,XC60
-472,"420,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  14,650 ",2018,SUV,Fyrhjulsdriven,407,Vit,1969,17/11/2017,Volvo,XC90
-473,"775,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  4,100 ",2021,SUV,Fyrhjulsdriven,391,Svart,1969,27/11/2020,Volvo,XC90
-474,"469,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  6,000 ",2020,SUV,Fyrhjulsdriven,253,Grå,1969,5/5/2021,Volvo,XC60
-475,"439,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  6,949 ",2020,SUV,Fyrhjulsdriven,391,Svart,1969,10/3/2020,Volvo,XC60
-476,"439,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  4,777 ",2022,Sedan,Fyrhjulsdriven,396,Svart,1969,8/4/2022,Volvo,S60
-477,"704,800 kr",Företag,Miljöbränsle/Hybrid,Automat,  300 ,2024,Sedan,Fyrhjulsdriven,463,Grå,1969,15/3/2024,Volvo,S60
-478,"334,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  5,269 ",2021,Kombi,Fyrhjulsdriven,253,Svart,1969,13/11/2020,Volvo,V60
-479,"329,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  6,713 ",2021,Kombi,Fyrhjulsdriven,253,Svart,1969,10/12/2020,Volvo,V60
-480,"549,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  6,356 ",2023,SUV,Fyrhjulsdriven,404,Grå,1969,25/10/2022,Volvo,XC60
-481,"699,900 kr",Företag,Miljöbränsle/Hybrid,Automat,  -   ,2024,SUV,Fyrhjulsdriven,399,Silver,1969,28/12/2023,Volvo,XC60
-482,"39,700 kr",Företag,Miljöbränsle/Hybrid,Manuell,"  21,000 ",2007,Halvkombi,Tvåhjulsdriven,126,Blå,1798,8/3/2007,Volvo,C30
-483,"114,800 kr",Företag,Miljöbränsle/Hybrid,Automat,"  22,000 ",2012,Kombi,Tvåhjulsdriven,180,Silver (Grå),1596,24/2/2012,Volvo,V70
-484,"359,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  11,375 ",2020,Sedan,Fyrhjulsdriven,398,Röd,1969,10/7/2020,Volvo,S60
-485,"565,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  8,699 ",2019,SUV,Fyrhjulsdriven,391,Vit (Chrystallwhitemetallic),1969,7/12/2018,Volvo,XC90
-486,"62,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  28,441 ",2011,Kombi,Tvåhjulsdriven,232,Grå,2521,11/11/2010,Volvo,V70
-487,"679,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  9,827 ",2022,SUV,Fyrhjulsdriven,391,Svart,1969,22/12/2021,Volvo,XC90
-488,"25,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  30,071 ",2007,Kombi,Tvåhjulsdriven,141,Blå,2435,28/9/2006,Volvo,V70
-489,"429,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  7,083 ",2021,SUV,Fyrhjulsdriven,344,Mörkgrå (Grå),1969 ,28/12/2020,Volvo,XC60
-490,"469,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  4,159 ",2021,SUV,Fyrhjulsdriven,344,Mörkblå (Blå),1969,17/12/2020,Volvo,XC60
-491,"469,500 kr",Företag,Miljöbränsle/Hybrid,Automat,"  2,860 ",2023,Kombi,Fyrhjulsdriven,404,Silver,1969,29/12/2022,Volvo,V60
-492,"499,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  3,100 ",2022,Kombi,Fyrhjulsdriven,404,Grå,1969,11/5/2022,Volvo,V90
-493,"419,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  12,000 ",2021,SUV,Fyrhjulsdriven,344,Blå,1969,5/11/2020,Volvo,XC60
-494,"469,500 kr",Företag,Miljöbränsle/Hybrid,Automat,"  7,800 ",2020,SUV,Fyrhjulsdriven,396,Röd,1969,12/10/2020,Volvo,XC60
-495,"359,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  7,625 ",2020,Kombi,Fyrhjulsdriven,392,Grå (Savile Grey Metallic),1969,2/3/2020,Volvo,V60
-496,"419,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  4,023 ",2022,Kombi,Fyrhjulsdriven,344,Svart,1969,30/6/2021,Volvo,V60
-497,"414,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  7,639 ",2020,SUV,Fyrhjulsdriven,396,Svart,1969,6/8/2020,Volvo,XC60
-498,"429,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  8,426 ",2021,SUV,Fyrhjulsdriven,344,Mörkblå (Blå),1969,21/12/2020,Volvo,XC60
-499,"389,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  7,781 ",2020,SUV,Tvåhjulsdriven,266,Svart,1477,11/6/2020,Volvo,XC40
-500,"519,500 kr",Företag,Miljöbränsle/Hybrid,Automat,"  6,291 ",2021,SUV,Fyrhjulsdriven,396,Mörkgrå (Grå),1969,25/3/2021,Volvo,XC60
-501,"22,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  19,513 ",2006,Sedan,Tvåhjulsdriven,126,Silver,1798,3/5/2006,Volvo,S40
-502,"30,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  22,500 ",2008,Sedan,Tvåhjulsdriven,126,Blå,1798,3/3/2008,Volvo,V50
-503,"70,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  28,000 ",2009,Kombi,Tvåhjulsdriven,200,Svart,2521 ,27/4/2009,Volvo,V70
-504,"55,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  22,080 ",2009,Kombi,Tvåhjulsdriven,146,Brun,1999,30/4/2009,Volvo,V70
-505,"68,500 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  26,761 ",2011,Kombi,Tvåhjulsdriven,232,Röd,2521,23/5/2011,Volvo,V70
-506,"28,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  27,878 ",2010,Kombi,Tvåhjulsdriven,146,Svart,1999,4/3/2010,Volvo,V50
-507,"120,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  16,080 ",2012,Kombi,Tvåhjulsdriven,180,Svart,1596,1/3/2012,Volvo,V60
-508,"179,999 kr",Privat,Miljöbränsle/Hybrid,Automat,"  10,404 ",2016,Kombi,Tvåhjulsdriven,245,Vit,1969,8/1/2016,Volvo,V60
-509,"6,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  37,000 ",2005,Sedan,Tvåhjulsdriven,141,Blå,2435,18/1/2005,Volvo,S60
-510,"139,900 kr",Privat,Miljöbränsle/Hybrid,Automat,"  24,990 ",2013,Kombi,Fyrhjulsdriven,283,Silver,2400,1/3/2013,Volvo,V60
-511,"36,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  17,290 ",2009,Kombi,Tvåhjulsdriven,126,Svart,1798,3/4/2009,Volvo,V50
-512,"215,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  11,408 ",2018,Kombi,Fyrhjulsdriven,232,Silver,2400,8/8/2018,Volvo,V60
-513,"40,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  18,259 ",2009,Kombi,Tvåhjulsdriven,126,Brun,1798,28/8/2008,Volvo,V50
-514,"99,999 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  20,706 ",2012,Kombi,Tvåhjulsdriven,180,Brun,1596,7/10/2011,Volvo,V60
-515,"31,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  27,176 ",2006,Sedan,Tvåhjulsdriven,141,Vit,2435,12/5/2006,Volvo,S60
-516,"40,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  34,977 ",2012,Kombi,Tvåhjulsdriven,232,Svart,2521,10/4/2012,Volvo,V70
-517,"255,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  11,697 ",2018,Kombi,Tvåhjulsdriven,253,Svart,1969,24/5/2018,Volvo,V90
-518,"160,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  16,700 ",2016,Kombi,Fyrhjulsdriven,232,Vit,2400,24/11/2021,Volvo,V60
-519,"240,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  10,321 ",2016,Kombi,Fyrhjulsdriven,298,Silver,2400,16/9/2016,Volvo,V60
-520,"200,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  17,896 ",2011,Kombi,Tvåhjulsdriven,232,Blå,2521,2/5/2011,Volvo,V70
-521,"75,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  30,000 ",2011,Kombi,Tvåhjulsdriven,232,Vit,2521,8/10/2010,Volvo,V70
-522,"95,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  29,000 ",2005,Sedan,Tvåhjulsdriven,260,Svart,2401,11/5/2005,Volvo,S60
-523,"590,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  1,800 ",2022,Sedan,Fyrhjulsdriven,391,Silver,1969,22/9/2022,Volvo,S90
-524,"19,900 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  32,240 ",2007,Kombi,Tvåhjulsdriven,141,Grå,2435,5/3/2007,Volvo,V70
-525,"379,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  15,996 ",2017,SUV,Fyrhjulsdriven,407,Brun,1969,14/12/2016,Volvo,XC90
-526,"32,900 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  24,814 ",2006,Kombi,Tvåhjulsdriven,141,Grön,2435,26/5/2006,Volvo,V70
-527,"64,900 kr",Privat,Miljöbränsle/Hybrid,Automat,"  27,100 ",2010,Kombi,Tvåhjulsdriven,232,Röd,2521,7/5/2010,Volvo,V70
-528,"43,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  17,644 ",2007,Kombi,Tvåhjulsdriven,126,Blå,1798,15/12/2006,Volvo,V50
-529,"47,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  28,031 ",2009,Kombi,Tvåhjulsdriven,146,Vit,1999,26/2/2009,Volvo,V70
-530,"435,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  12,268 ",2017,SUV,Fyrhjulsdriven,407,Svart,1969,21/10/2016,Volvo,XC90
-531,"55,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  18,604 ",2010,Kombi,Tvåhjulsdriven,146,Grå,1999,31/8/2009,Volvo,V70
-532,"20,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  30,229 ",2006,Kombi,Tvåhjulsdriven,141,Grön,2435,31/5/2006,Volvo,V70
-533,"50,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  20,000 ",2009,Kombi,Tvåhjulsdriven,146,Grå,1999,5/8/2009,Volvo,V70
-534,"348,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  16,705 ",2018,SUV,Fyrhjulsdriven,408,Silver,1969,27/3/2018,Volvo,XC60
-535,"597,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  8,395 ",2020,SUV,Fyrhjulsdriven,391,Svart,1969,25/6/2020,Volvo,XC90
-536,"555,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  1,300 ",2024,SUV,Fyrhjulsdriven,399,Grå,1969,12/6/2023,Volvo,XC60
-537,"89,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  25,425 ",2012,Kombi,Tvåhjulsdriven,180,Röd,1596,9/6/2011,Volvo,V70
-538,"20,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  30,000 ",2007,Sedan,Tvåhjulsdriven,126,Silver,1798,30/12/2005,Volvo,S40
-539,"39,900 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  33,203 ",2009,Kombi,Tvåhjulsdriven,146,Grå,1999,12/6/2008,Volvo,V70
-540,"29,500 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  24,814 ",2008,Kombi,Tvåhjulsdriven,126,Grön,1798,12/11/2007,Volvo,V50
-541,"35,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  31,049 ",2008,Kombi,Tvåhjulsdriven,146,Brun,1999,11/1/2008,Volvo,V70
-542,"95,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  24,170 ",2012,Kombi,Tvåhjulsdriven,180,Röd,1596,17/1/2012,Volvo,V60
-543,"70,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  31,291 ",2010,Kombi,Tvåhjulsdriven,232,Svart,2521,3/3/2010,Volvo,V70
-544,"74,900 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  21,149 ",2010,Kombi,Tvåhjulsdriven,146,Grå,1999,26/2/2010,Volvo,V70
-545,"12,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  35,255 ",2008,Kombi,Tvåhjulsdriven,146,Röd,1999,15/5/2008,Volvo,V70
-546,"360,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  10,645 ",2020,Kombi,Fyrhjulsdriven,391,Vit,1969,22/1/2020,Volvo,V90
-547,"35,900 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  23,837 ",2007,Kombi,Tvåhjulsdriven,141,Svart,2435,4/5/2007,Volvo,V70
-548,"65,000 kr",Privat,Miljöbränsle/Hybrid,Automat,"  19,395 ",2010,Kombi,Tvåhjulsdriven,146,Brun,1999,1/10/2009,Volvo,V70
-549,"124,900 kr",Privat,Miljöbränsle/Hybrid,Automat,"  15,612 ",2012,Kombi,Tvåhjulsdriven,180,Brun,1596,4/6/2012,Volvo,V60
-550,"42,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  31,606 ",2006,Kombi,Tvåhjulsdriven,141,Brun,2435,24/10/2005,Volvo,V70
-551,"38,000 kr",Privat,Miljöbränsle/Hybrid,Manuell,"  21,830 ",2009,Kombi,Tvåhjulsdriven,126,Blå,1798,15/9/2008,Volvo,V50
-552,"400,000 kr",Privat,El,Automat,"  2,601 ",2023,SUV,Tvåhjulsdriven,232,Svart,,10/11/2022,Volvo,XC40
-553,"429,900 kr",Privat,El,Automat,  650 ,2023,SUV,Tvåhjulsdriven,232,Vit,,30/12/2022,Volvo,C40
-554,"499,000 kr",Privat,El,Automat,"  3,400 ",2023,SUV,Tvåhjulsdriven,232,Silver,,8/12/2022,Volvo,C42
-555,"460,000 kr",Privat,El,Automat,  3 ,2023,SUV,Fyrhjulsdriven,231,Silver,,,Volvo,XC40
-556,"479,000 kr",Privat,El,Automat,  169 ,2022,SUV,Tvåhjulsdriven,232,Svart,,2/6/2022,Volvo,XC40
-557,"410,000 kr",Privat,El,Automat,"  1,800 ",2023,SUV,Tvåhjulsdriven,232,Svart,,28/12/2022,Volvo,XC40
-558,"519,000 kr",Privat,El,Automat,"  2,050 ",2022,SUV,Fyrhjulsdriven,408,Röd,,10/12/2021,Volvo,XC40
-559,"435,000 kr",Privat,El,Automat,"  2,700 ",2023,SUV,Tvåhjulsdriven,232,Grå,,7/2/2023,Volvo,XC40
-560,"569,900 kr",Privat,El,Automat,  100 ,2024,SUV,Tvåhjulsdriven,252,Grå,,,Volvo,XC40
-561,"499,900 kr",Företag,El,Automat,"  1,664 ",2023,SUV,Tvåhjulsdriven,234,Grå,,2/9/2022,Volvo,XC40
-562,"448,000 kr",Företag,El,Automat,  600 ,2023,SUV,Tvåhjulsdriven,234,Blå,,16/12/2022,Volvo,XC40
-563,"440,900 kr",Företag,El,Automat,"  2,181 ",2023,SUV,Tvåhjulsdriven,232,Svart,,17/11/2022,Volvo,C40
-564,"539,500 kr",Företag,El,Automat,  15 ,2024,SUV,Tvåhjulsdriven,275,Vit,,14/2/2024,Volvo,EX30
-565,"629,900 kr",Företag,El,Automat,  130 ,2024,SUV,Tvåhjulsdriven,256,Vit,,11/9/2023,Volvo,XC40
-566,"479,900 kr",Företag,El,Automat,"  1,223 ",2023,SUV,Tvåhjulsdriven,234,Svart,,1/6/2023,Volvo,C40
-567,"484,900 kr",Företag,El,Automat,"  1,647 ",2023,SUV,Tvåhjulsdriven,234,Vit,,19/9/2022,Volvo,C40
-568,"599,900 kr",Företag,El,Automat,  -   ,2024,SUV,Fyrhjulsdriven,434,Ljusblå (Blå),,,Volvo,EX30
-569,"679,900 kr",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,256,Röd,,,Volvo,C40
-570,"459,900 kr",Företag,El,Automat,"  1,908 ",2023,SUV,Tvåhjulsdriven,234,Silver,,27/12/2022,Volvo,XC40
-571,"449,900 kr",Företag,El,Automat,"  2,200 ",2023,SUV,Tvåhjulsdriven,234,Vit,,14/10/2022,Volvo,C40
-572,"469,900 kr",Företag,El,Automat,"  4,293 ",2022,SUV,Fyrhjulsdriven,414,Blå,,4/4/2022,Volvo,C40
-573,"459,000 kr",Företag,El,Automat,"  1,689 ",2023,SUV,Tvåhjulsdriven,234,Grön,,28/12/2022,Volvo,C40
-574,"599,000 kr",Företag,El,Automat,"  1,432 ",2024,SUV,Tvåhjulsdriven,256,Svart,,23/8/2023,Volvo,C40
-575,"554,900 kr",Företag,El,Automat,"  2,247 ",2023,SUV,Fyrhjulsdriven,414,Silver,,30/9/2022,Volvo,C40
-576,"459,000 kr",Företag,El,Automat,  335 ,2023,SUV,Tvåhjulsdriven,335,Vit,,22/8/2023,Volvo,C40
-577,"519,000 kr",Företag,El,Automat,"  3,061 ",2022,SUV,Fyrhjulsdriven,414,Röd,,23/2/2022,Volvo,C40
-578,"459,000 kr",Företag,El,Automat,  682 ,2023,SUV,Tvåhjulsdriven,234,Svart,,17/2/2023,Volvo,C40
-579,"439,900 kr",Företag,El,Automat,"  5,274 ",2021,SUV,Fyrhjulsdriven,414,Röd,,1/4/2021,Volvo,XC40
-580,"599,900 kr",Företag,El,Automat,  472 ,2024,SUV,Fyrhjulsdriven,414,Svart,,2023-0-27,Volvo,C40
-581,"469,900 kr",Företag,El,Automat,"  3,923 ",2022,SUV,Tvåhjulsdriven,234,Grön,,6/4/2022,Volvo,XC40
-582,"589,900 kr",Företag,El,Automat,  552 ,2024,SUV,Tvåhjulsdriven,256,Silver,,30/8/2023,Volvo,C40
-583,"399,900 kr",Företag,El,Automat,"  8,688 ",2021,SUV,Fyrhjulsdriven,414,Grön,,17/3/2021,Volvo,XC40
-584,"629,000 kr",Företag,El,Automat,  138 ,2024,SUV,Fyrhjulsdriven,414,Vit,,1/9/2023,Volvo,XC40
-585,"559,900 kr",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Svart,,,Volvo,EX30
-586,"559,900 kr",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Vit,,,Volvo,EX30
-587,"619,900 kr",Företag,El,Automat,  508 ,2024,SUV,Fyrhjulsdriven,414,Grå,,23/8/2023,Volvo,XC40
-588,"449,900 kr",Företag,El,Automat,"  1,962 ",2023,SUV,Tvåhjulsdriven,234,Ljusgrå (Grå),,20/10/2022,Volvo,XC40
-589,"419,900 kr",Företag,El,Automat,"  5,093 ",2023,SUV,Tvåhjulsdriven,234,Svart,,,Volvo,XC40
-590,"469,900 kr",Företag,El,Automat,"  2,682 ",2022,SUV,Fyrhjulsdriven,414,Blå,,28/3/2022,Volvo,C40
-591,"439,900 kr",Företag,El,Automat,"  5,760 ",2021,SUV,Fyrhjulsdriven,414,Grå,,11/3/2021,Volvo,XC40
-592,"449,900 kr",Företag,El,Automat,"  4,258 ",2021,SUV,Fyrhjulsdriven,414,Blå,,11/3/2021,Volvo,XC40
-593,"589,900 kr",Företag,El,Automat,  501 ,2024,SUV,Tvåhjulsdriven,256,Blå,,15/9/2023,Volvo,XC40
-594,"549,900 kr",Företag,El,Automat,  221 ,2024,SUV,Tvåhjulsdriven,256,Silver,,6/9/2023,Volvo,XC40
-595,"479,900 kr",Företag,El,Automat,"  1,051 ",2023,SUV,Tvåhjulsdriven,234,Silver,,31/3/2023,Volvo,XC40
-596,"569,900 kr",Företag,El,Automat,  728 ,2024,SUV,Tvåhjulsdriven,256,Vit,,26/7/2023,Volvo,C40
-597,"400,000 kr",Företag,El,Automat,"  2,061 ",2023,SUV,Tvåhjulsdriven,232,Svart,,10/11/2022,Volvo,XC40
-598,"492,500 kr",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,272,Vit,,,Volvo,EX30
-599,"1,142,500 kr",Företag,El,Automat,  -   ,2025,SUV,,517,Silver,,,Volvo,EX90
-600,"499,500 kr",Företag,El,Automat,"  3,658 ",2022,SUV,Fyrhjulsdriven,414,Grå,,18/2/2022,Volvo,XC40
-601,"479,500 kr",Företag,El,Automat,"  2,999 ",2023,SUV,Tvåhjulsdriven,234,Svart,,6/3/2023,Volvo,XC40
-602,"477,900 kr",Företag,El,Automat,"  3,933 ",2021,SUV,Fyrhjulsdriven,408,Blå,,1/6/2021,Volvo,XC40
-603,"449,000 kr",Företag,El,Automat,"  3,305 ",2022,SUV,Tvåhjulsdriven,234,Vit,,8/2/2022,Volvo,XC40
-604,"489,000 kr",Företag,El,Automat,"  1,519 ",2023,SUV,Tvåhjulsdriven,234,Svart,,28/10/2022,Volvo,C40
-605,"588,900 kr",Företag,El,Automat,"  1,902 ",2024,SUV,Tvåhjulsdriven,256,Vit,,4/8/2023,Volvo,C40
-606,"438,900 kr",Företag,El,Automat,  550 ,2023,SUV,Tvåhjulsdriven,232,Svart,,21/4/2023,Volvo,XC40
-607,"509,000 kr",Företag,El,Automat,  100 ,2024,SUV,Tvåhjulsdriven,275,Grå,,14/2/2024,Volvo,EX30
-608,"529,900 kr",Företag,El,Automat,"  1,355 ",2023,SUV,Fyrhjulsdriven,414,Blå,,15/3/2023,Volvo,C40
-609,"469,500 kr",Företag,El,Automat,"  3,348 ",2022,SUV,Fyrhjulsdriven,414,Blå,,19/4/2022,Volvo,C40
-610,"489,900 kr",Företag,El,Automat,"  2,252 ",2023,SUV,Fyrhjulsdriven,414,Grön,,6/12/2022,Volvo,C40
-611,"479,000 kr",Företag,El,Automat,"  2,567 ",2022,SUV,Fyrhjulsdriven,414,Grå,,31/1/2022,Volvo,C40
-612,"529,000 kr",Företag,El,Automat,"  1,818 ",2023,SUV,Fyrhjulsdriven,414,Svart,,30/11/2022,Volvo,C40
-613,"649,000 kr",Företag,El,Automat,  716 ,2024,SUV,Fyrhjulsdriven,414,Silver,,14/8/2023,Volvo,C40
-614,"459,000 kr",Företag,El,Automat,"  2,164 ",2023,SUV,Tvåhjulsdriven,234,Grön,,27/12/2022,Volvo,C40
-615,"449,900 kr",Företag,El,Automat,"  5,541 ",2023,SUV,Fyrhjulsdriven,408,Grå,,1/3/2021,Volvo,XC40
-616,"620,000 kr",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,256,Svart,,,Volvo,XC40
-617,"581,100 kr",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Svart,,,Volvo,EX30
-618,"615,000 kr",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,256,Svart,,,Volvo,XC40
-619,"573,900 kr",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Grå,,,Volvo,EX30
-620,"489,900 kr",Företag,El,Automat,"  3,448 ",2023,SUV,Fyrhjulsdriven,414,Grå,,25/10/2022,Volvo,C40
-621,"624,900 kr",Företag,El,Automat,  1 ,2024,SUV,Tvåhjulsdriven,256,Grön,,,Volvo,XC40
-622,"673,000 kr",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,256,Svart,,,Volvo,C40
-623,"438,500 kr",Företag,El,Automat,"  1,925 ",2023,SUV,Tvåhjulsdriven,234,Svart,,20/12/2022,Volvo,XC40
-624,"545,000 kr",Företag,El,Automat,  150 ,2024,SUV,Tvåhjulsdriven,256,Ljusblå (Blå),,12/9/2023,Volvo,XC40
-625,"459,000 kr",Företag,El,Automat,"  4,806 ",2021,SUV,Fyrhjulsdriven,414,Grå,,29/4/2021,Volvo,XC40
-626,"514,000 kr",Företag,El,Automat,"  2,100 ",2023,SUV,Fyrhjulsdriven,414,Vit,,1/12/2022,Volvo,C40
-627,"459,900 kr",Företag,El,Automat,"  3,488 ",2022,SUV,Tvåhjulsdriven,234,Svart,,18/1/2022,Volvo,XC40
-628,"469,500 kr",Företag,El,Automat,"  1,304 ",2023,SUV,Tvåhjulsdriven,234,Blå,,12/9/2022,Volvo,C40
-629,"469,500 kr",Företag,El,Automat,"  1,223 ",2023,SUV,Tvåhjulsdriven,234,Grå,,29/9/2022,Volvo,C40
-630,"474,500 kr",Företag,El,Automat,"  1,942 ",2023,SUV,Tvåhjulsdriven,234,Silver,,3/12/2022,Volvo,XC40
-631,"559,500 kr",Företag,El,Automat,"  2,130 ",2023,SUV,Fyrhjulsdriven,414,Blå,,12/6/2023,Volvo,C40
-632,"469,500 kr",Företag,El,Automat,"  2,072 ",2023,SUV,Tvåhjulsdriven,234,Grön,,29/5/2023,Volvo,C40
-633,"539,500 kr",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Svart,,,Volvo,EX30
-634,"479,000 kr",Företag,El,Automat,"  3,289 ",2023,SUV,Tvåhjulsdriven,234,Svart,,24/11/2022,Volvo,C40
-635,"529,000 kr",Företag,El,Automat,  -   ,2023,SUV,Tvåhjulsdriven,234,Svart,,,Volvo,C40
-636,"619,900 kr",Företag,El,Automat,  528 ,2024,SUV,Fyrhjulsdriven,414,Vit,,13/12/2023,Volvo,C40
-637,"439,900 kr",Företag,El,Automat,  523 ,2023,SUV,Tvåhjulsdriven,234,Svart,,9/6/2023,Volvo,XC40
-638,"449,000 kr",Företag,El,Automat,"  2,301 ",2022,SUV,Tvåhjulsdriven,234,Grön,,21/3/2022,Volvo,XC40
-639,"439,000 kr",Företag,El,Automat,"  2,420 ",2023,SUV,Tvåhjulsdriven,234,Ljusgrå (Grå),,13/12/2022,Volvo,XC40
-640,"569,500 kr",Företag,El,Automat,  400 ,2023,SUV,Fyrhjulsdriven,414,Vit,,19/12/2022,Volvo,XC40
-641,"599,000 kr",Företag,El,Automat,  374 ,2024,SUV,Tvåhjulsdriven,252,Grå,,15/9/2023,Volvo,C40
-642,"599,500 kr",Företag,El,Automat,  -   ,2023,SUV,Fyrhjulsdriven,414,Röd,,,Volvo,C40
-643,"624,800 kr",Företag,El,Automat,  -   ,2024,SUV,Fyrhjulsdriven,434,Ljusblå (Blå),,,Volvo,EX30
-644,"519,500 kr",Företag,El,Automat,"  2,442 ",2022,SUV,Fyrhjulsdriven,414,Blå,,6/4/2022,Volvo,C40
-645,"569,000 kr",Företag,El,Automat,  240 ,2023,SUV,Fyrhjulsdriven,414,Vit,,7/10/2022,Volvo,XC40
-646,"539,500 kr",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Ljusblå (Blå),,,Volvo,EX30
-647,"539,500 kr",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Grå,,,Volvo,EX30
-648,"539,500 kr",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Vit,,,Volvo,EX30
-649,"539,500 kr",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Svart,,,Volvo,EX30
-650,"629,900 kr",Företag,El,Automat,  290 ,2024,SUV,Tvåhjulsdriven,256,Vit,,27/7/2023,Volvo,C40
-651,"614,900 kr",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,256,Blå,,7/11/2023,Volvo,XC40
-652,"599,900 kr",Företag,El,Automat,"  1,815 ",2024,SUV,Fyrhjulsdriven,408,Svart,,,Volvo,XC40
-653,"469,400 kr",Företag,El,Automat,"  1,169 ",2023,SUV,Tvåhjulsdriven,234,Svart,,,Volvo,XC40
-654,"184,000 kr",Privat,Diesel,Automat,"  17,800 ",2015,Kombi,Fyrhjulsdriven,181,Blå,2400 ,15/5/2015,Volvo,XC70
-655,"210,000 kr",Privat,Diesel,Automat,"  13,500 ",2018,Kombi,Fyrhjulsdriven,150,Vit,1969 ,27/6/2018,Volvo,V90
-656,"95,000 kr",Privat,Diesel,Automat,"  30,000 ",2014,SUV,Fyrhjulsdriven,181,Vit,2400 ,18/3/2014,Volvo,XC60
-657,"229,000 kr",Privat,Diesel,Automat,"  14,748 ",2016,SUV,Fyrhjulsdriven,221,Röd,2400 ,18/3/2016,Volvo,XC60
-658,"35,000 kr",Privat,Diesel,Manuell,"  32,000 ",1995,Sedan,Tvåhjulsdriven,123,Svart,2383 ,11/3/2020,Volvo,940
-659,"110,000 kr",Privat,Diesel,Automat,"  51,100 ",2017,Kombi,Tvåhjulsdriven,150,Vit,1969 ,8/2/2017,Volvo,V90
-660,"129,000 kr",Privat,Diesel,Automat,"  24,600 ",2015,Halvkombi,Tvåhjulsdriven,200,Silver,1969 ,24/3/2015,Volvo,V40
-661,"290,000 kr",Privat,Diesel,Automat,"  19,072 ",2020,Kombi,Fyrhjulsdriven,200,Grå,1969 ,30/12/2019,Volvo,V90 Cross Country
-662,"64,900 kr",Privat,Diesel,Manuell,"  28,951 ",2012,Kombi,Tvåhjulsdriven,116,Vit,1560 ,23/6/2011,Volvo,V60
-663,"138,900 kr",Privat,Diesel,Automat,"  34,657 ",2014,Kombi,Fyrhjulsdriven,215,Silver,2400 ,30/1/2014,Volvo,XC70
-664,"176,000 kr",Privat,Diesel,Automat,"  13,350 ",2014,Kombi,Tvåhjulsdriven,200,Blå,1969 ,11/4/2014,Volvo,V70
-665,"32,000 kr",Privat,Diesel,Automat,"  51,745 ",1998,Kombi,Tvåhjulsdriven,141,Blå,2460 ,17/10/2006,Volvo,
-666,"115,000 kr",Privat,Diesel,Manuell,"  12,800 ",2013,Kombi,Tvåhjulsdriven,116,Svart,1560 ,2/4/2013,Volvo,V60
-667,"37,000 kr",Privat,Diesel,Manuell,"  39,374 ",2008,Kombi,Tvåhjulsdriven,164,Grå,2400 ,31/8/2007,Volvo,V70
-668,"34,900 kr",Privat,Diesel,Automat,"  36,100 ",2007,Kombi,Tvåhjulsdriven,164,Grå,2400 ,13/4/2007,Volvo,V70
-669,"28,000 kr",Privat,Diesel,Automat,"  24,603 ",2006,Kombi,Tvåhjulsdriven,164,Grå,2400 ,2/6/2006,Volvo,V70
-670,"240,000 kr",Privat,Diesel,Automat,"  15,700 ",2017,Kombi,Fyrhjulsdriven,236,Vit,1969 ,5/10/2016,Volvo,V90
-671,"99,000 kr",Privat,Diesel,Manuell,"  20,800 ",2012,Kombi,Tvåhjulsdriven,164,Röd,1984 ,7/3/2012,Volvo,V70
-672,"485,000 kr",Privat,Diesel,Automat,"  9,400 ",2020,Kombi,,,,,,Volvo,V60
-673,"168,000 kr",Privat,Diesel,Manuell,"  13,100 ",2017,Kombi,Tvåhjulsdriven,191,Vit,1969 ,21/3/2017,Volvo,V60 Cross Country
-674,"69,000 kr",Privat,Diesel,Automat,"  30,949 ",2009,SUV,Fyrhjulsdriven,185,Blå,2401 ,17/6/2009,Volvo,XC90
-675,"47,000 kr",Privat,Diesel,Manuell,"  19,783 ",2010,Kombi,Tvåhjulsdriven,109,Silver,1560 ,30/9/2009,Volvo,V50
-676,"333,000 kr",Privat,Diesel,Automat,"  4,200 ",2020,Kombi,Fyrhjulsdriven,191,Svart,1969 ,1/4/2020,Volvo,V60
-677,"41,000 kr",Privat,Diesel,Automat,"  42,261 ",2008,Kombi,Tvåhjulsdriven,185,Blå,2400 ,10/10/2007,Volvo,V70
-678,"95,000 kr",Privat,Diesel,Manuell,"  21,196 ",2013,Halvkombi,Tvåhjulsdriven,177,Röd,1984 ,25/6/2012,Volvo,V40
-679,"509,000 kr",Privat,Diesel,Automat,"  13,400 ",2021,SUV,Fyrhjulsdriven,236,Grå,1969 ,1/10/2020,Volvo,XC90
-680,"35,000 kr",Privat,Diesel,Manuell,"  16,200 ",1990,Sedan,,,,,,Volvo,740
-681,"145,000 kr",Privat,Diesel,Automat,"  16,920 ",2014,Halvkombi,Tvåhjulsdriven,150,Vit,1984 ,13/12/2013,Volvo,V40 Cross Country
-682,"27,000 kr",Privat,Diesel,Manuell,"  23,750 ",2008,Kombi,Tvåhjulsdriven,136,Svart,1997 ,6/11/2007,Volvo,V50
-683,"155,000 kr",Privat,Diesel,Automat,"  18,100 ",2015,Kombi,,,,,,Volvo,V60
-684,"153,000 kr",Privat,Diesel,Manuell,"  13,168 ",2017,Halvkombi,Tvåhjulsdriven,150,Silver,1969 ,29/7/2016,Volvo,V40
-685,"27,000 kr",Privat,Diesel,Manuell,"  46,200 ",2007,Kombi,Tvåhjulsdriven,164,Blå,2400 ,5/1/2007,Volvo,V70
-686,"205,000 kr",Privat,Diesel,Automat,"  10,730 ",2017,Kombi,Tvåhjulsdriven,191,Brun,1969 ,30/9/2016,Volvo,V60 Cross Country
-687,"110,000 kr",Privat,Diesel,Automat,"  30,900 ",2012,,Fyrhjulsdriven,215,Silver,2400 ,22/11/2011,Volvo,XC70
-688,"44,900 kr",Privat,Diesel,Automat,"  28,003 ",2007,Kombi,Tvåhjulsdriven,185,Grå,2400 ,9/1/2007,Volvo,V70
-689,"165,000 kr",Privat,Diesel,Manuell,"  9,461 ",2017,Halvkombi,Tvåhjulsdriven,150,Grå,1969 ,13/6/2016,Volvo,V40
-690,"75,000 kr",Privat,Diesel,Automat,"  32,251 ",2011,Kombi,Tvåhjulsdriven,164,Svart,1984 ,15/4/2011,Volvo,V60
-691,"38,000 kr",Privat,Diesel,Automat,"  24,234 ",2009,Kombi,Tvåhjulsdriven,180,Grå,2400 ,14/11/2008,Volvo,V50
-692,"150,000 kr",Privat,Diesel,Manuell,"  22,500 ",2016,Kombi,Fyrhjulsdriven,181,Brun,2400 ,17/6/2015,Volvo,XC70
-693,"289,000 kr",Privat,Diesel,Automat,"  13,863 ",2018,SUV,Fyrhjulsdriven,191,Blå,1969 ,28/6/2018,Volvo,XC60
-694,"55,000 kr",Privat,Diesel,Automat,"  36,001 ",2009,Kombi,Tvåhjulsdriven,185,Svart,2400 ,19/12/2008,Volvo,V70
-695,"62,000 kr",Privat,Diesel,Manuell,"  34,436 ",2008,SUV,Fyrhjulsdriven,206,Vit,2401 ,13/6/2007,Volvo,XC90
-696,"55,000 kr",Privat,Diesel,Manuell,"  34,676 ",2012,,Tvåhjulsdriven,116,Vit,1560 ,7/11/2011,Volvo,V60
-697,"247,000 kr",Privat,Diesel,Automat,"  9,950 ",2017,SUV,Fyrhjulsdriven,191,Brun,2400 ,27/4/2017,Volvo,XC60
-698,"100,000 kr",Privat,Diesel,Automat,"  23,700 ",2007,Cab,Tvåhjulsdriven,180,Grå,2400 ,14/7/2015,Volvo,C70
-699,"95,000 kr",Privat,Diesel,Automat,"  16,080 ",2007,Cab,Tvåhjulsdriven,180,Grå,2400 ,19/9/2006,Volvo,C70
-700,"275,000 kr",Privat,Diesel,Automat,"  8,600 ",2019,Kombi,Fyrhjulsdriven,150,Grå,1969 ,11/3/2019,Volvo,V60
-701,"35,000 kr",Privat,Diesel,Manuell,"  35,000 ",2012,Kombi,Tvåhjulsdriven,164,Grå,1984 ,13/12/2011,Volvo,V70
-702,"245,000 kr",Privat,Diesel,Automat,"  11,709 ",2018,Kombi,Fyrhjulsdriven,150,Svart,1969 ,7/3/2018,Volvo,V90
-703,"125,000 kr",Privat,Diesel,Manuell,"  19,673 ",2014,Kombi,Tvåhjulsdriven,215,Vit,2400 ,21/2/2014,Volvo,V70
-704,"164,900 kr",Privat,Diesel,Automat,"  16,500 ",2014,Kombi,Tvåhjulsdriven,181,Röd,1969 ,28/3/2014,Volvo,V60
-705,"118,000 kr",Privat,Diesel,Manuell,"  20,083 ",2015,Sedan,Tvåhjulsdriven,116,Svart,1560 ,27/2/2015,Volvo,S60
-706,"169,000 kr",Privat,Diesel,Automat,"  16,013 ",2016,Kombi,Fyrhjulsdriven,191,Brun,2400 ,23/12/2015,Volvo,V60 Cross Country
-707,"300,000 kr",Privat,Diesel,Automat,"  12,284 ",2019,Kombi,Fyrhjulsdriven,236,Grå,1969 ,16/10/2018,Volvo,V90 Cross Country
-708,"195,000 kr",Privat,Diesel,Automat,"  13,666 ",2015,Kombi,Fyrhjulsdriven,181,Svart,2400 ,31/7/2014,Volvo,V60
-709,"76,000 kr",Privat,Diesel,Automat,"  32,804 ",2013,Kombi,Tvåhjulsdriven,164,Svart,1984 ,8/5/2013,Volvo,V70
-710,"135,000 kr",Privat,Diesel,Automat,"  17,139 ",2014,,Tvåhjulsdriven,181,Silver,1969 ,16/4/2014,Volvo,V60
-711,"209,000 kr",Privat,Diesel,Automat,"  18,020 ",2016,SUV,Fyrhjulsdriven,191,Vit,2400 ,28/1/2016,Volvo,XC60
-712,"279,000 kr",Privat,Diesel,Automat,"  12,460 ",2018,Kombi,Fyrhjulsdriven,236,Silver,1969 ,11/1/2018,Volvo,V90
-713,"205,000 kr",Privat,Diesel,Automat,"  11,648 ",2015,Sedan,Fyrhjulsdriven,215,Blå,2400 ,20/10/2014,Volvo,S60
-714,"100,000 kr",Privat,Diesel,Manuell,"  23,677 ",2013,Kombi,Tvåhjulsdriven,164,Vit,1984 ,5/6/2013,Volvo,V70
-715,"31,650 kr",Privat,Diesel,Manuell,"  29,516 ",2008,Kombi,Tvåhjulsdriven,136,Vit,1997 ,20/11/2007,Volvo,V50
-716,"389,000 kr",Privat,Diesel,Automat,"  7,200 ",2020,,,,,,,Volvo,XC60
-717,"229,900 kr",Privat,Diesel,Automat,"  12,460 ",2016,Kombi,Tvåhjulsdriven,200,Svart,1969 ,4/4/2016,Volvo,V70
-718,"185,000 kr",Privat,Diesel,Automat,"  11,607 ",2018,Kombi,Tvåhjulsdriven,150,Svart,1969 ,2/2/2018,Volvo,V90
-719,"269,900 kr",Företag,Diesel,Automat,"  8,202 ",2021,Kombi,Tvåhjulsdriven,198,Svart,1969 ,29/3/2021,Volvo,V60
-720,"324,900 kr",Företag,Diesel,Automat,"  8,932 ",2021,Kombi,Fyrhjulsdriven,198,Mörkgrå (Pine Grey Metallic),1969 ,31/3/2021,Volvo,V60 Cross Country
-721,"259,800 kr",Företag,Diesel,Automat,"  15,417 ",2021,Kombi,Fyrhjulsdriven,191,Vit (Ice Vit),1969 ,31/7/2020,Volvo,V90
-722,"279,900 kr",Företag,Diesel,Automat,"  9,599 ",2021,Kombi,Tvåhjulsdriven,198,Svart,1969 ,2/3/2021,Volvo,V60
-723,"199,400 kr",Företag,Diesel,Automat,"  11,075 ",2017,Halvkombi,Tvåhjulsdriven,150,Brun,1969 ,16/6/2016,Volvo,V40 Cross Country
-724,"314,700 kr",Företag,Diesel,Automat,"  18,234 ",2017,Kombi,Fyrhjulsdriven,236,Silver,1969 ,22/4/2017,Volvo,V90 Cross Country
-725,"317,900 kr",Företag,Diesel,Automat,"  12,294 ",2020,Kombi,Fyrhjulsdriven,236,Svart,1969 ,10/12/2019,Volvo,V90 Cross Country
-726,"45,900 kr",Företag,Diesel,Manuell,"  22,624 ",2010,Kombi,Tvåhjulsdriven,109,Grå,1560 ,1/4/2010,Volvo,V50
-727,"299,800 kr",Företag,Diesel,Automat,"  10,504 ",2020,Kombi,Fyrhjulsdriven,191,Vit (Ice Vit),1969 ,10/12/2019,Volvo,V60 Cross Country
-728,"244,900 kr",Företag,Diesel,Automat,"  12,275 ",2019,Kombi,Fyrhjulsdriven,191,Svart,1969 ,13/2/2019,Volvo,V90
-729,"299,900 kr",Företag,Diesel,Automat,"  8,120 ",2022,Kombi,Tvåhjulsdriven,198,Mörkblå,1969 ,9/9/2021,Volvo,V60
-730,"309,000 kr",Företag,Diesel,Automat,"  11,620 ",2020,Kombi,Fyrhjulsdriven,191,Svart (Svart Solid),1969 ,5/5/2020,Volvo,V90 Cross Country
-731,"179,900 kr",Företag,Diesel,Automat,"  15,294 ",2016,Kombi,Fyrhjulsdriven,191,Brun,2400 ,28/1/2016,Volvo,V60 Cross Country
-732,"199,900 kr",Företag,Diesel,Automat,"  16,447 ",2016,Sedan,Tvåhjulsdriven,200,Vit,1969 ,28/12/2015,Volvo,S60 Cross Country
-733,"89,900 kr",Företag,Diesel,Manuell,"  20,123 ",2011,Kombi,Tvåhjulsdriven,164,Vit,1984 ,26/11/2010,Volvo,V70
-734,"299,900 kr",Företag,Diesel,Automat,"  12,782 ",2017,Kombi,Fyrhjulsdriven,236,Silver,1969 ,21/6/2017,Volvo,V90 Cross Country
-735,"59,900 kr",Företag,Diesel,Manuell,"  30,740 ",2009,Kombi,Tvåhjulsdriven,164,Ljusbrun (Brun),2400 ,24/6/2009,Volvo,V70
-736,"189,900 kr",Företag,Diesel,Automat,"  21,824 ",2018,Kombi,Tvåhjulsdriven,191,Vit,1969 ,4/5/2018,Volvo,V90
-737,"224,900 kr",Företag,Diesel,Automat,"  11,426 ",2016,SUV,Fyrhjulsdriven,191,Silver,2400 ,26/5/2015,Volvo,XC60
-738,"124,900 kr",Företag,Diesel,Manuell,"  13,426 ",2014,Halvkombi,Tvåhjulsdriven,116,Silver,1560 ,11/4/2014,Volvo,V40
-739,"224,800 kr",Företag,Diesel,Automat,"  14,554 ",2018,Kombi,Tvåhjulsdriven,150,Svart,1969 ,16/5/2017,Volvo,V90
-740,"239,500 kr",Företag,Diesel,Automat,"  13,795 ",2017,SUV,Fyrhjulsdriven,230,Vit,2400 ,29/6/2017,Volvo,XC60
-741,"323,900 kr",Företag,Diesel,Automat,"  11,467 ",2018,Kombi,Fyrhjulsdriven,191,Grå,1969 ,26/1/2018,Volvo,V90 Cross Country
-742,"276,800 kr",Företag,Diesel,Automat,"  8,874 ",2017,SUV,Fyrhjulsdriven,191,Grå,2400 ,30/8/2017,Volvo,XC60
-743,"363,000 kr",Företag,Diesel,Automat,"  6,110 ",2020,Kombi,Fyrhjulsdriven,191,Svart,1969 ,23/12/2019,Volvo,V90 Cross Country
-744,"679,900 kr",Företag,Diesel,Automat,"  4,770 ",2022,SUV,Fyrhjulsdriven,236,Silver,1969 ,19/5/2022,Volvo,XC90
-745,"314,700 kr",Företag,Diesel,Automat,"  8,603 ",2018,Kombi,Fyrhjulsdriven,191,Svart,1969 ,12/12/2017,Volvo,V90 Cross Country
-746,"164,900 kr",Företag,Diesel,Manuell,"  12,324 ",2016,Halvkombi,Tvåhjulsdriven,200,Brun,1969 ,18/12/2015,Volvo,V40 Cross Country
-747,"339,900 kr",Företag,Diesel,Automat,"  8,600 ",2018,Kombi,Fyrhjulsdriven,191,Silver,1969 ,27/12/2017,Volvo,V90 Cross Country
-748,"209,500 kr",Företag,Diesel,Automat,"  13,700 ",2018,Kombi,Fyrhjulsdriven,192,Brun,2400 ,7/2/2018,Volvo,V60 Cross Country
-749,"449,900 kr",Företag,Diesel,Automat,"  8,414 ",2018,SUV,Fyrhjulsdriven,200,Grå,1969 ,21/6/2018,Volvo,XC90
-750,"299,000 kr",Företag,Diesel,Automat,"  8,511 ",2019,Kombi,Fyrhjulsdriven,192,Mörkbrun (Brun),1969 ,18/10/2018,Volvo,V90
-751,"219,500 kr",Företag,Diesel,Automat,"  22,500 ",2019,Kombi,Fyrhjulsdriven,192,Grå,1969 ,7/3/2019,Volvo,V60 Cross Country
-752,"139,900 kr",Företag,Diesel,Automat,"  16,181 ",2013,Sedan,Tvåhjulsdriven,164,Mörkblå,1984 ,29/6/2012,Volvo,S80
-753,"309,900 kr",Företag,Diesel,Automat,"  8,900 ",2018,Sedan,,191,,,,Volvo,S90
-754,"29,900 kr",Företag,Bensin,Manuell,"  34,531 ",2000,Kombi,Tvåhjulsdriven,251,Ljusblå (Blå),,16/3/2000,Volvo,V70
-755,"119,800 kr",Företag,Diesel,Automat,"  16,013 ",2009,Kombi,Tvåhjulsdriven,164,Ljusgrå (Grå),2400,16/10/2008,Volvo,V70
-756,"139,800 kr",Företag,Diesel,Manuell,"  18,331 ",2015,Kombi,Tvåhjulsdriven,181,Röd,1969,18/7/2014,Volvo,V70
-757,"99,900 kr",Företag,Diesel,Manuell,"  15,200 ",2011,Kombi,Tvåhjulsdriven,164,Ljusbrun (Brun),1984,8/12/2010,Volvo,V70
-758,"107,900 kr",Företag,Diesel,Manuell,"  26,970 ",2015,Kombi,Tvåhjulsdriven,181,Blå,1969,29/1/2015,Volvo,V70
-759,"89,900 kr",Företag,Miljöbränsle/Hybrid,Manuell,"  27,400 ",2012,Kombi,Tvåhjulsdriven,180,Blå,1596,17/6/2011,Volvo,V70
-760,"124,000 kr",Företag,Diesel,Automat,"  28,555 ",2015,Kombi,Tvåhjulsdriven,181,Brun (Brunmetallic Metallic),1969,12/9/2014,Volvo,V70
-761,"99,000 kr",Företag,Miljöbränsle/Hybrid,Automat,"  26,000 ",2011,Kombi,Tvåhjulsdriven,232,Vit,2521,10/12/2010,Volvo,V70
-762,"79,900 kr",Företag,Diesel,Automat,"  55,000 ",2015,Kombi,Tvåhjulsdriven,181,Svart,1969,13/11/2014,Volvo,V70
-763,"16,900 kr",Företag,Bensin,Manuell,"  33,204 ",2001,Kombi,Tvåhjulsdriven,141,Ljusblå (Blå),,12/12/2000,Volvo,V70
-764,"110,000 kr",Företag,Diesel,Automat,"  23,890 ",2012,Kombi,Tvåhjulsdriven,164,Blå,1984,28/6/2011,Volvo,V70
-765,"39,500 kr",Företag,Bensin,Manuell,"  31,000 ",2005,Kombi,Tvåhjulsdriven,141,Mörkblå (Blå),2435,10/12/2004,Volvo,V70
-766,"77,900 kr",Företag,Bensin,Manuell,"  19,300 ",2008,Kombi,Tvåhjulsdriven,146,Ljusblå (Blå),1999,20/12/2007,Volvo,V70
-767,"118,800 kr",Företag,Diesel,Automat,"  19,426 ",2013,Kombi,Tvåhjulsdriven,115,Ljusbrun (Brun),1560,18/10/2012,Volvo,V70
-768,"138,900 kr",Företag,Diesel,Manuell,"  14,200 ",2014,Kombi,Tvåhjulsdriven,116,Blå (Blå Metallic),1560,5/6/2014,Volvo,V70
-769,"84,990 kr",Företag,Miljöbränsle/Hybrid,Automat,"  19,301 ",2009,Kombi,Tvåhjulsdriven,146,Röd,1999,15/4/2009,Volvo,V70
-770,"74,900 kr",Företag,Diesel,Manuell,"  22,000 ",2011,Kombi,Tvåhjulsdriven,109,Grå,1560,22/6/2010,Volvo,V70
-771,"49,000 kr",Företag,Diesel,Manuell,"  36,999 ",2010,Kombi,Tvåhjulsdriven,176,Vit,2400,19/3/2010,Volvo,V70
-772,"69,900 kr",Företag,Diesel,Automat,"  31,500 ",2011,Kombi,Tvåhjulsdriven,164,Svart,1984,25/8/2011,Volvo,V70
-773,"129,900 kr",Företag,Miljöbränsle/Hybrid,Manuell,"  11,705 ",2011,Kombi,Tvåhjulsdriven,232,Svart,2521,23/9/2010,Volvo,V70
-774,"153,800 kr",Företag,Diesel,Manuell,"  17,528 ",2015,Kombi,Tvåhjulsdriven,181,Silver,1969,16/7/2014,Volvo,V70
-775,"189,900 kr",Företag,Diesel,Automat,"  10,750 ",2015,Kombi,Fyrhjulsdriven,181,Röd,2400,24/11/2014,Volvo,V70
-776,"179,900 kr",Företag,Diesel,Automat,"  21,646 ",2015,Kombi,Fyrhjulsdriven,181,Röd,2400,27/2/2015,Volvo,V70
-777,"149,900 kr",Företag,Diesel,Manuell,"  15,150 ",2015,Kombi,Tvåhjulsdriven,181,Svart,1969,6/10/2014,Volvo,V70
-778,"184,900 kr",Företag,Diesel,Automat,"  15,500 ",2014,Kombi,Tvåhjulsdriven,215,Röd,2400,15/10/2013,Volvo,V70
-779,"29,500 kr",Företag,Bensin,Automat,"  29,902 ",2006,Kombi,Tvåhjulsdriven,170,Röd,2435,11/11/2005,Volvo,V70
-780,"218,900 kr",Företag,Diesel,Automat,"  7,962 ",2016,Kombi,Tvåhjulsdriven,150,Grå,1969,31/7/2015,Volvo,V70
-781,"219,800 kr",Företag,Diesel,Automat,"  10,289 ",2016,Kombi,Tvåhjulsdriven,184,Grå,1969,27/4/2016,Volvo,V70
-782,"24,900 kr",Företag,Bensin,Automat,"  24,900 ",2000,Kombi,Tvåhjulsdriven,200,Svart,,20/3/2000,Volvo,V70
-783,"205,000 kr",Företag,Bensin,Manuell,"  8,384 ",2016,Kombi,Tvåhjulsdriven,191,Vit,1969,29/9/2015,Volvo,V70
-784,"53,900 kr",Företag,Miljöbränsle/Hybrid,Manuell,"  27,332 ",2012,Kombi,Tvåhjulsdriven,232,Vit,2521,1/8/2012,Volvo,V70
-785,"74,999 kr",Företag,Diesel,Automat,"  35,800 ",2011,Kombi,Tvåhjulsdriven,206,Vit,2400,16/11/2010,Volvo,V70
-786,"84,900 kr",Företag,Diesel,Manuell,"  20,774 ",2011,Kombi,Tvåhjulsdriven,109,Grå,1560,29/12/2010,Volvo,V70
-787,"124,900 kr",Företag,Diesel,Manuell,"  13,700 ",2013,Kombi,Tvåhjulsdriven,116,Grå,1560,11/6/2012,Volvo,V70
-788,"139,900 kr",Företag,Diesel,Manuell,"  23,100 ",2016,Kombi,Tvåhjulsdriven,150,Röd,1969,25/4/2016,Volvo,V70
-789,"129,500 kr",Företag,Diesel,Manuell,"  28,370 ",2015,Kombi,Tvåhjulsdriven,181,Svart,1969,1/10/2014,Volvo,V70
-790,"109,900 kr",Företag,Diesel,Manuell,"  23,700 ",2015,Kombi,Tvåhjulsdriven,181,Ljusbrun (Brun),1969,12/9/2014,Volvo,V70
-791,"109,900 kr",Företag,Diesel,Automat,"  19,084 ",2012,Kombi,Tvåhjulsdriven,116,Röd,1560,29/2/2012,Volvo,V70
-792,"128,800 kr",Företag,Diesel,Manuell,"  18,200 ",2013,Kombi,Tvåhjulsdriven,136,Svart,1984,27/5/2013,Volvo,V70
-793,"89,900 kr",Företag,Miljöbränsle/Hybrid,Automat,"  16,717 ",2011,Kombi,Tvåhjulsdriven,146,Ljusbrun (Brun),1999,21/12/2010,Volvo,V70
-794,"99,000 kr",Företag,Diesel,Manuell,"  19,765 ",2012,Kombi,Tvåhjulsdriven,116,Grå,1560,31/1/2012,Volvo,V70
-795,"119,500 kr",Företag,Miljöbränsle/Hybrid,Automat,"  23,700 ",2012,Kombi,Tvåhjulsdriven,180,Blå,1596,20/4/2012,Volvo,V70
-796,"219,900 kr",Företag,Bensin,Automat,"  8,602 ",2016,Kombi,Tvåhjulsdriven,191,Vit,1969,13/10/2015,Volvo,V70
-797,"47,500 kr",Företag,Miljöbränsle/Hybrid,Automat,"  37,762 ",2009,Kombi,Tvåhjulsdriven,146,Svart,1999,20/3/2009,Volvo,V70
-798,"89,900 kr",Företag,Diesel,Automat,"  21,613 ",2013,Kombi,Tvåhjulsdriven,116,Ljusgrå (Grå),1560,19/12/2012,Volvo,V70
-799,"135,000 kr",Företag,Miljöbränsle/Hybrid,Manuell,"  14,521 ",2013,Kombi,Tvåhjulsdriven,183,Grön,1596,25/6/2012,Volvo,V70
-800,"99,000 kr",Företag,Miljöbränsle/Hybrid,Manuell,"  11,170 ",2009,Kombi,Tvåhjulsdriven,146,Grön,1999,25/9/2008,Volvo,V70
-801,"119,900 kr",Företag,Diesel,Manuell,"  17,300 ",2011,Kombi,Tvåhjulsdriven,164,Grå,1984,23/7/2010,Volvo,V70
-802,"139,900 kr",Företag,Diesel,Manuell,"  18,100 ",2015,Kombi,Tvåhjulsdriven,116,Ljusbrun (Brun),1560,7/10/2014,Volvo,V70
-803,"79,500 kr",Företag,Diesel,Automat,"  21,310 ",2009,Kombi,Tvåhjulsdriven,164,Ljusgrå (Grå),2400,4/9/2008,Volvo,V70
-804,"199,800 kr",Företag,Diesel,Automat,"  12,861 ",2014,Kombi,Tvåhjulsdriven,181,Vit,1969,6/5/2014,Volvo,V70
-805,"109,900 kr",Företag,Bensin,Automat,"  24,700 ",2013,Kombi,Tvåhjulsdriven,180,Vit (Brun),,23/3/1990,Volvo,V70
-806,"124,900 kr",Företag,Diesel,Manuell,"  24,500 ",2013,Kombi,Tvåhjulsdriven,164,Vit,1984,3/9/2013,Volvo,V70
-807,"129,900 kr",Företag,Diesel,Automat,"  19,000 ",2013,Kombi,Tvåhjulsdriven,164,Röd,1984,3/4/2013,Volvo,V70
+Index,Pris,Säljare,Bränsle,Växellåda,Miltal,Modellår,Biltyp,Drivning,Hästkrafter,Färg,Motorstorlek,Datum_i_trafik,Märke,Modell
+1,"259,000",Företag,Bensin,Automat,"  9,985 ",2019,Kombi,Tvåhjulsdriven,192,Grå,1969,6/12/2018,Volvo,V90
+2,"289,000",Företag,Bensin,Automat,"  9,400 ",2019,SUV,Fyrhjulsdriven,191,Grå (Osmium Grå Metallic ),1969,19/6/2019,Volvo,XC40
+3,"17,000",Privat,Bensin,Manuell,"  43,000 ",2004,,Tvåhjulsdriven,141,Röd,2435,25/6/2003,Volvo,V70
+4,"28,900",Företag,Bensin,Manuell,"  20,798 ",2004,Sedan,Tvåhjulsdriven,141,Ljusgrå (Grå),2435,9/5/2003,Volvo,S60
+5,"61,997",Privat,Bensin,Automat,"  2,840 ",2022,SUV,Tvåhjulsdriven,130,Svart,1477,2/6/2022,Volvo,XC40
+6,"15,000",Privat,Bensin,Manuell,"  22,521 ",2004,Kombi,Tvåhjulsdriven,164,Grå,1948,24/6/2003,Volvo,V40
+7,"227,300",Företag,Bensin,Automat,"  15,837 ",2018,Kombi,Tvåhjulsdriven,255,Svart,1969,1/9/2017,Volvo,V90
+8,"119,900",Företag,Bensin,Manuell,"  15,839 ",2015,Halvkombi,Tvåhjulsdriven,120,Vit,1596,8/9/2014,Volvo,V40
+9,"12,000",Privat,Bensin,Manuell,"  28,857 ",1998,,Tvåhjulsdriven,145,Blå,2435,22/8/1997,Volvo,V70
+10,"334,900",Företag,Bensin,Automat,"  5,062 ",2020,SUV,Tvåhjulsdriven,253,Vit,1969,24/7/2019,Volvo,XC60
+11,"319,900",Företag,Bensin,Automat,"  4,960 ",2021,Kombi,Tvåhjulsdriven,200,Vit,1969,25/11/2020,Volvo,V60
+12,"344,900",Företag,Bensin,Automat,"  3,100 ",2021,SUV,Tvåhjulsdriven,131,Röd,1477,1/3/2021,Volvo,XC40
+13,"509,000",Företag,Diesel,Automat,"  17,282 ",2021,SUV,Fyrhjulsdriven,238,Svart,1969,11/2/2021,Volvo,XC90
+14,"264,500",Företag,Diesel,Automat,"  9,650 ",2020,Kombi,Tvåhjulsdriven,192,Silver,1969,26/3/2020,Volvo,V90
+15,"394,500",Företag,Diesel,Automat,"  4,046 ",2023,SUV,Tvåhjulsdriven,200,Svart,1969,22/12/2022,Volvo,XC60
+16,"379,500",Företag,Diesel,Automat,"  11,984 ",2022,SUV,Fyrhjulsdriven,200,Svart,1969,9/9/2021,Volvo,V90 Cross Country
+17,"229,900",Privat,Diesel,Automat,"  12,460 ",2016,Kombi,Tvåhjulsdriven,200,Svart,1969,4/4/2016,Volvo,V70
+18,"217,900",Företag,Diesel,Automat,"  7,485 ",2018,Coupé,Tvåhjulsdriven,191,Vit,1969,17/11/2017,Volvo,V60
+19,"185,000",Privat,Diesel,Automat,"  11,607 ",2018,Kombi,Tvåhjulsdriven,150,Svart,1969,2/2/2018,Volvo,V90
+20,"29,500",Privat,Diesel,Automat,"  61,900 ",2013,Kombi,Tvåhjulsdriven,116,Vit,1560,23/10/2012,Volvo,V70
+21,"33,500",Privat,Diesel,Manuell,"  23,460 ",2006,Kombi,Tvåhjulsdriven,136,Grå,1997,28/7/2005,Volvo,V50
+22,"65,000",Privat,Diesel,Manuell,"  21,300 ",2011,Kombi,Tvåhjulsdriven,116,Röd,1560,20/12/2010,Volvo,V50
+23,"44,000",Privat,Diesel,Manuell,"  29,860 ",2008,Kombi,Tvåhjulsdriven,136,Brun,1997,28/12/2007,Volvo,V70
+24,"53,000",Privat,Diesel,Manuell,"  23,400 ",2011,Kombi,Tvåhjulsdriven,109,Brun,1560,9/8/2010,Volvo,V70
+25,"629,000",Företag,El,Automat,  138 ,2024,SUV,Fyrhjulsdriven,414,Vit,,1/9/2023,Volvo,XC40
+26,"559,900",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Svart,,,Volvo,EX30
+27,"559,900",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Vit,,,Volvo,EX30
+28,"619,900",Företag,El,Automat,  508 ,2024,SUV,Fyrhjulsdriven,414,Grå,,23/8/2023,Volvo,XC40
+29,"449,900",Företag,El,Automat,"  1,962 ",2023,SUV,Tvåhjulsdriven,234,Ljusgrå (Grå),,20/10/2022,Volvo,XC40
+30,"449,900",Företag,El,Automat,"  2,276 ",2023,SUV,Tvåhjulsdriven,234,Svart,,24/10/2022,Volvo,C40
+31,"419,900",Företag,El,Automat,"  5,093 ",2023,SUV,Tvåhjulsdriven,234,Svart,,23/11/2022,Volvo,XC40
+32,"469,900",Företag,El,Automat,"  2,682 ",2022,SUV,Fyrhjulsdriven,414,Blå,,28/3/2022,Volvo,C40
+33,"459,900",Företag,El,Automat,"  4,258 ",2021,SUV,Fyrhjulsdriven,414,Blå,,11/3/2021,Volvo,XC40
+34,"439,900",Företag,El,Automat,"  5,760 ",2021,SUV,Fyrhjulsdriven,414,Grå,,11/3/2021,Volvo,XC40
+35,"599,900",Företag,El,Automat,  501 ,2024,SUV,Tvåhjulsdriven,256,Blå,,15/9/2023,Volvo,XC40
+36,"549,900",Företag,El,Automat,  221 ,2024,SUV,Tvåhjulsdriven,256,Silver,,6/9/2023,Volvo,XC40
+37,"479,900",Företag,El,Automat,"  1,051 ",2023,SUV,Tvåhjulsdriven,234,Silver,,31/3/2023,Volvo,XC40
+38,"359,000",Företag,Miljöbränsle/Hybrid,Automat,"  12,900 ",2018,SUV,Fyrhjulsdriven,408,Vit,1969,13/4/2018,Volvo,XC60
+39,"389,800",Företag,Miljöbränsle/Hybrid,Automat,"  7,445 ",2020,Kombi,Fyrhjulsdriven,391,Grå,1969,17/7/2019,Volvo,V90
+40,"404,900",Företag,Miljöbränsle/Hybrid,Automat,"  7,583 ",2019,SUV,Fyrhjulsdriven,391,Röd,1969,18/3/2019,Volvo,XC60
+41,"324,900",Företag,Miljöbränsle/Hybrid,Automat,"  8,201 ",2020,Kombi,Fyrhjulsdriven,304,Grå (Savile Grey Metallic),1969,21/1/2020,Volvo,V90
+42,"32,000",Privat,Miljöbränsle/Hybrid,Manuell,"  22,698 ",2009,Kombi,Tvåhjulsdriven,126,Blå,1798,30/3/2009,Volvo,V50
+43,"439,500",Företag,Miljöbränsle/Hybrid,Automat,"  8,596 ",2020,SUV,Fyrhjulsdriven,396,Svart,1969,5/8/2020,Volvo,XC60
+44,"493,900",Företag,Miljöbränsle/Hybrid,Automat,"  8,351 ",2018,SUV,Fyrhjulsdriven,407,Vit,1969,29/12/2017,Volvo,XC90
+45,"442,900",Företag,Miljöbränsle/Hybrid,Automat,"  3,423 ",2022,SUV,Tvåhjulsdriven,262,Svart,1477,5/11/2021,Volvo,XC40
+46,"359,900",Företag,Miljöbränsle/Hybrid,Automat,"  6,608 ",2022,SUV,Tvåhjulsdriven,211,Svart,1477,15/7/2021,Volvo,XC40
+47,"189,900",Företag,Miljöbränsle/Hybrid,Automat,"  16,021 ",2014,Kombi,Fyrhjulsdriven,283,Vit,2400,6/2/2014,Volvo,V60
+48,"368,800",Företag,Miljöbränsle/Hybrid,Automat,"  11,778 ",2018,SUV,Fyrhjulsdriven,408,Ljusbrun (Lbrun),1969,30/4/2018,Volvo,XC60
+49,"424,900",Företag,Miljöbränsle/Hybrid,Automat,"  9,100 ",2021,SUV,Fyrhjulsdriven,304,Svart,1969,15/2/2021,Volvo,XC60
+50,"109,900",Företag,Miljöbränsle/Hybrid,Automat,"  25,498 ",2014,Kombi,Tvåhjulsdriven,214,Grå,1984,4/10/2013,Volvo,V70
+51,"169,800",Företag,Diesel,Automat,"  9,000 ",2016,Halvkombi,Tvåhjulsdriven,120,Svart,1969,29/2/2016,Volvo,V40
+52,"349,900",Företag,Diesel,Automat,"  6,814 ",2022,Kombi,Fyrhjulsdriven,200,Grå,1969,1/9/2021,Volvo,V60 Cross Country
+53,"289,900",Företag,Diesel,Automat,"  12,021 ",2021,Kombi,Tvåhjulsdriven,200,Vit,1969,31/3/2021,Volvo,V90
+54,"369,900",Företag,Diesel,Automat,"  7,053 ",2021,SUV,Fyrhjulsdriven,200,Mörkgrå (Grå),1969,5/3/2021,Volvo,XC60
+55,"219,000",Privat,Diesel,Automat,"  17,173 ",2016,Kombi,Fyrhjulsdriven,181,Silver,2400,20/5/2016,Volvo,XC70
+56,"359,100",Företag,Diesel,Automat,"  2,163 ",2023,Kombi,Tvåhjulsdriven,200,Silver,1969,12/1/2023,Volvo,V60
+57,"339,900",Företag,Diesel,Automat,"  8,848 ",2021,Kombi,Fyrhjulsdriven,200,Vit,1969,18/12/2020,Volvo,V90
+58,"289,000",Företag,Diesel,Automat,"  12,783 ",2021,Kombi,Fyrhjulsdriven,200,Svart,1969,25/3/2021,Volvo,V60 Cross Country
+59,"579,000",Företag,Diesel,Automat,"  8,948 ",2021,SUV,Fyrhjulsdriven,238,Grå,1969,16/10/2020,Volvo,XC90
+60,"359,900",Företag,Diesel,Automat,"  10,064 ",2021,SUV,Fyrhjulsdriven,200,Vit,1969,17/12/2020,Volvo,V90 Cross Country
+61,"194,800",Företag,Diesel,Automat,"  19,629 ",2019,Kombi,Fyrhjulsdriven,151,Vit,1969,20/12/2018,Volvo,V60
+62,"559,000",Företag,Diesel,Automat,"  11,979 ",2021,SUV,Fyrhjulsdriven,238,Mörkblå (Blå),1969,15/3/2021,Volvo,XC90
+63,"299,900",Företag,Diesel,Automat,"  9,459 ",2020,Kombi,Fyrhjulsdriven,192,Vit,1969,18/3/2020,Volvo,V90
+64,"225,000",Privat,Diesel,Automat,"  12,999 ",2018,Sedan,Tvåhjulsdriven,150,Svart,1969,2/5/2018,Volvo,S90
+65,"219,800",Företag,Diesel,Automat,"  6,963 ",2018,Kombi,Tvåhjulsdriven,150,Grå,1969,29/6/2018,Volvo,V60
+66,"189,800",Företag,Diesel,Automat,"  12,290 ",2016,Kombi,Tvåhjulsdriven,181,Brun,1969,28/6/2016,Volvo,V70
+67,"189,800",Företag,Diesel,Automat,"  18,427 ",2018,Kombi,Tvåhjulsdriven,150,Vit,1969,13/2/2018,Volvo,V90
+68,"199,800",Företag,Diesel,Automat,"  12,861 ",2014,Kombi,Tvåhjulsdriven,181,Vit,1969,6/5/2014,Volvo,V70
+69,"129,800",Företag,Diesel,Manuell,"  15,758 ",2015,Kombi,Tvåhjulsdriven,116,Vit,1560,4/9/2014,Volvo,V70
+70,"335,000",Privat,Diesel,Automat,"  16,533 ",2016,SUV,Fyrhjulsdriven,225,Vit,1969,13/7/2015,Volvo,XC90
+71,"128,900",Företag,Diesel,Manuell,"  14,679 ",2015,Halvkombi,Tvåhjulsdriven,116,Svart,1560,27/6/2014,Volvo,V40
+72,"159,999",Privat,Diesel,Manuell,"  22,900 ",2018,Sedan,Tvåhjulsdriven,150,Silver,1969,11/12/2017,Volvo,S90
+73,"219,800",Företag,Diesel,Automat,"  21,542 ",2017,Kombi,Fyrhjulsdriven,221,Vit (Ice Vit),2400,9/11/2017,Volvo,XC60
+74,"230,000",Privat,Diesel,Automat,"  7,500 ",2019,Kombi,Tvåhjulsdriven,150,Vit,1969,27/12/2018,Volvo,V60
+75,"104,900",Företag,Diesel,Automat,"  22,398 ",2009,SUV,Fyrhjulsdriven,185,Silver,2400,22/9/2008,Volvo,XC90
+76,"213,900",Företag,Diesel,Automat,"  10,121 ",2016,Kombi,Fyrhjulsdriven,191,Brun,2400,21/1/2016,Volvo,V60 Cross Country
+77,"199,900",Företag,Diesel,Automat,"  19,635 ",2014,SUV,Fyrhjulsdriven,215,Röd,2400,20/9/2013,Volvo,XC60
+78,"178,900",Företag,Diesel,Automat,"  10,714 ",2017,Halvkombi,Tvåhjulsdriven,120,Svart,1969,12/1/2017,Volvo,V40
+79,"159,900",Företag,Diesel,Automat,"  15,100 ",2017,Kombi,Tvåhjulsdriven,191,Grå,1969,2/12/2016,Volvo,V60
+80,"254,800",Företag,Diesel,Automat,"  8,200 ",2020,Kombi,Tvåhjulsdriven,191,Vit,1969,29/1/2020,Volvo,V60
+81,"154,900",Företag,Diesel,Manuell,"  16,700 ",2016,Kombi,Tvåhjulsdriven,150,Vit,1969,4/8/2015,Volvo,V60 Cross Country
+82,"289,500",Företag,Diesel,Automat,"  9,280 ",2021,Kombi,Tvåhjulsdriven,191,Vit,1969,1/9/2020,Volvo,V90
+83,"174,900",Företag,Diesel,Automat,"  17,500 ",2016,SUV,Tvåhjulsdriven,191,Brun (Brown),1969,18/6/2015,Volvo,V60 Cross Country
+84,"69,900",Företag,Diesel,Manuell,"  15,440 ",2010,Kombi,Tvåhjulsdriven,109,Ljusgrå (Grå),1560,21/9/2009,Volvo,V50
+85,"109,900",Företag,Diesel,Automat,"  20,410 ",2012,Kombi,Tvåhjulsdriven,116,Svart,1560,1/6/2012,Volvo,V70
+86,"159,800",Företag,Diesel,Manuell,"  14,300 ",2015,Halvkombi,Tvåhjulsdriven,191,Vit,1969,2/9/2014,Volvo,V40
+87,"149,800",Företag,Diesel,Automat,"  11,701 ",2013,Sedan,Tvåhjulsdriven,136,Svart,1984,25/3/2013,Volvo,S60
+88,"209,800",Företag,Diesel,Automat,"  11,322 ",2018,Halvkombi,Tvåhjulsdriven,120,Svart,1969,27/7/2017,Volvo,V40
+89,"139,900",Företag,Diesel,Manuell,"  10,900 ",2014,Kombi,Tvåhjulsdriven,115,Blå,1560,30/8/2013,Volvo,V60
+90,"229,800",Företag,Diesel,Automat,"  8,225 ",2017,Halvkombi,Tvåhjulsdriven,150,Vit,1969,5/9/2016,Volvo,V40 Cross Country
+91,"249,800",Företag,Diesel,Automat,"  10,658 ",2019,SUV,Tvåhjulsdriven,150,Grå,1969,8/4/2019,Volvo,XC40
+92,"179,800",Företag,Diesel,Automat,"  16,551 ",2016,Kombi,Tvåhjulsdriven,150,Silver,1969,2/9/2015,Volvo,V70
+93,"79,900",Privat,Diesel,Manuell,"  18,640 ",2012,Sedan,Tvåhjulsdriven,116,Grå,1560,21/12/2011,Volvo,S60
+94,"9,500",Privat,Diesel,Automat,"  39,112 ",2006,Kombi,Tvåhjulsdriven,185,Grå,2400,24/5/2006,Volvo,V70
+95,"168,000",Privat,Diesel,Automat,"  12,200 ",2015,Kombi,Tvåhjulsdriven,181,Svart,1969,4/12/2014,Volvo,V60
+96,"62,000",Privat,Diesel,Automat,"  35,881 ",2010,Kombi,Fyrhjulsdriven,206,Röd,2400,10/12/2009,Volvo,XC70
+97,"209,900",Företag,Diesel,Automat,"  9,927 ",2014,Kombi,Fyrhjulsdriven,181,Röd,2400,14/4/2014,Volvo,V70
+98,"98,800",Företag,Diesel,Automat,"  33,015 ",2011,Kombi,Fyrhjulsdriven,206,Ljusbrun (Lbrun),2400,9/8/2010,Volvo,XC70
+99,"299,900",Företag,Diesel,Automat,"  13,225 ",2017,Kombi,Fyrhjulsdriven,236,Silver,1969,14/9/2016,Volvo,V90
+100,"198,900",Företag,Diesel,Automat,"  6,700 ",2017,Halvkombi,Tvåhjulsdriven,120,Vit,1969,7/3/2017,Volvo,V40 Cross Country
+101,"219,800",Företag,Bensin,Automat,"  6,845 ",2015,Halvkombi,Fyrhjulsdriven,180,Vit,1984,5/6/2014,Volvo,V40 Cross Country
+102,"42,000",Privat,Bensin,Manuell,"  23,892 ",2004,Kombi,Tvåhjulsdriven,141,Vit,2435,12/12/2003,Volvo,V70
+103,"11,000",Privat,Bensin,Automat,"  28,863 ",1997,Sedan,Tvåhjulsdriven,170,Röd,2435,16/5/1997,Volvo,S70
+104,"279,800",Företag,Bensin,Automat,"  13,560 ",2018,Sedan,Tvåhjulsdriven,262,Grå,1969,28/12/2017,Volvo,S90
+105,"144,900",Företag,Bensin,Manuell,"  10,555 ",2015,Halvkombi,Tvåhjulsdriven,120,Silver,1596,14/4/2015,Volvo,V40
+106,"277,000",Företag,Bensin,Automat,"  10,770 ",2019,Kombi,Fyrhjulsdriven,310,Vit,1969,28/6/2018,Volvo,V60
+107,"262,000",Företag,Bensin,Automat,"  7,589 ",2019,Kombi,Tvåhjulsdriven,214,Svart,1969,23/1/2019,Volvo,V90
+108,"329,900",Företag,Bensin,Automat,"  8,998 ",2020,SUV,Tvåhjulsdriven,251,Svart,1969,25/2/2020,Volvo,XC60
+109,"373,000",Företag,Bensin,Automat,"  2,606 ",2023,Kombi,Tvåhjulsdriven,200,Grå,1969,2/3/2023,Volvo,V60
+110,"299,500",Företag,Bensin,Automat,"  4,841 ",2021,SUV,Tvåhjulsdriven,131,Svart,1477,27/11/2020,Volvo,XC40
+111,"39,900",Företag,Bensin,Automat,"  26,999 ",2005,Kombi,Fyrhjulsdriven,221,Svart,2521,15/4/2005,Volvo,V50
+112,"25,000",Privat,Bensin,Manuell,"  43,657 ",1989,Sedan,Tvåhjulsdriven,116,Grå,2316,18/4/1989,Volvo,740
+113,"6,000",Privat,Bensin,Manuell,"  27,027 ",1993,Sedan,Tvåhjulsdriven,141,Röd,2435,22/10/1992,Volvo,850
+114,"14,900",Företag,Bensin,Manuell,"  25,000 ",2005,Sedan,Tvåhjulsdriven,141,Svart,2435,22/2/2005,Volvo,S40
+115,"17,000",Privat,Bensin,Automat,"  23,285 ",2003,Sedan,Tvåhjulsdriven,200,Grå,2435,10/2/2003,Volvo,S80
+116,"265,900",Företag,Bensin,Automat,"  10,350 ",2020,Sedan,Tvåhjulsdriven,191,Mörkgrå (Grå),1969,30/3/2020,Volvo,S60
+117,"329,800",Företag,Bensin,Automat,"  13,601 ",2019,SUV,Fyrhjulsdriven,253,Mörkblå (Blå),1969,23/10/2018,Volvo,V90 Cross Country
+118,"269,000",Företag,Bensin,Automat,"  6,228 ",2018,Sedan,Tvåhjulsdriven,192,Grå,1969,30/8/2018,Volvo,S90
+119,"609,000",Företag,Bensin,Automat,  -   ,2024,SUV,Fyrhjulsdriven,253,Silver,1969,,Volvo,V90 Cross Country
+120,"259,000",Företag,Bensin,Automat,"  9,985 ",2019,Kombi,Tvåhjulsdriven,192,Grå,1969,6/12/2018,Volvo,V90
+121,"289,000",Företag,Bensin,Automat,"  9,400 ",2019,SUV,Fyrhjulsdriven,191,Grå (Osmium Grå Metallic ),1969,19/6/2019,Volvo,XC40
+122,"28,900",Företag,Bensin,Manuell,"  20,798 ",2004,Sedan,Tvåhjulsdriven,141,Ljusgrå (Grå),2435,9/5/2003,Volvo,S60
+123,"15,000",Privat,Bensin,Manuell,"  22,521 ",2004,Kombi,Tvåhjulsdriven,164,Grå,1948,24/6/2003,Volvo,V40
+124,"227,300",Företag,Bensin,Automat,"  15,837 ",2018,Kombi,Tvåhjulsdriven,255,Svart,1969,1/9/2017,Volvo,V90
+125,"119,900",Företag,Bensin,Manuell,"  15,839 ",2015,Halvkombi,Tvåhjulsdriven,120,Vit,1596,8/9/2014,Volvo,V40
+126,"334,900",Företag,Bensin,Automat,"  5,062 ",2020,SUV,Tvåhjulsdriven,253,Vit,1969,24/7/2019,Volvo,XC60
+127,"319,900",Företag,Bensin,Automat,"  4,960 ",2021,Kombi,Tvåhjulsdriven,200,Vit,1969,25/11/2020,Volvo,V60
+128,"344,900",Företag,Bensin,Automat,"  3,100 ",2021,SUV,Tvåhjulsdriven,131,Röd,1477,1/3/2021,Volvo,XC40
+129,"29,900",Företag,Bensin,Manuell,"  27,800 ",2004,Kombi,Tvåhjulsdriven,164,Blå,1948,24/3/2003,Volvo,V40
+130,"39,900",Företag,Bensin,Manuell,"  22,890 ",2003,Sedan,Tvåhjulsdriven,123,Silver,,8/1/2009,Volvo,S40
+131,"40,000",Privat,Bensin,Automat,"  28,400 ",2008,Kombi,Tvåhjulsdriven,170,Grå,2435,17/10/2007,Volvo,V70
+132,"129,800",Företag,Bensin,Manuell,"  15,000 ",2014,Kombi,Tvåhjulsdriven,150,Blå,1596,27/10/2013,Volvo,V60
+133,"29,900",Företag,Bensin,Manuell,"  26,000 ",2001,Kombi,Tvåhjulsdriven,141,Mörkgrön (Grön),,7/6/2001,Volvo,V70
+134,"42,900",Företag,Bensin,Automat,"  23,750 ",2004,Kombi,Tvåhjulsdriven,170,Blå,2435,13/5/2004,Volvo,V50
+135,"269,800",Företag,Bensin,Automat,"  13,559 ",2018,Sedan,Tvåhjulsdriven,255,Svart (Onyx Svart Metallic),1969,10/1/2018,Volvo,S90
+136,"29,000",Företag,Bensin,Manuell,"  23,330 ",2004,Sedan,Tvåhjulsdriven,141,Ljusgrön (Ljusgul Metallic),2435,26/3/2004,Volvo,S40
+137,"509,900",Företag,Bensin,Automat,"  6,544 ",2020,SUV,Fyrhjulsdriven,251,Vit,1969,2/10/2019,Volvo,XC90
+138,"319,000",Företag,Bensin,Automat,"  10,750 ",2018,Sedan,Tvåhjulsdriven,255,Silver,1969,20/12/2017,Volvo,S90
+139,"5,000",Privat,Bensin,Automat,"  41,135 ",2003,Kombi,Tvåhjulsdriven,141,Vit,2435,2/10/2002,Volvo,V70
+140,"284,000",Företag,Bensin,Automat,"  3,449 ",2021,SUV,Tvåhjulsdriven,131,Svart,1477,31/3/2021,Volvo,XC40
+141,"24,900",Företag,Bensin,Manuell,"  31,135 ",2007,Sedan,Tvåhjulsdriven,141,Ljusgrå (Grå),2435,2/11/2006,Volvo,S60
+142,"21,500",Privat,Bensin,Manuell,"  20,700 ",2004,Kombi,Tvåhjulsdriven,141,Röd,2435,4/8/2004,Volvo,V50
+143,"230,000",Företag,Bensin,Automat,"  20,938 ",2018,Kombi,Tvåhjulsdriven,255,Svart,1969,24/10/2017,Volvo,V90
+144,"32,000",Privat,Bensin,Automat,"  31,919 ",2002,Kombi,Fyrhjulsdriven,200,Blå,2435,17/1/2002,Volvo,XC70
+145,"2,000",Privat,Bensin,Manuell,"  30,894 ",2002,Kombi,Tvåhjulsdriven,200,Grå,2435,6/12/2001,Volvo,V70
+146,"275,000",Företag,Bensin,Automat,"  5,687 ",2021,SUV,Tvåhjulsdriven,130,Vit,1477,26/10/2020,Volvo,XC40
+147,"350,000",Företag,Bensin,Automat,"  7,268 ",2021,SUV,Fyrhjulsdriven,253,Mörkblå (Mblå),1969,1/3/2021,Volvo,XC60
+148,"149,800",Företag,Bensin,Manuell,"  14,603 ",2013,Sedan,Tvåhjulsdriven,241,Svart,1999,10/7/2012,Volvo,S60
+149,"27,900",Privat,Bensin,Manuell,"  24,354 ",2006,Kombi,Tvåhjulsdriven,126,Vit,1798,8/9/2005,Volvo,V50
+150,"16,999",Privat,Bensin,Manuell,"  20,844 ",2001,Sedan,Tvåhjulsdriven,109,Brun,1587,4/8/2000,Volvo,S40
+151,"429,800",Företag,Miljöbränsle/Hybrid,Automat,"  8,830 ",2021,Kombi,Fyrhjulsdriven,304,Svart,1969 ,16/2/2021,Volvo,V90
+152,"499,000",Företag,Miljöbränsle/Hybrid,Automat,"  9,288 ",2021,SUV,Fyrhjulsdriven,396,Grå,1969 ,19/2/2021,Volvo,XC60
+153,"599,900",Företag,Miljöbränsle/Hybrid,Automat,"  5,983 ",2021,SUV,Fyrhjulsdriven,396,Svart,1969 ,26/3/2021,Volvo,XC90
+154,"389,900",Företag,Miljöbränsle/Hybrid,Automat,"  11,267 ",2020,SUV,Fyrhjulsdriven,396,Vit,1969 ,17/1/2020,Volvo,XC60
+155,"355,000",Företag,Miljöbränsle/Hybrid,Automat,"  8,176 ",2020,Kombi,Fyrhjulsdriven,398,Vit,1969 ,30/3/2020,Volvo,V60
+156,"689,900",Företag,Miljöbränsle/Hybrid,Automat,  2 ,2023,Sedan,Fyrhjulsdriven,463,Svart,1969 ,7/8/2023,Volvo,S90
+157,"359,900",Företag,Miljöbränsle/Hybrid,Automat,"  8,269 ",2021,SUV,Tvåhjulsdriven,266,Svart,1477 ,31/8/2020,Volvo,XC40
+158,"409,000",Företag,Miljöbränsle/Hybrid,Automat,"  8,318 ",2021,SUV,Fyrhjulsdriven,344,Ljusbrun (Brun),1969 ,20/8/2020,Volvo,XC60
+159,"329,000",Företag,Miljöbränsle/Hybrid,Automat,"  8,045 ",2020,Kombi,Fyrhjulsdriven,344,Svart,1969 ,10/1/2020,Volvo,V60
+160,"589,000",Företag,Miljöbränsle/Hybrid,Automat,"  12,845 ",2021,SUV,Fyrhjulsdriven,396,Svart,1969 ,3/12/2020,Volvo,XC90
+161,"679,000",Företag,Miljöbränsle/Hybrid,Automat,  615 ,2024,Kombi,Fyrhjulsdriven,404,Svart,1969 ,28/6/2023,Volvo,V90
+162,"479,900",Företag,Miljöbränsle/Hybrid,Automat,"  3,436 ",2022,SUV,Fyrhjulsdriven,344,Grå,1969 ,23/6/2021,Volvo,XC60
+163,"528,900",Företag,Miljöbränsle/Hybrid,Automat,"  2,348 ",2022,SUV,Fyrhjulsdriven,342,Mörkblå (Mblå),1969 ,10/11/2021,Volvo,XC60
+164,"329,900",Företag,Miljöbränsle/Hybrid,Automat,"  15,634 ",2021,SUV,Fyrhjulsdriven,253,Vit,1969 ,24/9/2020,Volvo,XC60
+165,"339,000",Företag,Miljöbränsle/Hybrid,Automat,"  6,557 ",2021,Kombi,Fyrhjulsdriven,253,Vit,1969 ,22/2/2021,Volvo,V60
+166,"369,900",Företag,Miljöbränsle/Hybrid,Automat,"  5,429 ",2020,Kombi,Fyrhjulsdriven,253,Svart (Onyx Svart Metallic),2020,6/3/2020,Volvo,V60
+167,"39,900",Företag,Miljöbränsle/Hybrid,Manuell,"  16,108 ",2007,Kombi,Tvåhjulsdriven,126,Ljusgrå (Grå),1798 ,9/8/2006,Volvo,V50
+168,"429,900",Företag,Miljöbränsle/Hybrid,Automat,"  15,100 ",2017,SUV,Fyrhjulsdriven,407,Svart,1969 ,1/6/2016,Volvo,XC90
+169,"199,800",Företag,Miljöbränsle/Hybrid,Automat,"  13,290 ",2015,Kombi,Fyrhjulsdriven,283,Blå,2400 ,11/3/2015,Volvo,V60
+170,"399,900",Företag,Miljöbränsle/Hybrid,Automat,"  9,377 ",2018,SUV,Fyrhjulsdriven,408,Vit,1969 ,27/11/2017,Volvo,XC60
+171,"429,000",Företag,Miljöbränsle/Hybrid,Automat,"  8,008 ",2020,SUV,Fyrhjulsdriven,396,Mörkgrå (Grå),1969 ,3/7/2020,Volvo,XC60
+172,"389,000",Företag,Miljöbränsle/Hybrid,Automat,"  5,036 ",2021,SUV,Tvåhjulsdriven,266,Grå,1477 ,10/2/2021,Volvo,XC40
+173,"444,800",Företag,Miljöbränsle/Hybrid,Automat,"  12,582 ",2017,SUV,Fyrhjulsdriven,407,Grå,1969 ,1/8/2016,Volvo,XC90
+174,"499,000",Företag,Miljöbränsle/Hybrid,Automat,"  1,356 ",2024,Kombi,Fyrhjulsdriven,404,Grå,1969 ,31/7/2023,Volvo,V90
+175,"429,000",Företag,Miljöbränsle/Hybrid,Automat,"  7,000 ",2021,SUV,Fyrhjulsdriven,344,Vit,1969 ,11/11/2020,Volvo,XC60
+176,"414,900",Företag,Miljöbränsle/Hybrid,Automat,"  8,412 ",2020,SUV,Fyrhjulsdriven,391,Vit (Pärlemor-Metallic Vit),1969 ,4/6/2020,Volvo,XC60
+177,"424,900",Företag,Miljöbränsle/Hybrid,Automat,"  4,459 ",2021,Kombi,Fyrhjulsdriven,391,Röd (Pärlemor-Metallic Röd),1969 ,13/10/2020,Volvo,V60
+178,"314,900",Företag,Miljöbränsle/Hybrid,Automat,"  15,637 ",2019,Kombi,Fyrhjulsdriven,392,Vit,1969 ,6/3/2019,Volvo,V60
+179,"459,500",Företag,Miljöbränsle/Hybrid,Automat,"  2,051 ",2023,SUV,Tvåhjulsdriven,214,Röd,1477 ,13/12/2022,Volvo,XC40
+180,"369,900",Företag,Miljöbränsle/Hybrid,Automat,"  4,504 ",2022,SUV,Tvåhjulsdriven,211,Svart,1477 ,5/11/2021,Volvo,XC40
+181,"378,800",Företag,Miljöbränsle/Hybrid,Automat,"  8,199 ",2020,Kombi,Fyrhjulsdriven,392,Svart,1969 ,30/4/2020,Volvo,V60
+182,"329,900",Företag,Miljöbränsle/Hybrid,Automat,"  7,750 ",2021,SUV,Tvåhjulsdriven,211,Svart,1477 ,23/3/2021,Volvo,XC40
+183,"469,000",Företag,Miljöbränsle/Hybrid,Automat,"  8,712 ",2021,SUV,Fyrhjulsdriven,344,Silver,1969 ,30/4/2021,Volvo,XC60
+184,"464,800",Företag,Miljöbränsle/Hybrid,Automat,"  5,839 ",2020,Kombi,Fyrhjulsdriven,304,Svart (Onyx Svart Metallic),1969 ,13/12/2019,Volvo,XC60
+185,"35,900",Privat,Miljöbränsle/Hybrid,Manuell,"  19,123 ",2007,Kombi,Tvåhjulsdriven,126,Röd,1798 ,2/4/2007,Volvo,V50
+186,"399,000",Privat,Miljöbränsle/Hybrid,Automat,"  15,200 ",2016,SUV,Fyrhjulsdriven,407,Svart,1969 ,12/2/2016,Volvo,XC90
+187,"269,000",Företag,Miljöbränsle/Hybrid,Automat,"  11,511 ",2020,Kombi,Fyrhjulsdriven,344,Silver,1969 ,8/6/2020,Volvo,V60
+188,"44,900",Företag,Miljöbränsle/Hybrid,Manuell,"  16,499 ",2008,Halvkombi,Tvåhjulsdriven,126,Röd,1798 ,2/2/2008,Volvo,C30
+189,"348,900",Företag,Miljöbränsle/Hybrid,Automat,"  3,687 ",2020,Kombi,Fyrhjulsdriven,340,Svart,1969 ,31/1/2020,Volvo,V60
+190,"639,000",Företag,Miljöbränsle/Hybrid,Automat,"  4,600 ",2023,SUV,Fyrhjulsdriven,399,Grå,1969 ,25/11/2022,Volvo,XC60
+191,"369,000",Företag,Miljöbränsle/Hybrid,Automat,"  1,880 ",2021,Kombi,Fyrhjulsdriven,340,Röd (Vinröd),1969 ,9/3/2021,Volvo,V60
+192,"39,900",Företag,Miljöbränsle/Hybrid,Manuell,"  24,000 ",2008,Kombi,Tvåhjulsdriven,126,Ljusblå (Blå),1798 ,25/2/2008,Volvo,V50
+193,"549,000",Företag,Miljöbränsle/Hybrid,Automat,"  2,473 ",2022,Kombi,Fyrhjulsdriven,396,Grå,1969 ,3/11/2021,Volvo,V90
+194,"697,800",Företag,Miljöbränsle/Hybrid,Automat,  -   ,2024,Sedan,Fyrhjulsdriven,344,Silver,1969 ,,Volvo,S60
+195,"29,900",Företag,Miljöbränsle/Hybrid,Manuell,"  21,285 ",2002,Sedan,Tvåhjulsdriven,141,Röd,2435,28/3/2002,Volvo,S60
+196,"59,800",Företag,Miljöbränsle/Hybrid,Automat,"  35,499 ",2009,Kombi,Tvåhjulsdriven,200,Grå,2521 ,15/5/2009,Volvo,V70
+197,"89,000",Privat,Miljöbränsle/Hybrid,Automat,"  18,931 ",2010,Kombi,Tvåhjulsdriven,232,Grå,2521 ,3/3/2010,Volvo,V70
+198,"80,000",Privat,Miljöbränsle/Hybrid,Automat,"  18,550 ",2009,Kombi,Tvåhjulsdriven,146,Brun,1999 ,26/11/2009,Volvo,V70
+199,"27,000",Privat,Miljöbränsle/Hybrid,Manuell,"  38,240 ",2009,Kombi,Tvåhjulsdriven,146,Grå,1999 ,21/4/2009,Volvo,V70
+200,"56,000",Privat,Miljöbränsle/Hybrid,Automat,"  39,000 ",2015,Kombi,Tvåhjulsdriven,214,Svart,1984 ,16/3/2015,Volvo,V70
+201,"659,900",Företag,El,Automat,  -   ,2024,Sedan,Tvåhjulsdriven,252,Röd,,,Volvo,C40
+202,"514,900",Företag,El,Automat,"  2,037 ",2023,SUV,Tvåhjulsdriven,234,Svart,,13/4/2023,Volvo,XC40
+203,"619,000",Företag,El,Automat,"  1,230 ",2024,SUV,Tvåhjulsdriven,256,Grön,,14/8/2023,Volvo,C40
+204,"438,900",Företag,El,Automat,"  1,500 ",2023,SUV,Tvåhjulsdriven,234,Grå,,28/7/2023,Volvo,XC40
+205,"473,800",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Grå,,,Volvo,EX30
+206,"579,400",Företag,El,Automat,  -   ,2024,SUV,Fyrhjulsdriven,434,Grå,,,Volvo,EX30
+207,"680,400",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,256,Svart,,,Volvo,XC40
+208,"449,500",Företag,El,Automat,  712 ,2023,SUV,Tvåhjulsdriven,234,Röd,,30/11/2022,Volvo,C40
+209,"509,000",Företag,El,Automat,  161 ,2024,SUV,Tvåhjulsdriven,275,Vit,,27/12/2023,Volvo,EX30
+210,"509,000",Företag,El,Automat,  153 ,2024,SUV,Tvåhjulsdriven,275,Vit,,28/12/2023,Volvo,EX30
+211,"599,000",Företag,El,Automat,  370 ,2024,SUV,Fyrhjulsdriven,414,Svart,,18/8/2023,Volvo,C40
+212,"509,900",Företag,El,Automat,  -   ,2024,Sedan,Tvåhjulsdriven,272,Grå,,,Volvo,EX30
+213,"439,900",Företag,El,Automat,"  2,265 ",2023,Sedan,Tvåhjulsdriven,232,Blå,,5/12/2022,Volvo,XC40
+214,"592,900",Företag,El,Automat,  -   ,2024,Sedan,Fyrhjulsdriven,429,Vit,,,Volvo,EX30
+215,"438,800",Företag,El,Automat,  713 ,2023,SUV,Tvåhjulsdriven,232,Svart,,25/5/2023,Volvo,XC40
+216,"520,000",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Svart,,,Volvo,EX30
+217,"439,900",Företag,El,Automat,"  3,116 ",2023,SUV,Tvåhjulsdriven,234,Svart,,17/11/2022,Volvo,C40
+218,"559,000",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Svart,,,Volvo,
+219,"444,000",Företag,El,Automat,"  3,890 ",2022,SUV,Tvåhjulsdriven,234,Svart,,24/1/2022,Volvo,XC40
+220,"459,500",Företag,El,Automat,"  2,075 ",2023,SUV,Tvåhjulsdriven,234,Silver,,26/9/2022,Volvo,XC40
+221,"579,000",Företag,El,Automat,  499 ,2024,SUV,Tvåhjulsdriven,256,Ljusblå,,3/8/2023,Volvo,C40
+222,"499,000",Företag,El,Automat,"  2,568 ",2023,SUV,Fyrhjulsdriven,414,Svart,,25/11/2022,Volvo,C40
+223,"439,900",Företag,El,Automat,"  9,538 ",2021,SUV,Fyrhjulsdriven,414,Blå,,12/3/2021,Volvo,XC40
+224,"581,300",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Svart,,,Volvo,EX30
+225,"581,100",Företag,El,Automat,  1 ,2024,SUV,Tvåhjulsdriven,275,Vit,,,Volvo,EX30
+226,"469,000",Företag,El,Automat,"  3,741 ",2021,SUV,Fyrhjulsdriven,414,Svart,,18/12/2020,Volvo,XC40
+227,"579,000",Företag,El,Automat,  707 ,2023,SUV,Fyrhjulsdriven,414,Blå,,25/11/2022,Volvo,C40
+228,"589,900",Företag,El,Automat,  -   ,2024,SUV,Fyrhjulsdriven,434,Ljusblå,,,Volvo,EX30
+229,"559,900",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Vit,,,Volvo,EX30
+230,"609,900",Företag,El,Automat,  -   ,2024,SUV,Fyrhjulsdriven,434,Vit,,,Volvo,EX30
+231,"529,900",Företag,El,Automat,"  1,256 ",2023,SUV,Fyrhjulsdriven,414,Vit,,30/12/2022,Volvo,C40
+232,"649,900",Företag,El,Automat,  -   ,2023,SUV,Fyrhjulsdriven,414,Vit,,,Volvo,C40
+233,"449,900",Företag,El,Automat,"  3,002 ",2023,SUV,Tvåhjulsdriven,234,Grå,,25/11/2022,Volvo,C40
+234,"609,900",Företag,El,Automat,  -   ,2024,SUV,Fyrhjulsdriven,434,Svart,,,Volvo,EX30
+235,"439,900",Företag,El,Automat,"  8,160 ",2021,SUV,Fyrhjulsdriven,414,Vit,,8/1/2021,Volvo,XC40
+236,"429,900",Företag,El,Automat,"  3,173 ",2021,SUV,Fyrhjulsdriven,414,Vit,,5/5/2021,Volvo,XC40
+237,"649,900",Företag,El,Automat,  548 ,2024,SUV,Fyrhjulsdriven,414,Vit,,16/8/2023,Volvo,XC40
+238,"449,900",Företag,El,Automat,"  5,512 ",2022,SUV,Tvåhjulsdriven,234,Grön,,10/1/2022,Volvo,XC40
+239,"559,900",Företag,El,Automat,"  2,114 ",2023,SUV,Fyrhjulsdriven,414,Blå,,3/3/2023,Volvo,XC40
+240,"636,900",Företag,El,Automat,  -   ,2024,Sedan,Tvåhjulsdriven,252,Silver,,,Volvo,C40
+241,"459,500",Företag,El,Automat,"  2,000 ",2023,SUV,Tvåhjulsdriven,234,Silver,,22/12/2022,Volvo,C40
+242,"569,500",Företag,El,Automat,  289 ,2024,SUV,Tvåhjulsdriven,256,Svart,,6/11/2023,Volvo,C40
+243,"624,000",Företag,El,Automat,  131 ,2024,SUV,Fyrhjulsdriven,414,Grå,,2/2/2024,Volvo,C40
+244,"429,000",Företag,El,Automat,"  2,228 ",2023,SUV,Tvåhjulsdriven,234,Grön,,6/2/2023,Volvo,C40
+245,"419,000",Företag,El,Automat,"  2,509 ",2023,SUV,Tvåhjulsdriven,234,Svart,,5/1/2023,Volvo,C40
+246,"429,000",Företag,El,Automat,"  1,540 ",2023,SUV,Tvåhjulsdriven,234,Blå,,27/12/2022,Volvo,XC40
+247,"429,000",Företag,El,Automat,"  3,619 ",2022,SUV,Tvåhjulsdriven,234,Svart,,23/2/2022,Volvo,XC40
+248,"557,000",Företag,El,Automat,"  1,442 ",2023,SUV,Fyrhjulsdriven,414,Ljusgrå,,26/1/2023,Volvo,XC40
+249,"467,000",Företag,El,Automat,"  4,637 ",2021,SUV,Fyrhjulsdriven,414,Blå,,14/12/2020,Volvo,XC40
+250,"469,000",Företag,El,Automat,"  1,964 ",2023,SUV,Tvåhjulsdriven,234,Svart,,2/2/2023,Volvo,C40
+251,"45,000",Privat,Bensin,Automat,"  27,700 ",2006,Kombi,Fyrhjulsdriven,210,Blå,2521,20/3/2006,Volvo,XC70
+252,"13,000",Privat,Bensin,Manuell,"  22,700 ",1996,Sedan,Tvåhjulsdriven,145,Röd,2435,29/9/1995,Volvo,850
+253,"15,000",Privat,Bensin,Manuell,"  33,751 ",2004,Kombi,Tvåhjulsdriven,123,Grön,1783,29/1/2004,Volvo,V40
+254,"32,900",Privat,Bensin,Manuell,"  25,899 ",2006,Kombi,Tvåhjulsdriven,126,Grå,1798,22/12/2005,Volvo,V50
+255,"279,900",Företag,Bensin,Automat,"  6,535 ",2019,Kombi,Tvåhjulsdriven,210,Ljusblå (Blå Metallic),1969,12/6/2019,Volvo,V90
+256,"434,900",Företag,Bensin,Automat,"  12,200 ",2019,SUV,Fyrhjulsdriven,310,Svart,1969,18/6/2018,Volvo,XC90
+257,"19,000",Privat,Bensin,Manuell,"  26,604 ",2005,Kombi,Tvåhjulsdriven,170,Vit,2435,28/2/2005,Volvo,V70
+258,"25,000",Privat,Bensin,Manuell,"  25,685 ",2000,Sedan,Tvåhjulsdriven,170,Blå,2435,23/12/1999,Volvo,S70
+259,"79,000",Privat,Bensin,Manuell,"  21,489 ",2012,Kombi,Tvåhjulsdriven,180,Svart,1596,17/11/2011,Volvo,V60
+260,"19,900",Privat,Bensin,Manuell,"  23,515 ",2001,Kombi,Tvåhjulsdriven,170,Röd,2435,5/1/2001,Volvo,V70
+261,"339,900",Företag,Bensin,Automat,"  7,493 ",2017,Sedan,Fyrhjulsdriven,368,Svart,1969,29/9/2016,Volvo,S60
+262,"209,900",Företag,Bensin,Automat,"  6,567 ",2019,Halvkombi,Tvåhjulsdriven,153,Ljusbrun,1498,28/6/2019,Volvo,V40 Cross Country
+263,"8,000",Privat,Bensin,Manuell,"  46,740 ",1999,Sedan,Tvåhjulsdriven,170,Blå,2435,22/1/1999,Volvo,S80
+264,"349,800",Företag,Bensin,Automat,"  4,776 ",2020,Sedan,Tvåhjulsdriven,251,Vit,1969,1/8/2019,Volvo,S60
+265,"159,000",Privat,Bensin,Manuell,"  10,293 ",2017,Kombi,Tvåhjulsdriven,153,Grå,1969,21/10/2016,Volvo,V60
+266,"159,900",Företag,Bensin,Manuell,"  13,868 ",2016,Kombi,Tvåhjulsdriven,191,Svart,1969,22/7/2015,Volvo,V60
+267,"269,900",Företag,Bensin,Automat,"  6,217 ",2021,Sedan,Tvåhjulsdriven,130,Svart,1477,25/2/2021,Volvo,XC40
+268,"18,000",Privat,Bensin,Manuell,"  33,854 ",1990,Sedan,Tvåhjulsdriven,116,Svart,2316,15/12/1989,Volvo,740
+269,"309,900",Företag,Bensin,Automat,"  8,237 ",2021,Sedan,Tvåhjulsdriven,198,Svart (Onyx Svart Metallic),1969,1/2/2021,Volvo,XC40
+270,"249,900",Företag,Bensin,Manuell,"  4,505 ",2021,Sedan,Tvåhjulsdriven,130,Svart,1477,23/12/2020,Volvo,XC40
+271,"32,000",Privat,Bensin,Automat,"  25,000 ",2007,Kombi,Tvåhjulsdriven,170,Grå,2435,9/6/2006,Volvo,V50
+272,"225,000",Företag,Bensin,Automat,"  11,790 ",2018,Kombi,Tvåhjulsdriven,191,Grå,1969,21/12/2017,Volvo,V90
+273,"539,800",Företag,Bensin,Automat,"  1,064 ",2020,Sedan,Fyrhjulsdriven,317,Grå (Osmium Grey Metallic),1969,20/1/2020,Volvo,S60
+274,"234,000",Företag,Bensin,Automat,"  12,109 ",2018,Kombi,Tvåhjulsdriven,191,Grå,1969,14/3/2018,Volvo,V90
+275,"329,900",Företag,Bensin,Automat,"  7,082 ",2021,SUV,Fyrhjulsdriven,198,Mörkblå,1969,1/6/2021,Volvo,XC40
+276,"189,000",Privat,Diesel,Manuell,"  13,300 ",2017,SUV,Tvåhjulsdriven,150,Röd,1969,6/4/2017,Volvo,XC60
+277,"125,000",Privat,Diesel,Manuell,"  15,737 ",2016,Halvkombi,Tvåhjulsdriven,120,Blå,1969,29/10/2015,Volvo,V40
+278,"75,000",Privat,Diesel,Automat,"  48,688 ",2016,Kombi,Tvåhjulsdriven,181,Svart,1969,19/2/2016,Volvo,V70
+279,"155,000",Privat,Diesel,Automat,"  25,680 ",2015,SUV,Fyrhjulsdriven,181,Svart,2400,23/12/2014,Volvo,XC60
+280,"35,000",Privat,Diesel,Automat,"  25,000 ",2007,Kombi,Tvåhjulsdriven,180,Blå,2400,26/7/2006,Volvo,V50
+281,"110,000",Privat,Diesel,Automat,"  29,416 ",2012,SUV,Fyrhjulsdriven,215,Svart,2400,18/4/2012,Volvo,XC60
+282,"184,000",Privat,Diesel,Automat,"  17,800 ",2015,Kombi,Fyrhjulsdriven,181,Blå,2400,15/5/2015,Volvo,XC70
+283,"210,000",Privat,Diesel,Automat,"  13,500 ",2018,Kombi,Fyrhjulsdriven,150,Vit,1969,27/6/2018,Volvo,V90
+284,"95,000",Privat,Diesel,Automat,"  30,000 ",2014,SUV,Fyrhjulsdriven,181,Vit,2400,18/3/2014,Volvo,XC60
+285,"229,000",Privat,Diesel,Automat,"  14,748 ",2016,SUV,Fyrhjulsdriven,221,Röd,2400,18/3/2016,Volvo,XC60
+286,"35,000",Privat,Diesel,Manuell,"  32,000 ",1995,Sedan,Tvåhjulsdriven,123,Svart,2383,11/3/2020,Volvo,940
+287,"110,000",Privat,Diesel,Automat,"  51,100 ",2017,Kombi,Tvåhjulsdriven,150,Vit,1969,8/2/2017,Volvo,V90
+288,"129,000",Privat,Diesel,Automat,"  24,600 ",2015,Halvkombi,Tvåhjulsdriven,200,Silver,1969,24/3/2015,Volvo,V40
+289,"290,000",Privat,Diesel,Automat,"  19,072 ",2020,Kombi,Fyrhjulsdriven,200,Grå,1969,30/12/2019,Volvo,V90 Cross Country
+290,"64,900",Privat,Diesel,Manuell,"  28,951 ",2012,Kombi,Tvåhjulsdriven,116,Vit,1560,23/6/2011,Volvo,V60
+291,"138,900",Privat,Diesel,Automat,"  34,657 ",2014,Kombi,Fyrhjulsdriven,215,Silver,2400,30/1/2014,Volvo,XC70
+292,"176,000",Privat,Diesel,Automat,"  13,350 ",2014,Kombi,Tvåhjulsdriven,200,Blå,1969,11/4/2014,Volvo,V70
+293,"115,000",Privat,Diesel,Manuell,"  12,800 ",2013,Kombi,Tvåhjulsdriven,116,Svart,1560,2/4/2013,Volvo,V60
+294,"289,800",Företag,Diesel,Automat,"  14,647 ",2017,Kombi,Fyrhjulsdriven,236,Ljusblå (Lblå),1969,22/9/2016,Volvo,V90
+295,"239,000",Företag,Diesel,Automat,"  11,960 ",2019,Kombi,Tvåhjulsdriven,150,Silver,1969,5/4/2019,Volvo,V60
+296,"299,800",Företag,Diesel,Automat,"  10,114 ",2019,Kombi,Fyrhjulsdriven,191,Vit,1969,28/1/2019,Volvo,V90 Cross Country
+297,"164,800",Företag,Diesel,Manuell,"  12,766 ",2015,Halvkombi,Tvåhjulsdriven,191,Blå,1969,29/9/2014,Volvo,V40
+298,"249,800",Företag,Diesel,Automat,"  14,329 ",2016,Kombi,Fyrhjulsdriven,181,Brun,2400,27/4/2016,Volvo,XC70
+299,"279,900",Företag,Diesel,Automat,"  13,417 ",2017,Kombi,Tvåhjulsdriven,233,Blå,1969,27/9/2016,Volvo,V60
+300,"179,700",Företag,Diesel,Manuell,"  15,500 ",2015,Kombi,Tvåhjulsdriven,181,Vit,1969,16/12/2014,Volvo,XC70
+301,"70,000",Privat,Miljöbränsle/Hybrid,Automat,"  37,000 ",2016,Kombi,Tvåhjulsdriven,245,Svart,1984,10/8/2016,Volvo,V70
+302,"20,000",Privat,Miljöbränsle/Hybrid,Manuell,"  30,229 ",2006,Kombi,Tvåhjulsdriven,141,Grön,2435,31/5/2006,Volvo,V70
+303,"50,000",Privat,Miljöbränsle/Hybrid,Manuell,"  20,000 ",2009,Kombi,Tvåhjulsdriven,146,Grå,1999,5/8/2009,Volvo,V70
+304,"348,000",Privat,Miljöbränsle/Hybrid,Automat,"  16,705 ",2018,SUV,Fyrhjulsdriven,408,Silver,1969,27/3/2018,Volvo,XC60
+305,"597,000",Privat,Miljöbränsle/Hybrid,Automat,"  8,395 ",2020,SUV,Fyrhjulsdriven,391,Svart,1969,25/6/2020,Volvo,XC90
+306,"555,000",Privat,Miljöbränsle/Hybrid,Automat,"  1,300 ",2024,SUV,Fyrhjulsdriven,399,Grå,1969,12/6/2023,Volvo,XC60
+307,"89,000",Privat,Miljöbränsle/Hybrid,Manuell,"  25,425 ",2012,Kombi,Tvåhjulsdriven,180,Röd,1596,9/6/2011,Volvo,V70
+308,"20,000",Privat,Miljöbränsle/Hybrid,Manuell,"  30,000 ",2007,Sedan,Tvåhjulsdriven,126,Silver,1798,30/12/2005,Volvo,S40
+309,"39,900",Privat,Miljöbränsle/Hybrid,Manuell,"  33,203 ",2009,Kombi,Tvåhjulsdriven,146,Grå,1999,12/6/2008,Volvo,V70
+310,"29,500",Privat,Miljöbränsle/Hybrid,Manuell,"  24,814 ",2008,Kombi,Tvåhjulsdriven,126,Grön,1798,12/11/2007,Volvo,V50
+311,"35,000",Privat,Miljöbränsle/Hybrid,Manuell,"  31,049 ",2008,Kombi,Tvåhjulsdriven,146,Brun,1999,11/1/2008,Volvo,V70
+312,"95,000",Privat,Miljöbränsle/Hybrid,Manuell,"  24,170 ",2012,Kombi,Tvåhjulsdriven,180,Röd,1596,17/1/2012,Volvo,V60
+313,"70,000",Privat,Miljöbränsle/Hybrid,Automat,"  31,291 ",2010,Kombi,Tvåhjulsdriven,232,Svart,2521,3/3/2010,Volvo,V70
+314,"74,900",Privat,Miljöbränsle/Hybrid,Manuell,"  21,149 ",2010,Kombi,Tvåhjulsdriven,146,Grå,1999,26/2/2010,Volvo,V70
+315,"12,000",Privat,Miljöbränsle/Hybrid,Manuell,"  35,255 ",2008,Kombi,Tvåhjulsdriven,146,Röd,1999,15/5/2008,Volvo,V70
+316,"360,000",Privat,Miljöbränsle/Hybrid,Automat,"  10,645 ",2020,Kombi,Fyrhjulsdriven,391,Vit,1969,22/1/2020,Volvo,V90
+317,"35,900",Privat,Miljöbränsle/Hybrid,Manuell,"  23,837 ",2007,Kombi,Tvåhjulsdriven,141,Svart,2435,4/5/2007,Volvo,V70
+318,"65,000",Privat,Miljöbränsle/Hybrid,Automat,"  19,395 ",2010,Kombi,Tvåhjulsdriven,146,Brun,1999,1/10/2009,Volvo,V70
+319,"110,000",Privat,Miljöbränsle/Hybrid,Manuell,  20 ,1988,Sedan,Tvåhjulsdriven,131,Blå,2316,16/6/1988,Volvo,740
+320,"449,000",Privat,Miljöbränsle/Hybrid,Automat,"  17,285 ",2016,SUV,Fyrhjulsdriven,407,Grå,1969,15/3/2016,Volvo,XC90
+321,"539,900",Företag,Miljöbränsle/Hybrid,Automat,"  7,215 ",2022,SUV,Fyrhjulsdriven,304,Svart,1969,29/11/2021,Volvo,XC60
+322,"69,900",Företag,Miljöbränsle/Hybrid,Automat,"  29,103 ",2009,Kombi,Tvåhjulsdriven,200,Silver,2521,1/4/2009,Volvo,V70
+323,"469,800",Företag,Miljöbränsle/Hybrid,Automat,"  1,192 ",2022,Kombi,Fyrhjulsdriven,340,Silver,1969,30/11/2021,Volvo,V60
+324,"694,500",Företag,Miljöbränsle/Hybrid,Automat,"  2,624 ",2023,SUV,Fyrhjulsdriven,463,Ljusgrå (Grå),1969,12/4/2023,Volvo,XC60
+325,"234,800",Företag,Miljöbränsle/Hybrid,Automat,"  12,700 ",2018,Kombi,Fyrhjulsdriven,164,Svart,2400,27/4/2018,Volvo,V60
+326,"419,900",Företag,El,Automat,"  7,335 ",2021,SUV,Fyrhjulsdriven,408,Grå (Grey),,24/2/2021,Volvo,XC40
+327,"609,000",Företag,El,Automat,  454 ,2024,SUV,Tvåhjulsdriven,256,Silver,,19/9/2023,Volvo,XC40
+328,"469,900",Företag,El,Automat,"  2,395 ",2023,Sedan,Tvåhjulsdriven,232,Ljusgrå (Bright Dusk Metallic),,30/12/2022,Volvo,XC40
+329,"639,900",Företag,El,Automat,"  1,067 ",2024,SUV,Fyrhjulsdriven,414,Grå,,21/8/2023,Volvo,C40
+330,"489,000",Företag,El,Automat,"  5,240 ",2021,SUV,Fyrhjulsdriven,414,Svart,,12/4/2021,Volvo,XC40
+331,"499,900",Företag,El,Automat,"  2,093 ",2022,SUV,Fyrhjulsdriven,414,Grå,,13/7/2022,Volvo,XC40
+332,"459,500",Företag,El,Automat,"  1,892 ",2023,SUV,Tvåhjulsdriven,234,Blå,,29/9/2022,Volvo,XC40
+333,"439,500",Företag,El,Automat,"  3,666 ",2023,SUV,Tvåhjulsdriven,234,Grå,,28/12/2022,Volvo,C40
+334,"449,500",Företag,El,Automat,"  1,929 ",2023,SUV,Tvåhjulsdriven,234,Vit,,1/3/2023,Volvo,C40
+335,"459,900",Företag,El,Automat,"  7,364 ",2021,Sedan,Fyrhjulsdriven,408,Svart (Onyx Svart Metallic),,2/3/2021,Volvo,XC40
+336,"459,500",Företag,El,Automat,"  1,224 ",2023,SUV,Tvåhjulsdriven,234,Grå,,26/9/2022,Volvo,XC40
+337,"459,800",Företag,El,Automat,"  1,261 ",2023,Sedan,Tvåhjulsdriven,232,Vit (Crystal Vit Metallic),,5/5/2023,Volvo,C40
+338,"499,000",Företag,El,Automat,  722 ,2021,SUV,Fyrhjulsdriven,414,Grå,,15/10/2020,Volvo,XC40
+339,"519,500",Företag,El,Automat,"  2,439 ",2023,SUV,Fyrhjulsdriven,414,Grön,,23/1/2023,Volvo,C40
+340,"469,500",Företag,El,Automat,"  1,354 ",2023,SUV,Tvåhjulsdriven,234,Blå,,7/10/2022,Volvo,C40
+341,"499,500",Företag,El,Automat,"  2,114 ",2023,SUV,Fyrhjulsdriven,414,Svart,,10/3/2023,Volvo,C40
+342,"438,900",Företag,El,Automat,"  1,500 ",2023,SUV,Tvåhjulsdriven,234,Svart,,28/2/2023,Volvo,XC40
+343,"499,000",Företag,El,Automat,"  2,199 ",2021,SUV,Fyrhjulsdriven,414,Grå,,15/10/2020,Volvo,XC40
+344,"467,000",Företag,El,Automat,"  3,223 ",2021,SUV,Fyrhjulsdriven,414,Grå,,26/2/2021,Volvo,XC40
+345,"604,000",Företag,El,Automat,  257 ,2024,SUV,Fyrhjulsdriven,414,Grå,,28/8/2023,Volvo,XC40
+346,"459,000",Företag,El,Automat,  312 ,2023,SUV,Tvåhjulsdriven,234,Blå,,14/7/2023,Volvo,C40
+347,"439,000",Företag,El,Automat,"  1,048 ",2023,SUV,Tvåhjulsdriven,234,Silver,,17/3/2023,Volvo,C40
+348,"479,000",Företag,El,Automat,"  3,780 ",2022,SUV,Fyrhjulsdriven,414,Vit,,18/3/2022,Volvo,C40
+349,"539,800",Företag,El,Automat,"  2,350 ",2023,SUV,Fyrhjulsdriven,414,Vit,,15/11/2022,Volvo,C40
+350,"494,900",Företag,El,Automat,"  2,919 ",2022,Sedan,Fyrhjulsdriven,408,Röd (Fusion Red Metallic),,29/11/2021,Volvo,C40
+351,"237,200",Företag,Bensin,Manuell,"  4,483 ",2021,SUV,Tvåhjulsdriven,131,Grå,1477,30/4/2021,Volvo,XC40
+352,"23,000",Privat,Bensin,Automat,"  35,017 ",2004,Sedan,Tvåhjulsdriven,141,Grå,2435,3/7/2003,Volvo,S60
+353,"58,900",Företag,Bensin,Automat,"  16,060 ",2006,Kombi,Tvåhjulsdriven,141,Blå,2435,5/7/2005,Volvo,V50
+354,"49,999",Företag,Bensin,Manuell,"  25,999 ",1993,Sedan,Tvåhjulsdriven,116,Vit,,23/4/1993,Volvo,940
+355,"169,900",Företag,Bensin,Manuell,"  9,036 ",2018,Halvkombi,Tvåhjulsdriven,153,Vit,1969,27/4/2018,Volvo,V40 Cross Country
+356,"9,500",Privat,Bensin,Manuell,"  17,429 ",2004,Kombi,Tvåhjulsdriven,123,Grå,1783,18/7/2003,Volvo,V40
+357,"39,900",Privat,Bensin,Automat,"  23,888 ",2001,Kombi,Tvåhjulsdriven,200,Grön,2435,6/12/2000,Volvo,V70
+358,"64,500",Privat,Bensin,Manuell,"  29,124 ",1998,Sedan,Tvåhjulsdriven,165,Blå,2316,13/2/1998,Volvo,940
+359,"75,000",Privat,Bensin,Manuell,"  9,434 ",1982,Sedan,Tvåhjulsdriven,112,Röd,2316,19/10/1981,Volvo,240
+360,"89,900",Företag,Bensin,Automat,"  24,598 ",2008,Kombi,Fyrhjulsdriven,238,Svart,3192,27/11/2007,Volvo,XC70
+361,"17,000",Privat,Bensin,Manuell,"  30,718 ",1997,Kombi,Tvåhjulsdriven,135,Röd,2316,30/8/1996,Volvo,940
+362,"229,000",Företag,Bensin,Automat,"  11,955 ",2019,Kombi,Tvåhjulsdriven,192,Mörkbrun (Brun),1969,25/4/2019,Volvo,V90
+363,"229,000",Företag,Bensin,Automat,"  15,453 ",2020,Kombi,Tvåhjulsdriven,192,Vit,1969,20/9/2019,Volvo,V60
+364,"43,000",Privat,Bensin,Automat,"  25,539 ",2007,Kombi,Tvåhjulsdriven,170,Svart,2435,19/9/2006,Volvo,V70
+365,"24,500",Privat,Bensin,Automat,"  28,100 ",2000,Kombi,Fyrhjulsdriven,194,Grå,2435,13/7/2022,Volvo,V70
+366,"17,900",Privat,Bensin,Automat,"  44,827 ",2002,Kombi,Tvåhjulsdriven,251,Svart,2319,20/11/2001,Volvo,V70
+367,"238,900",Företag,Bensin,Manuell,"  6,792 ",2020,SUV,Tvåhjulsdriven,164,Vit,1477,30/3/2020,Volvo,XC40
+368,"379,000",Företag,Bensin,Automat,"  3,090 ",2020,SUV,Fyrhjulsdriven,251,Mörkblå (Blå),1969,28/10/2019,Volvo,XC60
+369,"339,400",Företag,Bensin,Automat,"  5,441 ",2019,Sedan,Tvåhjulsdriven,251,Grå,1969,9/4/2019,Volvo,S60
+370,"184,500",Företag,Bensin,Automat,"  9,400 ",2018,Familjebuss,Tvåhjulsdriven,153,Silver,1498,7/3/2018,Volvo,V40
+371,"338,800",Företag,Bensin,Automat,"  8,000 ",2020,Kombi,Tvåhjulsdriven,253,Vit,1969,8/11/2019,Volvo,V60
+372,"29,867",Företag,Bensin,Automat,"  28,435 ",2002,Kombi,Tvåhjulsdriven,170,Ljusgrå (Silvermetallic),2435,4/3/2002,Volvo,V70
+373,"9,900",Företag,Bensin,Manuell,"  16,900 ",1998,Sedan,Tvåhjulsdriven,105,Mörkgrön (Grön),,23/6/1998,Volvo,S40
+374,"22,000",Privat,Bensin,Manuell,"  26,271 ",2002,Kombi,Tvåhjulsdriven,141,Blå,2435,10/4/2002,Volvo,V70
+375,"39,900",Företag,Bensin,Automat,"  24,100 ",2004,Kombi,Tvåhjulsdriven,170,Svart,2435,17/6/2004,Volvo,V70
+376,"562,300",Företag,Bensin,Automat,  -   ,2024,SUV,Fyrhjulsdriven,253,Silver,1969,,Volvo,V90 Cross Country
+377,"439,900",Företag,Bensin,Automat,"  2,351 ",2022,SUV,Tvåhjulsdriven,253,Silver,1969,3/1/2022,Volvo,XC60
+378,"279,000",Företag,Bensin,Automat,"  10,419 ",2019,Kombi,Tvåhjulsdriven,253,Svart,1969,8/1/2019,Volvo,V60
+379,"94,900",Företag,Bensin,Manuell,"  22,233 ",2011,Kombi,Tvåhjulsdriven,180,Vit,1596,26/5/2011,Volvo,V70
+380,"169,900",Företag,Bensin,Automat,"  16,682 ",2012,Sedan,Fyrhjulsdriven,305,Röd,2953,6/2/2012,Volvo,S60
+381,"315,000",Privat,Bensin,Automat,"  8,775 ",2018,Sedan,Tvåhjulsdriven,262,Svart,1969,18/6/2018,Volvo,S90
+382,"65,000",Företag,Bensin,Manuell,"  13,400 ",2007,Sedan,Tvåhjulsdriven,141,Blå,2435,11/12/2006,Volvo,S60
+383,"48,000",Privat,Bensin,Manuell,"  23,232 ",1994,Kombi,Tvåhjulsdriven,116,Vit,2316,17/5/1994,Volvo,940
+384,"489,900",Företag,Bensin,Automat,"  9,625 ",2018,SUV,Fyrhjulsdriven,320,Vit,1969,27/3/2018,Volvo,XC90
+385,"13,000",Privat,Bensin,Manuell,"  34,019 ",2007,Sedan,Tvåhjulsdriven,141,Blå,2435,10/8/2006,Volvo,S40
+386,"399,000",Företag,Bensin,Automat,  603 ,2024,Kombi,Tvåhjulsdriven,200,Grå,1969,30/6/2023,Volvo,V60
+387,"334,000",Företag,Bensin,Automat,"  4,392 ",2021,Sedan,Tvåhjulsdriven,253,Mörkblå (Blå),1969,18/9/2020,Volvo,S60
+388,"64,900",Företag,Bensin,Automat,"  26,029 ",2006,Kombi,Fyrhjulsdriven,210,Grå,2521,19/8/2005,Volvo,XC70
+389,"79,900",Företag,Bensin,Manuell,"  19,300 ",2008,Kombi,Tvåhjulsdriven,146,Ljusblå (Blå),1999,20/12/2007,Volvo,V70
+390,"59,900",Företag,Bensin,Manuell,"  23,060 ",2006,Kombi,Fyrhjulsdriven,210,Ljusbrun (Brun),2521,5/10/2005,Volvo,XC70
+391,"29,900",Företag,Bensin,Automat,"  26,500 ",2002,Kombi,Tvåhjulsdriven,170,Grön,2435,4/9/2002,Volvo,V70
+392,"109,900",Företag,Bensin,Manuell,"  17,045 ",2013,Kombi,Tvåhjulsdriven,150,Ljusgrå,1596,21/12/2012,Volvo,V60
+393,"539,900",Företag,Bensin,Automat,  -   ,2024,Kombi,Fyrhjulsdriven,253,Grå,1969,,Volvo,V60 Cross Country
+394,"21,900",Privat,Bensin,Manuell,"  28,665 ",2002,Kombi,Tvåhjulsdriven,141,Grön,2435,27/5/2002,Volvo,V70
+395,"32,000",Privat,Bensin,Manuell,"  40,330 ",1996,Kombi,Tvåhjulsdriven,135,Grå,2316,13/12/1995,Volvo,940
+396,"26,000",Privat,Bensin,Manuell,"  27,056 ",2001,Kombi,Tvåhjulsdriven,141,Grön,2435,19/12/2000,Volvo,V70
+397,"229,800",Företag,Bensin,Automat,"  5,168 ",2019,Halvkombi,Tvåhjulsdriven,153,Silver,1498,27/3/2019,Volvo,V40 Cross Country
+398,"94,800",Företag,Bensin,Automat,"  25,472 ",2016,Halvkombi,Tvåhjulsdriven,123,Svart,1498,25/6/2015,Volvo,V40
+399,"13,000",Privat,Bensin,Manuell,"  24,265 ",2001,Sedan,Tvåhjulsdriven,170,Gul,2435,6/6/2001,Volvo,S60
+400,"25,000",Privat,Bensin,Manuell,"  28,661 ",2004,Kombi,Tvåhjulsdriven,141,Grå,2435,4/12/2003,Volvo,V70
+401,"185,000",Privat,Bensin,Automat,"  7,575 ",2009,Cab,Tvåhjulsdriven,253,Röd,2521,4/7/2009,Volvo,C70
+402,"27,500",Privat,Bensin,Manuell,"  12,273 ",1998,Sedan,Tvåhjulsdriven,141,Grå,1948,8/5/1998,Volvo,S40
+403,"14,000",Privat,Bensin,Manuell,"  28,235 ",2000,Kombi,Tvåhjulsdriven,170,Röd,2435,21/10/1999,Volvo,V70
+404,"345,000",Privat,Bensin,Automat,"  5,300 ",2020,Sedan,Tvåhjulsdriven,251,Grå,1969,29/7/2019,Volvo,S60
+405,"45,000",Privat,Bensin,Automat,"  28,062 ",2008,Kombi,Tvåhjulsdriven,200,Brun,2521,17/9/2007,Volvo,V70
+406,"25,000",Privat,Bensin,Manuell,"  28,468 ",2000,Kombi,Tvåhjulsdriven,141,Röd,2435,3/11/1999,Volvo,V70
+407,"18,000",Privat,Bensin,Manuell,"  33,000 ",1994,Kombi,Tvåhjulsdriven,116,Röd,2316,24/8/1993,Volvo,940
+408,"40,000",Privat,Bensin,Manuell,"  20,598 ",2007,Kombi,Fyrhjulsdriven,221,Röd,2521,21/9/2006,Volvo,V50
+409,"6,000",Privat,Bensin,Manuell,"  27,000 ",2005,Sedan,Tvåhjulsdriven,170,Svart,2435,8/9/2004,Volvo,S40
+410,"14,000",Privat,Bensin,Manuell,"  38,977 ",1995,Sedan,Tvåhjulsdriven,145,Blå,2435,27/2/1995,Volvo,850
+411,"20,000",Privat,Bensin,Manuell,"  21,076 ",2005,Kombi,Tvåhjulsdriven,101,Grå,1596,20/4/2005,Volvo,V50
+412,"53,900",Privat,Bensin,Automat,"  15,868 ",2005,Sedan,Fyrhjulsdriven,210,Röd,2521,27/5/2005,Volvo,S80
+413,"65,000",Privat,Bensin,Manuell,"  11,377 ",1998,Kombi,Fyrhjulsdriven,194,Röd,2435,27/6/1997,Volvo,V70
+414,"38,500",Privat,Bensin,Automat,"  24,255 ",2002,Sedan,Tvåhjulsdriven,200,Grå,2435,6/6/2002,Volvo,S80
+415,"30,000",Privat,Bensin,Manuell,"  19,134 ",2006,Kombi,Tvåhjulsdriven,141,Blå,2435,2/9/2005,Volvo,V50
+416,"32,000",Privat,Bensin,Manuell,"  14,280 ",2003,Kombi,Tvåhjulsdriven,141,Grå,2435,3/10/2002,Volvo,V70
+417,"21,000",Privat,Bensin,Manuell,"  28,559 ",1999,Kombi,Tvåhjulsdriven,165,Grå,2435,13/11/1998,Volvo,V70
+418,"25,000",Privat,Bensin,Manuell,"  32,782 ",2005,Kombi,Tvåhjulsdriven,170,Blå,2435,2/9/2004,Volvo,V70
+419,"125,000",Privat,Bensin,Manuell,"  15,830 ",2011,Sedan,Tvåhjulsdriven,241,Vit,1999,16/4/2014,Volvo,S60
+420,"30,000",Privat,Bensin,Manuell,"  32,133 ",2001,Kombi,Tvåhjulsdriven,200,Grön,2435,5/6/2001,Volvo,V70
+421,"15,000",Privat,Bensin,Manuell,"  35,634 ",2004,Kombi,Tvåhjulsdriven,210,Grå,2521,23/12/2003,Volvo,V70
+422,"21,500",Privat,Bensin,Manuell,"  34,275 ",2006,Kombi,Tvåhjulsdriven,170,Brun,2435,21/6/2006,Volvo,V70
+423,"42,000",Privat,Bensin,Manuell,"  29,070 ",2006,Kombi,Tvåhjulsdriven,141,Grå,2435,30/9/2005,Volvo,V70
+424,"9,500",Privat,Bensin,Manuell,"  39,789 ",2005,Kombi,Tvåhjulsdriven,141,Grön,2435,17/12/2004,Volvo,V70
+425,"56,000",Privat,Bensin,Automat,"  29,576 ",2005,SUV,Fyrhjulsdriven,210,Grå,2521,4/4/2005,Volvo,XC90
+426,"16,000",Privat,Bensin,Manuell,"  32,847 ",2000,Kombi,Tvåhjulsdriven,141,Grå,2435,27/3/2000,Volvo,V70
+427,"26,500",Privat,Bensin,Manuell,"  21,586 ",2006,Kombi,Tvåhjulsdriven,126,Grå,1798,22/11/2005,Volvo,V50
+428,"19,000",Privat,Bensin,Manuell,"  32,200 ",1999,Sedan,Tvåhjulsdriven,127,Blå,1984,18/12/1998,Volvo,S70
+429,"17,000",Privat,Bensin,Manuell,"  36,692 ",2004,Sedan,Tvåhjulsdriven,210,Svart,2521,2/6/2003,Volvo,S60
+430,"9,900",Privat,Bensin,Manuell,"  36,000 ",2003,Sedan,Tvåhjulsdriven,200,Gul,1948,6/12/2002,Volvo,S40
+431,"219,900",Företag,Bensin,Automat,"  8,602 ",2016,Kombi,Tvåhjulsdriven,191,Vit,1969,13/10/2015,Volvo,V70
+432,"329,000",Företag,Bensin,Automat,"  4,309 ",2021,SUV,Fyrhjulsdriven,198,Vit,1969,13/1/2021,Volvo,XC40
+433,"29,900",Företag,Bensin,Manuell,"  20,600 ",2004,Kombi,Tvåhjulsdriven,164,Grå,1948,11/7/2003,Volvo,V40
+434,"27,000",Privat,Bensin,Manuell,"  22,195 ",2004,Sedan,Tvåhjulsdriven,141,Brun,2435,23/9/2003,Volvo,S80
+435,"75,000",Privat,Bensin,Automat,"  25,306 ",2007,Sedan,Tvåhjulsdriven,200,Grå,2521,5/10/2006,Volvo,S80
+436,"13,000",Privat,Bensin,Manuell,"  38,000 ",2001,Kombi,Tvåhjulsdriven,141,Grön,2435,3/11/2000,Volvo,V70
+437,"22,000",Privat,Bensin,Automat,"  28,311 ",2001,Sedan,Tvåhjulsdriven,141,Grå,2435,6/9/2001,Volvo,S80
+438,"320,000",Privat,Bensin,Automat,"  9,800 ",2019,Kombi,Fyrhjulsdriven,310,Svart,1969,28/6/2018,Volvo,V60
+439,"42,000",Privat,Bensin,Automat,"  26,270 ",2006,Kombi,Tvåhjulsdriven,170,Brun,2435,30/12/2005,Volvo,V70
+440,"279,900",Företag,Bensin,Automat,"  4,632 ",2021,SUV,Tvåhjulsdriven,130,Vit (Ice Vit),1477,18/12/2020,Volvo,XC40
+441,"13,000",Privat,Bensin,Automat,"  29,023 ",2001,Kombi,Fyrhjulsdriven,200,Brun,2435,19/10/2001,Volvo,XC70
+442,"69,900",Företag,Bensin,Automat,"  16,836 ",2006,Kombi,Tvåhjulsdriven,141,Grå,2435,18/8/2006,Volvo,V70
+443,"459,000",Företag,Bensin,Automat,"  5,867 ",2019,Kombi,Fyrhjulsdriven,304,Blå,1969,23/11/2018,Volvo,XC60
+444,"309,000",Företag,Bensin,Automat,"  3,331 ",2022,SUV,Tvåhjulsdriven,165,Mörkblå (Blå),1477,31/5/2022,Volvo,XC40
+445,"16,000",Privat,Bensin,Manuell,"  25,600 ",2001,Sedan,Tvåhjulsdriven,141,Gul,2435,29/5/2001,Volvo,S60
+446,"12,499",Privat,Bensin,Manuell,"  29,409 ",2006,Kombi,Tvåhjulsdriven,141,Grå,2435,31/10/2005,Volvo,V70
+447,"9,500",Privat,Bensin,Manuell,"  35,927 ",1999,Kombi,Fyrhjulsdriven,194,Röd,2435,24/3/1999,Volvo,XC70
+448,"25,000",Privat,Bensin,Manuell,"  19,902 ",2005,Kombi,Tvåhjulsdriven,126,Blå,1798,10/5/2005,Volvo,V50
+449,"22,000",Privat,Bensin,Manuell,"  36,000 ",2005,Kombi,Tvåhjulsdriven,141,Grå,2435,13/12/2004,Volvo,V70
+450,"12,000",Privat,Bensin,Manuell,"  36,062 ",1999,Kombi,Tvåhjulsdriven,145,Grå,2435,29/12/1998,Volvo,V70
+451,"329,900",Företag,Miljöbränsle/Hybrid,Automat,"  7,017 ",2021,Kombi,Fyrhjulsdriven,340,Svart,1969,5/10/2020,Volvo,V60
+452,"324,900",Företag,Miljöbränsle/Hybrid,Automat,"  9,335 ",2021,SUV,Tvåhjulsdriven,211,Svart,1477 ,9/2/2021,Volvo,XC40
+453,"399,900",Företag,Miljöbränsle/Hybrid,Automat,"  8,437 ",2020,SUV,Fyrhjulsdriven,391,Vit (White),1969,26/5/2020,Volvo,XC60
+454,"379,900",Företag,Miljöbränsle/Hybrid,Automat,"  6,948 ",2021,SUV,Fyrhjulsdriven,340,Vit (White),1969,16/10/2020,Volvo,XC60
+455,"299,900",Företag,Miljöbränsle/Hybrid,Automat,"  9,960 ",2020,Kombi,Fyrhjulsdriven,391,Svart (Black),1969,9/9/2019,Volvo,V60
+456,"639,000",Företag,Miljöbränsle/Hybrid,Automat,"  1,095 ",2024,Kombi,Fyrhjulsdriven,463,Grå,1969,16/6/2023,Volvo,V60
+457,"639,000",Företag,Miljöbränsle/Hybrid,Automat,"  7,545 ",2021,SUV,Fyrhjulsdriven,396,Svart,1969,12/10/2020,Volvo,XC90
+458,"32,500",Privat,Miljöbränsle/Hybrid,,"  23,500 ",2007,Kombi,Tvåhjulsdriven,141,Blå,2435,8/6/2007,Volvo,V70
+459,"328,500",Företag,Miljöbränsle/Hybrid,Automat,"  4,000 ",2020,Kombi,Fyrhjulsdriven,344,Vit,1969,30/12/2019,Volvo,V60
+460,"574,500",Företag,Miljöbränsle/Hybrid,Automat,"  1,178 ",2024,Kombi,Fyrhjulsdriven,404,Grå,1969,3/7/2023,Volvo,V90
+461,"339,500",Företag,Miljöbränsle/Hybrid,Automat,"  7,708 ",2021,Kombi,Fyrhjulsdriven,344,Grå,1969,17/12/2020,Volvo,V60
+462,"49,900",Företag,Miljöbränsle/Hybrid,Manuell,"  22,000 ",2010,Kombi,Tvåhjulsdriven,126,Ljusgrå (Grå),1798,17/2/2009,Volvo,V50
+463,"469,000",Företag,Miljöbränsle/Hybrid,Automat,"  8,120 ",2021,Kombi,Fyrhjulsdriven,344,Svart,1969,30/3/2021,Volvo,V90
+464,"789,000",Företag,Miljöbränsle/Hybrid,Automat,  274 ,2024,SUV,Fyrhjulsdriven,463,Grå,1969,19/12/2023,Volvo,XC60
+465,"559,000",Företag,Miljöbränsle/Hybrid,Automat,"  5,523 ",2023,SUV,Fyrhjulsdriven,404,Silver,1969 ,11/7/2022,Volvo,XC60
+466,"89,900",Företag,Miljöbränsle/Hybrid,Automat,"  16,169 ",2010,Kombi,Tvåhjulsdriven,146,Grå,1999,10/5/2010,Volvo,V70
+467,"714,900",Företag,Miljöbränsle/Hybrid,Automat,  -   ,2023,Sedan,Fyrhjulsdriven,463,Mörkblå (Blå),1969,,Volvo,S90
+468,"189,900",Företag,Miljöbränsle/Hybrid,Automat,"  14,219 ",2016,Kombi,Fyrhjulsdriven,232,Grå,2400,29/4/2016,Volvo,V60
+469,"579,000",Privat,Miljöbränsle/Hybrid,Automat,"  3,200 ",2023,Kombi,Fyrhjulsdriven,399,Silver,1969,10/2/2023,Volvo,V90
+470,"359,900",Företag,Miljöbränsle/Hybrid,Automat,"  8,424 ",2020,Kombi,Fyrhjulsdriven,392,Vit,1969,18/6/2019,Volvo,V60
+471,"434,900",Företag,Miljöbränsle/Hybrid,Automat,"  8,485 ",2020,SUV,Fyrhjulsdriven,391,Grå,1969,10/9/2019,Volvo,XC60
+472,"420,000",Privat,Miljöbränsle/Hybrid,Automat,"  14,650 ",2018,SUV,Fyrhjulsdriven,407,Vit,1969,17/11/2017,Volvo,XC90
+473,"775,000",Privat,Miljöbränsle/Hybrid,Automat,"  4,100 ",2021,SUV,Fyrhjulsdriven,391,Svart,1969,27/11/2020,Volvo,XC90
+474,"469,000",Företag,Miljöbränsle/Hybrid,Automat,"  6,000 ",2020,SUV,Fyrhjulsdriven,253,Grå,1969,5/5/2021,Volvo,XC60
+475,"439,900",Företag,Miljöbränsle/Hybrid,Automat,"  6,949 ",2020,SUV,Fyrhjulsdriven,391,Svart,1969,10/3/2020,Volvo,XC60
+476,"439,000",Företag,Miljöbränsle/Hybrid,Automat,"  4,777 ",2022,Sedan,Fyrhjulsdriven,396,Svart,1969,8/4/2022,Volvo,S60
+477,"704,800",Företag,Miljöbränsle/Hybrid,Automat,  300 ,2024,Sedan,Fyrhjulsdriven,463,Grå,1969,15/3/2024,Volvo,S60
+478,"334,900",Företag,Miljöbränsle/Hybrid,Automat,"  5,269 ",2021,Kombi,Fyrhjulsdriven,253,Svart,1969,13/11/2020,Volvo,V60
+479,"329,900",Företag,Miljöbränsle/Hybrid,Automat,"  6,713 ",2021,Kombi,Fyrhjulsdriven,253,Svart,1969,10/12/2020,Volvo,V60
+480,"549,000",Företag,Miljöbränsle/Hybrid,Automat,"  6,356 ",2023,SUV,Fyrhjulsdriven,404,Grå,1969,25/10/2022,Volvo,XC60
+481,"699,900",Företag,Miljöbränsle/Hybrid,Automat,  -   ,2024,SUV,Fyrhjulsdriven,399,Silver,1969,28/12/2023,Volvo,XC60
+482,"39,700",Företag,Miljöbränsle/Hybrid,Manuell,"  21,000 ",2007,Halvkombi,Tvåhjulsdriven,126,Blå,1798,8/3/2007,Volvo,C30
+483,"114,800",Företag,Miljöbränsle/Hybrid,Automat,"  22,000 ",2012,Kombi,Tvåhjulsdriven,180,Silver (Grå),1596,24/2/2012,Volvo,V70
+484,"359,900",Företag,Miljöbränsle/Hybrid,Automat,"  11,375 ",2020,Sedan,Fyrhjulsdriven,398,Röd,1969,10/7/2020,Volvo,S60
+485,"565,000",Företag,Miljöbränsle/Hybrid,Automat,"  8,699 ",2019,SUV,Fyrhjulsdriven,391,Vit (Chrystallwhitemetallic),1969,7/12/2018,Volvo,XC90
+486,"62,000",Privat,Miljöbränsle/Hybrid,Automat,"  28,441 ",2011,Kombi,Tvåhjulsdriven,232,Grå,2521,11/11/2010,Volvo,V70
+487,"679,900",Företag,Miljöbränsle/Hybrid,Automat,"  9,827 ",2022,SUV,Fyrhjulsdriven,391,Svart,1969,22/12/2021,Volvo,XC90
+488,"25,000",Privat,Miljöbränsle/Hybrid,Automat,"  30,071 ",2007,Kombi,Tvåhjulsdriven,141,Blå,2435,28/9/2006,Volvo,V70
+489,"429,000",Företag,Miljöbränsle/Hybrid,Automat,"  7,083 ",2021,SUV,Fyrhjulsdriven,344,Mörkgrå (Grå),1969 ,28/12/2020,Volvo,XC60
+490,"469,900",Företag,Miljöbränsle/Hybrid,Automat,"  4,159 ",2021,SUV,Fyrhjulsdriven,344,Mörkblå (Blå),1969,17/12/2020,Volvo,XC60
+491,"469,500",Företag,Miljöbränsle/Hybrid,Automat,"  2,860 ",2023,Kombi,Fyrhjulsdriven,404,Silver,1969,29/12/2022,Volvo,V60
+492,"499,000",Företag,Miljöbränsle/Hybrid,Automat,"  3,100 ",2022,Kombi,Fyrhjulsdriven,404,Grå,1969,11/5/2022,Volvo,V90
+493,"419,000",Företag,Miljöbränsle/Hybrid,Automat,"  12,000 ",2021,SUV,Fyrhjulsdriven,344,Blå,1969,5/11/2020,Volvo,XC60
+494,"469,500",Företag,Miljöbränsle/Hybrid,Automat,"  7,800 ",2020,SUV,Fyrhjulsdriven,396,Röd,1969,12/10/2020,Volvo,XC60
+495,"359,000",Företag,Miljöbränsle/Hybrid,Automat,"  7,625 ",2020,Kombi,Fyrhjulsdriven,392,Grå (Savile Grey Metallic),1969,2/3/2020,Volvo,V60
+496,"419,900",Företag,Miljöbränsle/Hybrid,Automat,"  4,023 ",2022,Kombi,Fyrhjulsdriven,344,Svart,1969,30/6/2021,Volvo,V60
+497,"414,900",Företag,Miljöbränsle/Hybrid,Automat,"  7,639 ",2020,SUV,Fyrhjulsdriven,396,Svart,1969,6/8/2020,Volvo,XC60
+498,"429,900",Företag,Miljöbränsle/Hybrid,Automat,"  8,426 ",2021,SUV,Fyrhjulsdriven,344,Mörkblå (Blå),1969,21/12/2020,Volvo,XC60
+499,"389,900",Företag,Miljöbränsle/Hybrid,Automat,"  7,781 ",2020,SUV,Tvåhjulsdriven,266,Svart,1477,11/6/2020,Volvo,XC40
+500,"519,500",Företag,Miljöbränsle/Hybrid,Automat,"  6,291 ",2021,SUV,Fyrhjulsdriven,396,Mörkgrå (Grå),1969,25/3/2021,Volvo,XC60
+501,"22,000",Privat,Miljöbränsle/Hybrid,Manuell,"  19,513 ",2006,Sedan,Tvåhjulsdriven,126,Silver,1798,3/5/2006,Volvo,S40
+502,"30,000",Privat,Miljöbränsle/Hybrid,Manuell,"  22,500 ",2008,Sedan,Tvåhjulsdriven,126,Blå,1798,3/3/2008,Volvo,V50
+503,"70,000",Privat,Miljöbränsle/Hybrid,Automat,"  28,000 ",2009,Kombi,Tvåhjulsdriven,200,Svart,2521 ,27/4/2009,Volvo,V70
+504,"55,000",Privat,Miljöbränsle/Hybrid,Manuell,"  22,080 ",2009,Kombi,Tvåhjulsdriven,146,Brun,1999,30/4/2009,Volvo,V70
+505,"68,500",Privat,Miljöbränsle/Hybrid,Manuell,"  26,761 ",2011,Kombi,Tvåhjulsdriven,232,Röd,2521,23/5/2011,Volvo,V70
+506,"28,000",Privat,Miljöbränsle/Hybrid,Manuell,"  27,878 ",2010,Kombi,Tvåhjulsdriven,146,Svart,1999,4/3/2010,Volvo,V50
+507,"120,000",Privat,Miljöbränsle/Hybrid,Automat,"  16,080 ",2012,Kombi,Tvåhjulsdriven,180,Svart,1596,1/3/2012,Volvo,V60
+508,"179,999",Privat,Miljöbränsle/Hybrid,Automat,"  10,404 ",2016,Kombi,Tvåhjulsdriven,245,Vit,1969,8/1/2016,Volvo,V60
+509,"6,000",Privat,Miljöbränsle/Hybrid,Manuell,"  37,000 ",2005,Sedan,Tvåhjulsdriven,141,Blå,2435,18/1/2005,Volvo,S60
+510,"139,900",Privat,Miljöbränsle/Hybrid,Automat,"  24,990 ",2013,Kombi,Fyrhjulsdriven,283,Silver,2400,1/3/2013,Volvo,V60
+511,"36,000",Privat,Miljöbränsle/Hybrid,Manuell,"  17,290 ",2009,Kombi,Tvåhjulsdriven,126,Svart,1798,3/4/2009,Volvo,V50
+512,"215,000",Privat,Miljöbränsle/Hybrid,Automat,"  11,408 ",2018,Kombi,Fyrhjulsdriven,232,Silver,2400,8/8/2018,Volvo,V60
+513,"40,000",Privat,Miljöbränsle/Hybrid,Manuell,"  18,259 ",2009,Kombi,Tvåhjulsdriven,126,Brun,1798,28/8/2008,Volvo,V50
+514,"99,999",Privat,Miljöbränsle/Hybrid,Manuell,"  20,706 ",2012,Kombi,Tvåhjulsdriven,180,Brun,1596,7/10/2011,Volvo,V60
+515,"31,000",Privat,Miljöbränsle/Hybrid,Manuell,"  27,176 ",2006,Sedan,Tvåhjulsdriven,141,Vit,2435,12/5/2006,Volvo,S60
+516,"40,000",Privat,Miljöbränsle/Hybrid,Automat,"  34,977 ",2012,Kombi,Tvåhjulsdriven,232,Svart,2521,10/4/2012,Volvo,V70
+517,"255,000",Privat,Miljöbränsle/Hybrid,Automat,"  11,697 ",2018,Kombi,Tvåhjulsdriven,253,Svart,1969,24/5/2018,Volvo,V90
+518,"160,000",Privat,Miljöbränsle/Hybrid,Automat,"  16,700 ",2016,Kombi,Fyrhjulsdriven,232,Vit,2400,24/11/2021,Volvo,V60
+519,"240,000",Privat,Miljöbränsle/Hybrid,Automat,"  10,321 ",2016,Kombi,Fyrhjulsdriven,298,Silver,2400,16/9/2016,Volvo,V60
+520,"200,000",Privat,Miljöbränsle/Hybrid,Automat,"  17,896 ",2011,Kombi,Tvåhjulsdriven,232,Blå,2521,2/5/2011,Volvo,V70
+521,"75,000",Privat,Miljöbränsle/Hybrid,Manuell,"  30,000 ",2011,Kombi,Tvåhjulsdriven,232,Vit,2521,8/10/2010,Volvo,V70
+522,"95,000",Privat,Miljöbränsle/Hybrid,Manuell,"  29,000 ",2005,Sedan,Tvåhjulsdriven,260,Svart,2401,11/5/2005,Volvo,S60
+523,"590,000",Privat,Miljöbränsle/Hybrid,Automat,"  1,800 ",2022,Sedan,Fyrhjulsdriven,391,Silver,1969,22/9/2022,Volvo,S90
+524,"19,900",Privat,Miljöbränsle/Hybrid,Manuell,"  32,240 ",2007,Kombi,Tvåhjulsdriven,141,Grå,2435,5/3/2007,Volvo,V70
+525,"379,000",Privat,Miljöbränsle/Hybrid,Automat,"  15,996 ",2017,SUV,Fyrhjulsdriven,407,Brun,1969,14/12/2016,Volvo,XC90
+526,"32,900",Privat,Miljöbränsle/Hybrid,Manuell,"  24,814 ",2006,Kombi,Tvåhjulsdriven,141,Grön,2435,26/5/2006,Volvo,V70
+527,"64,900",Privat,Miljöbränsle/Hybrid,Automat,"  27,100 ",2010,Kombi,Tvåhjulsdriven,232,Röd,2521,7/5/2010,Volvo,V70
+528,"43,000",Privat,Miljöbränsle/Hybrid,Manuell,"  17,644 ",2007,Kombi,Tvåhjulsdriven,126,Blå,1798,15/12/2006,Volvo,V50
+529,"47,000",Privat,Miljöbränsle/Hybrid,Automat,"  28,031 ",2009,Kombi,Tvåhjulsdriven,146,Vit,1999,26/2/2009,Volvo,V70
+530,"435,000",Privat,Miljöbränsle/Hybrid,Automat,"  12,268 ",2017,SUV,Fyrhjulsdriven,407,Svart,1969,21/10/2016,Volvo,XC90
+531,"55,000",Privat,Miljöbränsle/Hybrid,Manuell,"  18,604 ",2010,Kombi,Tvåhjulsdriven,146,Grå,1999,31/8/2009,Volvo,V70
+532,"20,000",Privat,Miljöbränsle/Hybrid,Manuell,"  30,229 ",2006,Kombi,Tvåhjulsdriven,141,Grön,2435,31/5/2006,Volvo,V70
+533,"50,000",Privat,Miljöbränsle/Hybrid,Manuell,"  20,000 ",2009,Kombi,Tvåhjulsdriven,146,Grå,1999,5/8/2009,Volvo,V70
+534,"348,000",Privat,Miljöbränsle/Hybrid,Automat,"  16,705 ",2018,SUV,Fyrhjulsdriven,408,Silver,1969,27/3/2018,Volvo,XC60
+535,"597,000",Privat,Miljöbränsle/Hybrid,Automat,"  8,395 ",2020,SUV,Fyrhjulsdriven,391,Svart,1969,25/6/2020,Volvo,XC90
+536,"555,000",Privat,Miljöbränsle/Hybrid,Automat,"  1,300 ",2024,SUV,Fyrhjulsdriven,399,Grå,1969,12/6/2023,Volvo,XC60
+537,"89,000",Privat,Miljöbränsle/Hybrid,Manuell,"  25,425 ",2012,Kombi,Tvåhjulsdriven,180,Röd,1596,9/6/2011,Volvo,V70
+538,"20,000",Privat,Miljöbränsle/Hybrid,Manuell,"  30,000 ",2007,Sedan,Tvåhjulsdriven,126,Silver,1798,30/12/2005,Volvo,S40
+539,"39,900",Privat,Miljöbränsle/Hybrid,Manuell,"  33,203 ",2009,Kombi,Tvåhjulsdriven,146,Grå,1999,12/6/2008,Volvo,V70
+540,"29,500",Privat,Miljöbränsle/Hybrid,Manuell,"  24,814 ",2008,Kombi,Tvåhjulsdriven,126,Grön,1798,12/11/2007,Volvo,V50
+541,"35,000",Privat,Miljöbränsle/Hybrid,Manuell,"  31,049 ",2008,Kombi,Tvåhjulsdriven,146,Brun,1999,11/1/2008,Volvo,V70
+542,"95,000",Privat,Miljöbränsle/Hybrid,Manuell,"  24,170 ",2012,Kombi,Tvåhjulsdriven,180,Röd,1596,17/1/2012,Volvo,V60
+543,"70,000",Privat,Miljöbränsle/Hybrid,Automat,"  31,291 ",2010,Kombi,Tvåhjulsdriven,232,Svart,2521,3/3/2010,Volvo,V70
+544,"74,900",Privat,Miljöbränsle/Hybrid,Manuell,"  21,149 ",2010,Kombi,Tvåhjulsdriven,146,Grå,1999,26/2/2010,Volvo,V70
+545,"12,000",Privat,Miljöbränsle/Hybrid,Manuell,"  35,255 ",2008,Kombi,Tvåhjulsdriven,146,Röd,1999,15/5/2008,Volvo,V70
+546,"360,000",Privat,Miljöbränsle/Hybrid,Automat,"  10,645 ",2020,Kombi,Fyrhjulsdriven,391,Vit,1969,22/1/2020,Volvo,V90
+547,"35,900",Privat,Miljöbränsle/Hybrid,Manuell,"  23,837 ",2007,Kombi,Tvåhjulsdriven,141,Svart,2435,4/5/2007,Volvo,V70
+548,"65,000",Privat,Miljöbränsle/Hybrid,Automat,"  19,395 ",2010,Kombi,Tvåhjulsdriven,146,Brun,1999,1/10/2009,Volvo,V70
+549,"124,900",Privat,Miljöbränsle/Hybrid,Automat,"  15,612 ",2012,Kombi,Tvåhjulsdriven,180,Brun,1596,4/6/2012,Volvo,V60
+550,"42,000",Privat,Miljöbränsle/Hybrid,Manuell,"  31,606 ",2006,Kombi,Tvåhjulsdriven,141,Brun,2435,24/10/2005,Volvo,V70
+551,"38,000",Privat,Miljöbränsle/Hybrid,Manuell,"  21,830 ",2009,Kombi,Tvåhjulsdriven,126,Blå,1798,15/9/2008,Volvo,V50
+552,"400,000",Privat,El,Automat,"  2,601 ",2023,SUV,Tvåhjulsdriven,232,Svart,,10/11/2022,Volvo,XC40
+553,"429,900",Privat,El,Automat,  650 ,2023,SUV,Tvåhjulsdriven,232,Vit,,30/12/2022,Volvo,C40
+554,"499,000",Privat,El,Automat,"  3,400 ",2023,SUV,Tvåhjulsdriven,232,Silver,,8/12/2022,Volvo,C42
+555,"460,000",Privat,El,Automat,  3 ,2023,SUV,Fyrhjulsdriven,231,Silver,,,Volvo,XC40
+556,"479,000",Privat,El,Automat,  169 ,2022,SUV,Tvåhjulsdriven,232,Svart,,2/6/2022,Volvo,XC40
+557,"410,000",Privat,El,Automat,"  1,800 ",2023,SUV,Tvåhjulsdriven,232,Svart,,28/12/2022,Volvo,XC40
+558,"519,000",Privat,El,Automat,"  2,050 ",2022,SUV,Fyrhjulsdriven,408,Röd,,10/12/2021,Volvo,XC40
+559,"435,000",Privat,El,Automat,"  2,700 ",2023,SUV,Tvåhjulsdriven,232,Grå,,7/2/2023,Volvo,XC40
+560,"569,900",Privat,El,Automat,  100 ,2024,SUV,Tvåhjulsdriven,252,Grå,,,Volvo,XC40
+561,"499,900",Företag,El,Automat,"  1,664 ",2023,SUV,Tvåhjulsdriven,234,Grå,,2/9/2022,Volvo,XC40
+562,"448,000",Företag,El,Automat,  600 ,2023,SUV,Tvåhjulsdriven,234,Blå,,16/12/2022,Volvo,XC40
+563,"440,900",Företag,El,Automat,"  2,181 ",2023,SUV,Tvåhjulsdriven,232,Svart,,17/11/2022,Volvo,C40
+564,"539,500",Företag,El,Automat,  15 ,2024,SUV,Tvåhjulsdriven,275,Vit,,14/2/2024,Volvo,EX30
+565,"629,900",Företag,El,Automat,  130 ,2024,SUV,Tvåhjulsdriven,256,Vit,,11/9/2023,Volvo,XC40
+566,"479,900",Företag,El,Automat,"  1,223 ",2023,SUV,Tvåhjulsdriven,234,Svart,,1/6/2023,Volvo,C40
+567,"484,900",Företag,El,Automat,"  1,647 ",2023,SUV,Tvåhjulsdriven,234,Vit,,19/9/2022,Volvo,C40
+568,"599,900",Företag,El,Automat,  -   ,2024,SUV,Fyrhjulsdriven,434,Ljusblå (Blå),,,Volvo,EX30
+569,"679,900",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,256,Röd,,,Volvo,C40
+570,"459,900",Företag,El,Automat,"  1,908 ",2023,SUV,Tvåhjulsdriven,234,Silver,,27/12/2022,Volvo,XC40
+571,"449,900",Företag,El,Automat,"  2,200 ",2023,SUV,Tvåhjulsdriven,234,Vit,,14/10/2022,Volvo,C40
+572,"469,900",Företag,El,Automat,"  4,293 ",2022,SUV,Fyrhjulsdriven,414,Blå,,4/4/2022,Volvo,C40
+573,"459,000",Företag,El,Automat,"  1,689 ",2023,SUV,Tvåhjulsdriven,234,Grön,,28/12/2022,Volvo,C40
+574,"599,000",Företag,El,Automat,"  1,432 ",2024,SUV,Tvåhjulsdriven,256,Svart,,23/8/2023,Volvo,C40
+575,"554,900",Företag,El,Automat,"  2,247 ",2023,SUV,Fyrhjulsdriven,414,Silver,,30/9/2022,Volvo,C40
+576,"459,000",Företag,El,Automat,  335 ,2023,SUV,Tvåhjulsdriven,335,Vit,,22/8/2023,Volvo,C40
+577,"519,000",Företag,El,Automat,"  3,061 ",2022,SUV,Fyrhjulsdriven,414,Röd,,23/2/2022,Volvo,C40
+578,"459,000",Företag,El,Automat,  682 ,2023,SUV,Tvåhjulsdriven,234,Svart,,17/2/2023,Volvo,C40
+579,"439,900",Företag,El,Automat,"  5,274 ",2021,SUV,Fyrhjulsdriven,414,Röd,,1/4/2021,Volvo,XC40
+580,"599,900",Företag,El,Automat,  472 ,2024,SUV,Fyrhjulsdriven,414,Svart,,2023-0-27,Volvo,C40
+581,"469,900",Företag,El,Automat,"  3,923 ",2022,SUV,Tvåhjulsdriven,234,Grön,,6/4/2022,Volvo,XC40
+582,"589,900",Företag,El,Automat,  552 ,2024,SUV,Tvåhjulsdriven,256,Silver,,30/8/2023,Volvo,C40
+583,"399,900",Företag,El,Automat,"  8,688 ",2021,SUV,Fyrhjulsdriven,414,Grön,,17/3/2021,Volvo,XC40
+584,"629,000",Företag,El,Automat,  138 ,2024,SUV,Fyrhjulsdriven,414,Vit,,1/9/2023,Volvo,XC40
+585,"559,900",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Svart,,,Volvo,EX30
+586,"559,900",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Vit,,,Volvo,EX30
+587,"619,900",Företag,El,Automat,  508 ,2024,SUV,Fyrhjulsdriven,414,Grå,,23/8/2023,Volvo,XC40
+588,"449,900",Företag,El,Automat,"  1,962 ",2023,SUV,Tvåhjulsdriven,234,Ljusgrå (Grå),,20/10/2022,Volvo,XC40
+589,"419,900",Företag,El,Automat,"  5,093 ",2023,SUV,Tvåhjulsdriven,234,Svart,,,Volvo,XC40
+590,"469,900",Företag,El,Automat,"  2,682 ",2022,SUV,Fyrhjulsdriven,414,Blå,,28/3/2022,Volvo,C40
+591,"439,900",Företag,El,Automat,"  5,760 ",2021,SUV,Fyrhjulsdriven,414,Grå,,11/3/2021,Volvo,XC40
+592,"449,900",Företag,El,Automat,"  4,258 ",2021,SUV,Fyrhjulsdriven,414,Blå,,11/3/2021,Volvo,XC40
+593,"589,900",Företag,El,Automat,  501 ,2024,SUV,Tvåhjulsdriven,256,Blå,,15/9/2023,Volvo,XC40
+594,"549,900",Företag,El,Automat,  221 ,2024,SUV,Tvåhjulsdriven,256,Silver,,6/9/2023,Volvo,XC40
+595,"479,900",Företag,El,Automat,"  1,051 ",2023,SUV,Tvåhjulsdriven,234,Silver,,31/3/2023,Volvo,XC40
+596,"569,900",Företag,El,Automat,  728 ,2024,SUV,Tvåhjulsdriven,256,Vit,,26/7/2023,Volvo,C40
+597,"400,000",Företag,El,Automat,"  2,061 ",2023,SUV,Tvåhjulsdriven,232,Svart,,10/11/2022,Volvo,XC40
+598,"492,500",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,272,Vit,,,Volvo,EX30
+599,"1,142,500",Företag,El,Automat,  -   ,2025,SUV,,517,Silver,,,Volvo,EX90
+600,"499,500",Företag,El,Automat,"  3,658 ",2022,SUV,Fyrhjulsdriven,414,Grå,,18/2/2022,Volvo,XC40
+601,"479,500",Företag,El,Automat,"  2,999 ",2023,SUV,Tvåhjulsdriven,234,Svart,,6/3/2023,Volvo,XC40
+602,"477,900",Företag,El,Automat,"  3,933 ",2021,SUV,Fyrhjulsdriven,408,Blå,,1/6/2021,Volvo,XC40
+603,"449,000",Företag,El,Automat,"  3,305 ",2022,SUV,Tvåhjulsdriven,234,Vit,,8/2/2022,Volvo,XC40
+604,"489,000",Företag,El,Automat,"  1,519 ",2023,SUV,Tvåhjulsdriven,234,Svart,,28/10/2022,Volvo,C40
+605,"588,900",Företag,El,Automat,"  1,902 ",2024,SUV,Tvåhjulsdriven,256,Vit,,4/8/2023,Volvo,C40
+606,"438,900",Företag,El,Automat,  550 ,2023,SUV,Tvåhjulsdriven,232,Svart,,21/4/2023,Volvo,XC40
+607,"509,000",Företag,El,Automat,  100 ,2024,SUV,Tvåhjulsdriven,275,Grå,,14/2/2024,Volvo,EX30
+608,"529,900",Företag,El,Automat,"  1,355 ",2023,SUV,Fyrhjulsdriven,414,Blå,,15/3/2023,Volvo,C40
+609,"469,500",Företag,El,Automat,"  3,348 ",2022,SUV,Fyrhjulsdriven,414,Blå,,19/4/2022,Volvo,C40
+610,"489,900",Företag,El,Automat,"  2,252 ",2023,SUV,Fyrhjulsdriven,414,Grön,,6/12/2022,Volvo,C40
+611,"479,000",Företag,El,Automat,"  2,567 ",2022,SUV,Fyrhjulsdriven,414,Grå,,31/1/2022,Volvo,C40
+612,"529,000",Företag,El,Automat,"  1,818 ",2023,SUV,Fyrhjulsdriven,414,Svart,,30/11/2022,Volvo,C40
+613,"649,000",Företag,El,Automat,  716 ,2024,SUV,Fyrhjulsdriven,414,Silver,,14/8/2023,Volvo,C40
+614,"459,000",Företag,El,Automat,"  2,164 ",2023,SUV,Tvåhjulsdriven,234,Grön,,27/12/2022,Volvo,C40
+615,"449,900",Företag,El,Automat,"  5,541 ",2023,SUV,Fyrhjulsdriven,408,Grå,,1/3/2021,Volvo,XC40
+616,"620,000",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,256,Svart,,,Volvo,XC40
+617,"581,100",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Svart,,,Volvo,EX30
+618,"615,000",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,256,Svart,,,Volvo,XC40
+619,"573,900",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Grå,,,Volvo,EX30
+620,"489,900",Företag,El,Automat,"  3,448 ",2023,SUV,Fyrhjulsdriven,414,Grå,,25/10/2022,Volvo,C40
+621,"624,900",Företag,El,Automat,  1 ,2024,SUV,Tvåhjulsdriven,256,Grön,,,Volvo,XC40
+622,"673,000",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,256,Svart,,,Volvo,C40
+623,"438,500",Företag,El,Automat,"  1,925 ",2023,SUV,Tvåhjulsdriven,234,Svart,,20/12/2022,Volvo,XC40
+624,"545,000",Företag,El,Automat,  150 ,2024,SUV,Tvåhjulsdriven,256,Ljusblå (Blå),,12/9/2023,Volvo,XC40
+625,"459,000",Företag,El,Automat,"  4,806 ",2021,SUV,Fyrhjulsdriven,414,Grå,,29/4/2021,Volvo,XC40
+626,"514,000",Företag,El,Automat,"  2,100 ",2023,SUV,Fyrhjulsdriven,414,Vit,,1/12/2022,Volvo,C40
+627,"459,900",Företag,El,Automat,"  3,488 ",2022,SUV,Tvåhjulsdriven,234,Svart,,18/1/2022,Volvo,XC40
+628,"469,500",Företag,El,Automat,"  1,304 ",2023,SUV,Tvåhjulsdriven,234,Blå,,12/9/2022,Volvo,C40
+629,"469,500",Företag,El,Automat,"  1,223 ",2023,SUV,Tvåhjulsdriven,234,Grå,,29/9/2022,Volvo,C40
+630,"474,500",Företag,El,Automat,"  1,942 ",2023,SUV,Tvåhjulsdriven,234,Silver,,3/12/2022,Volvo,XC40
+631,"559,500",Företag,El,Automat,"  2,130 ",2023,SUV,Fyrhjulsdriven,414,Blå,,12/6/2023,Volvo,C40
+632,"469,500",Företag,El,Automat,"  2,072 ",2023,SUV,Tvåhjulsdriven,234,Grön,,29/5/2023,Volvo,C40
+633,"539,500",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Svart,,,Volvo,EX30
+634,"479,000",Företag,El,Automat,"  3,289 ",2023,SUV,Tvåhjulsdriven,234,Svart,,24/11/2022,Volvo,C40
+635,"529,000",Företag,El,Automat,  -   ,2023,SUV,Tvåhjulsdriven,234,Svart,,,Volvo,C40
+636,"619,900",Företag,El,Automat,  528 ,2024,SUV,Fyrhjulsdriven,414,Vit,,13/12/2023,Volvo,C40
+637,"439,900",Företag,El,Automat,  523 ,2023,SUV,Tvåhjulsdriven,234,Svart,,9/6/2023,Volvo,XC40
+638,"449,000",Företag,El,Automat,"  2,301 ",2022,SUV,Tvåhjulsdriven,234,Grön,,21/3/2022,Volvo,XC40
+639,"439,000",Företag,El,Automat,"  2,420 ",2023,SUV,Tvåhjulsdriven,234,Ljusgrå (Grå),,13/12/2022,Volvo,XC40
+640,"569,500",Företag,El,Automat,  400 ,2023,SUV,Fyrhjulsdriven,414,Vit,,19/12/2022,Volvo,XC40
+641,"599,000",Företag,El,Automat,  374 ,2024,SUV,Tvåhjulsdriven,252,Grå,,15/9/2023,Volvo,C40
+642,"599,500",Företag,El,Automat,  -   ,2023,SUV,Fyrhjulsdriven,414,Röd,,,Volvo,C40
+643,"624,800",Företag,El,Automat,  -   ,2024,SUV,Fyrhjulsdriven,434,Ljusblå (Blå),,,Volvo,EX30
+644,"519,500",Företag,El,Automat,"  2,442 ",2022,SUV,Fyrhjulsdriven,414,Blå,,6/4/2022,Volvo,C40
+645,"569,000",Företag,El,Automat,  240 ,2023,SUV,Fyrhjulsdriven,414,Vit,,7/10/2022,Volvo,XC40
+646,"539,500",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Ljusblå (Blå),,,Volvo,EX30
+647,"539,500",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Grå,,,Volvo,EX30
+648,"539,500",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Vit,,,Volvo,EX30
+649,"539,500",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,275,Svart,,,Volvo,EX30
+650,"629,900",Företag,El,Automat,  290 ,2024,SUV,Tvåhjulsdriven,256,Vit,,27/7/2023,Volvo,C40
+651,"614,900",Företag,El,Automat,  -   ,2024,SUV,Tvåhjulsdriven,256,Blå,,7/11/2023,Volvo,XC40
+652,"599,900",Företag,El,Automat,"  1,815 ",2024,SUV,Fyrhjulsdriven,408,Svart,,,Volvo,XC40
+653,"469,400",Företag,El,Automat,"  1,169 ",2023,SUV,Tvåhjulsdriven,234,Svart,,,Volvo,XC40
+654,"184,000",Privat,Diesel,Automat,"  17,800 ",2015,Kombi,Fyrhjulsdriven,181,Blå,2400 ,15/5/2015,Volvo,XC70
+655,"210,000",Privat,Diesel,Automat,"  13,500 ",2018,Kombi,Fyrhjulsdriven,150,Vit,1969 ,27/6/2018,Volvo,V90
+656,"95,000",Privat,Diesel,Automat,"  30,000 ",2014,SUV,Fyrhjulsdriven,181,Vit,2400 ,18/3/2014,Volvo,XC60
+657,"229,000",Privat,Diesel,Automat,"  14,748 ",2016,SUV,Fyrhjulsdriven,221,Röd,2400 ,18/3/2016,Volvo,XC60
+658,"35,000",Privat,Diesel,Manuell,"  32,000 ",1995,Sedan,Tvåhjulsdriven,123,Svart,2383 ,11/3/2020,Volvo,940
+659,"110,000",Privat,Diesel,Automat,"  51,100 ",2017,Kombi,Tvåhjulsdriven,150,Vit,1969 ,8/2/2017,Volvo,V90
+660,"129,000",Privat,Diesel,Automat,"  24,600 ",2015,Halvkombi,Tvåhjulsdriven,200,Silver,1969 ,24/3/2015,Volvo,V40
+661,"290,000",Privat,Diesel,Automat,"  19,072 ",2020,Kombi,Fyrhjulsdriven,200,Grå,1969 ,30/12/2019,Volvo,V90 Cross Country
+662,"64,900",Privat,Diesel,Manuell,"  28,951 ",2012,Kombi,Tvåhjulsdriven,116,Vit,1560 ,23/6/2011,Volvo,V60
+663,"138,900",Privat,Diesel,Automat,"  34,657 ",2014,Kombi,Fyrhjulsdriven,215,Silver,2400 ,30/1/2014,Volvo,XC70
+664,"176,000",Privat,Diesel,Automat,"  13,350 ",2014,Kombi,Tvåhjulsdriven,200,Blå,1969 ,11/4/2014,Volvo,V70
+665,"32,000",Privat,Diesel,Automat,"  51,745 ",1998,Kombi,Tvåhjulsdriven,141,Blå,2460 ,17/10/2006,Volvo,
+666,"115,000",Privat,Diesel,Manuell,"  12,800 ",2013,Kombi,Tvåhjulsdriven,116,Svart,1560 ,2/4/2013,Volvo,V60
+667,"37,000",Privat,Diesel,Manuell,"  39,374 ",2008,Kombi,Tvåhjulsdriven,164,Grå,2400 ,31/8/2007,Volvo,V70
+668,"34,900",Privat,Diesel,Automat,"  36,100 ",2007,Kombi,Tvåhjulsdriven,164,Grå,2400 ,13/4/2007,Volvo,V70
+669,"28,000",Privat,Diesel,Automat,"  24,603 ",2006,Kombi,Tvåhjulsdriven,164,Grå,2400 ,2/6/2006,Volvo,V70
+670,"240,000",Privat,Diesel,Automat,"  15,700 ",2017,Kombi,Fyrhjulsdriven,236,Vit,1969 ,5/10/2016,Volvo,V90
+671,"99,000",Privat,Diesel,Manuell,"  20,800 ",2012,Kombi,Tvåhjulsdriven,164,Röd,1984 ,7/3/2012,Volvo,V70
+672,"485,000",Privat,Diesel,Automat,"  9,400 ",2020,Kombi,,,,,,Volvo,V60
+673,"168,000",Privat,Diesel,Manuell,"  13,100 ",2017,Kombi,Tvåhjulsdriven,191,Vit,1969 ,21/3/2017,Volvo,V60 Cross Country
+674,"69,000",Privat,Diesel,Automat,"  30,949 ",2009,SUV,Fyrhjulsdriven,185,Blå,2401 ,17/6/2009,Volvo,XC90
+675,"47,000",Privat,Diesel,Manuell,"  19,783 ",2010,Kombi,Tvåhjulsdriven,109,Silver,1560 ,30/9/2009,Volvo,V50
+676,"333,000",Privat,Diesel,Automat,"  4,200 ",2020,Kombi,Fyrhjulsdriven,191,Svart,1969 ,1/4/2020,Volvo,V60
+677,"41,000",Privat,Diesel,Automat,"  42,261 ",2008,Kombi,Tvåhjulsdriven,185,Blå,2400 ,10/10/2007,Volvo,V70
+678,"95,000",Privat,Diesel,Manuell,"  21,196 ",2013,Halvkombi,Tvåhjulsdriven,177,Röd,1984 ,25/6/2012,Volvo,V40
+679,"509,000",Privat,Diesel,Automat,"  13,400 ",2021,SUV,Fyrhjulsdriven,236,Grå,1969 ,1/10/2020,Volvo,XC90
+680,"35,000",Privat,Diesel,Manuell,"  16,200 ",1990,Sedan,,,,,,Volvo,740
+681,"145,000",Privat,Diesel,Automat,"  16,920 ",2014,Halvkombi,Tvåhjulsdriven,150,Vit,1984 ,13/12/2013,Volvo,V40 Cross Country
+682,"27,000",Privat,Diesel,Manuell,"  23,750 ",2008,Kombi,Tvåhjulsdriven,136,Svart,1997 ,6/11/2007,Volvo,V50
+683,"155,000",Privat,Diesel,Automat,"  18,100 ",2015,Kombi,,,,,,Volvo,V60
+684,"153,000",Privat,Diesel,Manuell,"  13,168 ",2017,Halvkombi,Tvåhjulsdriven,150,Silver,1969 ,29/7/2016,Volvo,V40
+685,"27,000",Privat,Diesel,Manuell,"  46,200 ",2007,Kombi,Tvåhjulsdriven,164,Blå,2400 ,5/1/2007,Volvo,V70
+686,"205,000",Privat,Diesel,Automat,"  10,730 ",2017,Kombi,Tvåhjulsdriven,191,Brun,1969 ,30/9/2016,Volvo,V60 Cross Country
+687,"110,000",Privat,Diesel,Automat,"  30,900 ",2012,,Fyrhjulsdriven,215,Silver,2400 ,22/11/2011,Volvo,XC70
+688,"44,900",Privat,Diesel,Automat,"  28,003 ",2007,Kombi,Tvåhjulsdriven,185,Grå,2400 ,9/1/2007,Volvo,V70
+689,"165,000",Privat,Diesel,Manuell,"  9,461 ",2017,Halvkombi,Tvåhjulsdriven,150,Grå,1969 ,13/6/2016,Volvo,V40
+690,"75,000",Privat,Diesel,Automat,"  32,251 ",2011,Kombi,Tvåhjulsdriven,164,Svart,1984 ,15/4/2011,Volvo,V60
+691,"38,000",Privat,Diesel,Automat,"  24,234 ",2009,Kombi,Tvåhjulsdriven,180,Grå,2400 ,14/11/2008,Volvo,V50
+692,"150,000",Privat,Diesel,Manuell,"  22,500 ",2016,Kombi,Fyrhjulsdriven,181,Brun,2400 ,17/6/2015,Volvo,XC70
+693,"289,000",Privat,Diesel,Automat,"  13,863 ",2018,SUV,Fyrhjulsdriven,191,Blå,1969 ,28/6/2018,Volvo,XC60
+694,"55,000",Privat,Diesel,Automat,"  36,001 ",2009,Kombi,Tvåhjulsdriven,185,Svart,2400 ,19/12/2008,Volvo,V70
+695,"62,000",Privat,Diesel,Manuell,"  34,436 ",2008,SUV,Fyrhjulsdriven,206,Vit,2401 ,13/6/2007,Volvo,XC90
+696,"55,000",Privat,Diesel,Manuell,"  34,676 ",2012,,Tvåhjulsdriven,116,Vit,1560 ,7/11/2011,Volvo,V60
+697,"247,000",Privat,Diesel,Automat,"  9,950 ",2017,SUV,Fyrhjulsdriven,191,Brun,2400 ,27/4/2017,Volvo,XC60
+698,"100,000",Privat,Diesel,Automat,"  23,700 ",2007,Cab,Tvåhjulsdriven,180,Grå,2400 ,14/7/2015,Volvo,C70
+699,"95,000",Privat,Diesel,Automat,"  16,080 ",2007,Cab,Tvåhjulsdriven,180,Grå,2400 ,19/9/2006,Volvo,C70
+700,"275,000",Privat,Diesel,Automat,"  8,600 ",2019,Kombi,Fyrhjulsdriven,150,Grå,1969 ,11/3/2019,Volvo,V60
+701,"35,000",Privat,Diesel,Manuell,"  35,000 ",2012,Kombi,Tvåhjulsdriven,164,Grå,1984 ,13/12/2011,Volvo,V70
+702,"245,000",Privat,Diesel,Automat,"  11,709 ",2018,Kombi,Fyrhjulsdriven,150,Svart,1969 ,7/3/2018,Volvo,V90
+703,"125,000",Privat,Diesel,Manuell,"  19,673 ",2014,Kombi,Tvåhjulsdriven,215,Vit,2400 ,21/2/2014,Volvo,V70
+704,"164,900",Privat,Diesel,Automat,"  16,500 ",2014,Kombi,Tvåhjulsdriven,181,Röd,1969 ,28/3/2014,Volvo,V60
+705,"118,000",Privat,Diesel,Manuell,"  20,083 ",2015,Sedan,Tvåhjulsdriven,116,Svart,1560 ,27/2/2015,Volvo,S60
+706,"169,000",Privat,Diesel,Automat,"  16,013 ",2016,Kombi,Fyrhjulsdriven,191,Brun,2400 ,23/12/2015,Volvo,V60 Cross Country
+707,"300,000",Privat,Diesel,Automat,"  12,284 ",2019,Kombi,Fyrhjulsdriven,236,Grå,1969 ,16/10/2018,Volvo,V90 Cross Country
+708,"195,000",Privat,Diesel,Automat,"  13,666 ",2015,Kombi,Fyrhjulsdriven,181,Svart,2400 ,31/7/2014,Volvo,V60
+709,"76,000",Privat,Diesel,Automat,"  32,804 ",2013,Kombi,Tvåhjulsdriven,164,Svart,1984 ,8/5/2013,Volvo,V70
+710,"135,000",Privat,Diesel,Automat,"  17,139 ",2014,,Tvåhjulsdriven,181,Silver,1969 ,16/4/2014,Volvo,V60
+711,"209,000",Privat,Diesel,Automat,"  18,020 ",2016,SUV,Fyrhjulsdriven,191,Vit,2400 ,28/1/2016,Volvo,XC60
+712,"279,000",Privat,Diesel,Automat,"  12,460 ",2018,Kombi,Fyrhjulsdriven,236,Silver,1969 ,11/1/2018,Volvo,V90
+713,"205,000",Privat,Diesel,Automat,"  11,648 ",2015,Sedan,Fyrhjulsdriven,215,Blå,2400 ,20/10/2014,Volvo,S60
+714,"100,000",Privat,Diesel,Manuell,"  23,677 ",2013,Kombi,Tvåhjulsdriven,164,Vit,1984 ,5/6/2013,Volvo,V70
+715,"31,650",Privat,Diesel,Manuell,"  29,516 ",2008,Kombi,Tvåhjulsdriven,136,Vit,1997 ,20/11/2007,Volvo,V50
+716,"389,000",Privat,Diesel,Automat,"  7,200 ",2020,,,,,,,Volvo,XC60
+717,"229,900",Privat,Diesel,Automat,"  12,460 ",2016,Kombi,Tvåhjulsdriven,200,Svart,1969 ,4/4/2016,Volvo,V70
+718,"185,000",Privat,Diesel,Automat,"  11,607 ",2018,Kombi,Tvåhjulsdriven,150,Svart,1969 ,2/2/2018,Volvo,V90
+719,"269,900",Företag,Diesel,Automat,"  8,202 ",2021,Kombi,Tvåhjulsdriven,198,Svart,1969 ,29/3/2021,Volvo,V60
+720,"324,900",Företag,Diesel,Automat,"  8,932 ",2021,Kombi,Fyrhjulsdriven,198,Mörkgrå (Pine Grey Metallic),1969 ,31/3/2021,Volvo,V60 Cross Country
+721,"259,800",Företag,Diesel,Automat,"  15,417 ",2021,Kombi,Fyrhjulsdriven,191,Vit (Ice Vit),1969 ,31/7/2020,Volvo,V90
+722,"279,900",Företag,Diesel,Automat,"  9,599 ",2021,Kombi,Tvåhjulsdriven,198,Svart,1969 ,2/3/2021,Volvo,V60
+723,"199,400",Företag,Diesel,Automat,"  11,075 ",2017,Halvkombi,Tvåhjulsdriven,150,Brun,1969 ,16/6/2016,Volvo,V40 Cross Country
+724,"314,700",Företag,Diesel,Automat,"  18,234 ",2017,Kombi,Fyrhjulsdriven,236,Silver,1969 ,22/4/2017,Volvo,V90 Cross Country
+725,"317,900",Företag,Diesel,Automat,"  12,294 ",2020,Kombi,Fyrhjulsdriven,236,Svart,1969 ,10/12/2019,Volvo,V90 Cross Country
+726,"45,900",Företag,Diesel,Manuell,"  22,624 ",2010,Kombi,Tvåhjulsdriven,109,Grå,1560 ,1/4/2010,Volvo,V50
+727,"299,800",Företag,Diesel,Automat,"  10,504 ",2020,Kombi,Fyrhjulsdriven,191,Vit (Ice Vit),1969 ,10/12/2019,Volvo,V60 Cross Country
+728,"244,900",Företag,Diesel,Automat,"  12,275 ",2019,Kombi,Fyrhjulsdriven,191,Svart,1969 ,13/2/2019,Volvo,V90
+729,"299,900",Företag,Diesel,Automat,"  8,120 ",2022,Kombi,Tvåhjulsdriven,198,Mörkblå,1969 ,9/9/2021,Volvo,V60
+730,"309,000",Företag,Diesel,Automat,"  11,620 ",2020,Kombi,Fyrhjulsdriven,191,Svart (Svart Solid),1969 ,5/5/2020,Volvo,V90 Cross Country
+731,"179,900",Företag,Diesel,Automat,"  15,294 ",2016,Kombi,Fyrhjulsdriven,191,Brun,2400 ,28/1/2016,Volvo,V60 Cross Country
+732,"199,900",Företag,Diesel,Automat,"  16,447 ",2016,Sedan,Tvåhjulsdriven,200,Vit,1969 ,28/12/2015,Volvo,S60 Cross Country
+733,"89,900",Företag,Diesel,Manuell,"  20,123 ",2011,Kombi,Tvåhjulsdriven,164,Vit,1984 ,26/11/2010,Volvo,V70
+734,"299,900",Företag,Diesel,Automat,"  12,782 ",2017,Kombi,Fyrhjulsdriven,236,Silver,1969 ,21/6/2017,Volvo,V90 Cross Country
+735,"59,900",Företag,Diesel,Manuell,"  30,740 ",2009,Kombi,Tvåhjulsdriven,164,Ljusbrun (Brun),2400 ,24/6/2009,Volvo,V70
+736,"189,900",Företag,Diesel,Automat,"  21,824 ",2018,Kombi,Tvåhjulsdriven,191,Vit,1969 ,4/5/2018,Volvo,V90
+737,"224,900",Företag,Diesel,Automat,"  11,426 ",2016,SUV,Fyrhjulsdriven,191,Silver,2400 ,26/5/2015,Volvo,XC60
+738,"124,900",Företag,Diesel,Manuell,"  13,426 ",2014,Halvkombi,Tvåhjulsdriven,116,Silver,1560 ,11/4/2014,Volvo,V40
+739,"224,800",Företag,Diesel,Automat,"  14,554 ",2018,Kombi,Tvåhjulsdriven,150,Svart,1969 ,16/5/2017,Volvo,V90
+740,"239,500",Företag,Diesel,Automat,"  13,795 ",2017,SUV,Fyrhjulsdriven,230,Vit,2400 ,29/6/2017,Volvo,XC60
+741,"323,900",Företag,Diesel,Automat,"  11,467 ",2018,Kombi,Fyrhjulsdriven,191,Grå,1969 ,26/1/2018,Volvo,V90 Cross Country
+742,"276,800",Företag,Diesel,Automat,"  8,874 ",2017,SUV,Fyrhjulsdriven,191,Grå,2400 ,30/8/2017,Volvo,XC60
+743,"363,000",Företag,Diesel,Automat,"  6,110 ",2020,Kombi,Fyrhjulsdriven,191,Svart,1969 ,23/12/2019,Volvo,V90 Cross Country
+744,"679,900",Företag,Diesel,Automat,"  4,770 ",2022,SUV,Fyrhjulsdriven,236,Silver,1969 ,19/5/2022,Volvo,XC90
+745,"314,700",Företag,Diesel,Automat,"  8,603 ",2018,Kombi,Fyrhjulsdriven,191,Svart,1969 ,12/12/2017,Volvo,V90 Cross Country
+746,"164,900",Företag,Diesel,Manuell,"  12,324 ",2016,Halvkombi,Tvåhjulsdriven,200,Brun,1969 ,18/12/2015,Volvo,V40 Cross Country
+747,"339,900",Företag,Diesel,Automat,"  8,600 ",2018,Kombi,Fyrhjulsdriven,191,Silver,1969 ,27/12/2017,Volvo,V90 Cross Country
+748,"209,500",Företag,Diesel,Automat,"  13,700 ",2018,Kombi,Fyrhjulsdriven,192,Brun,2400 ,7/2/2018,Volvo,V60 Cross Country
+749,"449,900",Företag,Diesel,Automat,"  8,414 ",2018,SUV,Fyrhjulsdriven,200,Grå,1969 ,21/6/2018,Volvo,XC90
+750,"299,000",Företag,Diesel,Automat,"  8,511 ",2019,Kombi,Fyrhjulsdriven,192,Mörkbrun (Brun),1969 ,18/10/2018,Volvo,V90
+751,"219,500",Företag,Diesel,Automat,"  22,500 ",2019,Kombi,Fyrhjulsdriven,192,Grå,1969 ,7/3/2019,Volvo,V60 Cross Country
+752,"139,900",Företag,Diesel,Automat,"  16,181 ",2013,Sedan,Tvåhjulsdriven,164,Mörkblå,1984 ,29/6/2012,Volvo,S80
+753,"309,900",Företag,Diesel,Automat,"  8,900 ",2018,Sedan,,191,,,,Volvo,S90
+754,"29,900",Företag,Bensin,Manuell,"  34,531 ",2000,Kombi,Tvåhjulsdriven,251,Ljusblå (Blå),,16/3/2000,Volvo,V70
+755,"119,800",Företag,Diesel,Automat,"  16,013 ",2009,Kombi,Tvåhjulsdriven,164,Ljusgrå (Grå),2400,16/10/2008,Volvo,V70
+756,"139,800",Företag,Diesel,Manuell,"  18,331 ",2015,Kombi,Tvåhjulsdriven,181,Röd,1969,18/7/2014,Volvo,V70
+757,"99,900",Företag,Diesel,Manuell,"  15,200 ",2011,Kombi,Tvåhjulsdriven,164,Ljusbrun (Brun),1984,8/12/2010,Volvo,V70
+758,"107,900",Företag,Diesel,Manuell,"  26,970 ",2015,Kombi,Tvåhjulsdriven,181,Blå,1969,29/1/2015,Volvo,V70
+759,"89,900",Företag,Miljöbränsle/Hybrid,Manuell,"  27,400 ",2012,Kombi,Tvåhjulsdriven,180,Blå,1596,17/6/2011,Volvo,V70
+760,"124,000",Företag,Diesel,Automat,"  28,555 ",2015,Kombi,Tvåhjulsdriven,181,Brun (Brunmetallic Metallic),1969,12/9/2014,Volvo,V70
+761,"99,000",Företag,Miljöbränsle/Hybrid,Automat,"  26,000 ",2011,Kombi,Tvåhjulsdriven,232,Vit,2521,10/12/2010,Volvo,V70
+762,"79,900",Företag,Diesel,Automat,"  55,000 ",2015,Kombi,Tvåhjulsdriven,181,Svart,1969,13/11/2014,Volvo,V70
+763,"16,900",Företag,Bensin,Manuell,"  33,204 ",2001,Kombi,Tvåhjulsdriven,141,Ljusblå (Blå),,12/12/2000,Volvo,V70
+764,"110,000",Företag,Diesel,Automat,"  23,890 ",2012,Kombi,Tvåhjulsdriven,164,Blå,1984,28/6/2011,Volvo,V70
+765,"39,500",Företag,Bensin,Manuell,"  31,000 ",2005,Kombi,Tvåhjulsdriven,141,Mörkblå (Blå),2435,10/12/2004,Volvo,V70
+766,"77,900",Företag,Bensin,Manuell,"  19,300 ",2008,Kombi,Tvåhjulsdriven,146,Ljusblå (Blå),1999,20/12/2007,Volvo,V70
+767,"118,800",Företag,Diesel,Automat,"  19,426 ",2013,Kombi,Tvåhjulsdriven,115,Ljusbrun (Brun),1560,18/10/2012,Volvo,V70
+768,"138,900",Företag,Diesel,Manuell,"  14,200 ",2014,Kombi,Tvåhjulsdriven,116,Blå (Blå Metallic),1560,5/6/2014,Volvo,V70
+769,"84,990",Företag,Miljöbränsle/Hybrid,Automat,"  19,301 ",2009,Kombi,Tvåhjulsdriven,146,Röd,1999,15/4/2009,Volvo,V70
+770,"74,900",Företag,Diesel,Manuell,"  22,000 ",2011,Kombi,Tvåhjulsdriven,109,Grå,1560,22/6/2010,Volvo,V70
+771,"49,000",Företag,Diesel,Manuell,"  36,999 ",2010,Kombi,Tvåhjulsdriven,176,Vit,2400,19/3/2010,Volvo,V70
+772,"69,900",Företag,Diesel,Automat,"  31,500 ",2011,Kombi,Tvåhjulsdriven,164,Svart,1984,25/8/2011,Volvo,V70
+773,"129,900",Företag,Miljöbränsle/Hybrid,Manuell,"  11,705 ",2011,Kombi,Tvåhjulsdriven,232,Svart,2521,23/9/2010,Volvo,V70
+774,"153,800",Företag,Diesel,Manuell,"  17,528 ",2015,Kombi,Tvåhjulsdriven,181,Silver,1969,16/7/2014,Volvo,V70
+775,"189,900",Företag,Diesel,Automat,"  10,750 ",2015,Kombi,Fyrhjulsdriven,181,Röd,2400,24/11/2014,Volvo,V70
+776,"179,900",Företag,Diesel,Automat,"  21,646 ",2015,Kombi,Fyrhjulsdriven,181,Röd,2400,27/2/2015,Volvo,V70
+777,"149,900",Företag,Diesel,Manuell,"  15,150 ",2015,Kombi,Tvåhjulsdriven,181,Svart,1969,6/10/2014,Volvo,V70
+778,"184,900",Företag,Diesel,Automat,"  15,500 ",2014,Kombi,Tvåhjulsdriven,215,Röd,2400,15/10/2013,Volvo,V70
+779,"29,500",Företag,Bensin,Automat,"  29,902 ",2006,Kombi,Tvåhjulsdriven,170,Röd,2435,11/11/2005,Volvo,V70
+780,"218,900",Företag,Diesel,Automat,"  7,962 ",2016,Kombi,Tvåhjulsdriven,150,Grå,1969,31/7/2015,Volvo,V70
+781,"219,800",Företag,Diesel,Automat,"  10,289 ",2016,Kombi,Tvåhjulsdriven,184,Grå,1969,27/4/2016,Volvo,V70
+782,"24,900",Företag,Bensin,Automat,"  24,900 ",2000,Kombi,Tvåhjulsdriven,200,Svart,,20/3/2000,Volvo,V70
+783,"205,000",Företag,Bensin,Manuell,"  8,384 ",2016,Kombi,Tvåhjulsdriven,191,Vit,1969,29/9/2015,Volvo,V70
+784,"53,900",Företag,Miljöbränsle/Hybrid,Manuell,"  27,332 ",2012,Kombi,Tvåhjulsdriven,232,Vit,2521,1/8/2012,Volvo,V70
+785,"74,999",Företag,Diesel,Automat,"  35,800 ",2011,Kombi,Tvåhjulsdriven,206,Vit,2400,16/11/2010,Volvo,V70
+786,"84,900",Företag,Diesel,Manuell,"  20,774 ",2011,Kombi,Tvåhjulsdriven,109,Grå,1560,29/12/2010,Volvo,V70
+787,"124,900",Företag,Diesel,Manuell,"  13,700 ",2013,Kombi,Tvåhjulsdriven,116,Grå,1560,11/6/2012,Volvo,V70
+788,"139,900",Företag,Diesel,Manuell,"  23,100 ",2016,Kombi,Tvåhjulsdriven,150,Röd,1969,25/4/2016,Volvo,V70
+789,"129,500",Företag,Diesel,Manuell,"  28,370 ",2015,Kombi,Tvåhjulsdriven,181,Svart,1969,1/10/2014,Volvo,V70
+790,"109,900",Företag,Diesel,Manuell,"  23,700 ",2015,Kombi,Tvåhjulsdriven,181,Ljusbrun (Brun),1969,12/9/2014,Volvo,V70
+791,"109,900",Företag,Diesel,Automat,"  19,084 ",2012,Kombi,Tvåhjulsdriven,116,Röd,1560,29/2/2012,Volvo,V70
+792,"128,800",Företag,Diesel,Manuell,"  18,200 ",2013,Kombi,Tvåhjulsdriven,136,Svart,1984,27/5/2013,Volvo,V70
+793,"89,900",Företag,Miljöbränsle/Hybrid,Automat,"  16,717 ",2011,Kombi,Tvåhjulsdriven,146,Ljusbrun (Brun),1999,21/12/2010,Volvo,V70
+794,"99,000",Företag,Diesel,Manuell,"  19,765 ",2012,Kombi,Tvåhjulsdriven,116,Grå,1560,31/1/2012,Volvo,V70
+795,"119,500",Företag,Miljöbränsle/Hybrid,Automat,"  23,700 ",2012,Kombi,Tvåhjulsdriven,180,Blå,1596,20/4/2012,Volvo,V70
+796,"219,900",Företag,Bensin,Automat,"  8,602 ",2016,Kombi,Tvåhjulsdriven,191,Vit,1969,13/10/2015,Volvo,V70
+797,"47,500",Företag,Miljöbränsle/Hybrid,Automat,"  37,762 ",2009,Kombi,Tvåhjulsdriven,146,Svart,1999,20/3/2009,Volvo,V70
+798,"89,900",Företag,Diesel,Automat,"  21,613 ",2013,Kombi,Tvåhjulsdriven,116,Ljusgrå (Grå),1560,19/12/2012,Volvo,V70
+799,"135,000",Företag,Miljöbränsle/Hybrid,Manuell,"  14,521 ",2013,Kombi,Tvåhjulsdriven,183,Grön,1596,25/6/2012,Volvo,V70
+800,"99,000",Företag,Miljöbränsle/Hybrid,Manuell,"  11,170 ",2009,Kombi,Tvåhjulsdriven,146,Grön,1999,25/9/2008,Volvo,V70
+801,"119,900",Företag,Diesel,Manuell,"  17,300 ",2011,Kombi,Tvåhjulsdriven,164,Grå,1984,23/7/2010,Volvo,V70
+802,"139,900",Företag,Diesel,Manuell,"  18,100 ",2015,Kombi,Tvåhjulsdriven,116,Ljusbrun (Brun),1560,7/10/2014,Volvo,V70
+803,"79,500",Företag,Diesel,Automat,"  21,310 ",2009,Kombi,Tvåhjulsdriven,164,Ljusgrå (Grå),2400,4/9/2008,Volvo,V70
+804,"199,800",Företag,Diesel,Automat,"  12,861 ",2014,Kombi,Tvåhjulsdriven,181,Vit,1969,6/5/2014,Volvo,V70
+805,"109,900",Företag,Bensin,Automat,"  24,700 ",2013,Kombi,Tvåhjulsdriven,180,Vit (Brun),,23/3/1990,Volvo,V70
+806,"124,900",Företag,Diesel,Manuell,"  24,500 ",2013,Kombi,Tvåhjulsdriven,164,Vit,1984,3/9/2013,Volvo,V70
+807,"129,900",Företag,Diesel,Automat,"  19,000 ",2013,Kombi,Tvåhjulsdriven,164,Röd,1984,3/4/2013,Volvo,V70

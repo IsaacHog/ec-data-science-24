@@ -1,0 +1,5 @@
+setwd("C:/Users/Isaac/Documents/GitHub/ec-data-science-24/r_programming")
+
+data <- read.csv("blocket_volvo_data.csv", header = TRUE, sep = ",", stringsAsFactors = FALSE)
+
+View(data)

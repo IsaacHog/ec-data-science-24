@@ -1,15 +1,18 @@
 --  Det är försäljningspris på annonser. Inte faktiska slutpriser.
 
-
-
--- log transform mileage feature
-log1p(43542) ≈ 10.68
-
-log1p(40000) ≈ 10.60
-
-log1p(1500) ≈ 7.31
-
-log1p(4000) ≈ 8.29
-
+-- Features tuning:
+Motorstorlek + Bränsle + Växellåda + Drivning + Säljare + log transform mileage feature
 0.8829 to 0.9182 R^2
 RMSE 48,347 SEK to 38,412 SEK
+
+-- Poisson regression
+Bli av med negativa prediktioner
+0 negativa prediktioner
+RMSE 38,412 SEK to 29,813 SEK
+
+-- Extreme values cleaning:
+filter(Miltal > 2000 & Miltal < 50000 & Försäljningspris < 600000 )
+RMSE 29813 SEK to 25155 SEK
+
+
+

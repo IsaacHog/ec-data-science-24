@@ -21,8 +21,11 @@ data <- data %>%
     Modellår = as.numeric(gsub("[^0-9.]", "", Modellår)),
     Motorstorlek = as.numeric(gsub("[^0-9.]", "", Motorstorlek))
   )
-# Log transform miltal
-data$Miltal <- log1p(data$Miltal)
+
+# Remove extreme cases
+data <- data %>%
+  filter(Miltal > 2000 & Miltal < 50000 & Försäljningspris < 600000 )
+
 
 # Convert categorical variables to factors
 data <- data %>%
@@ -35,10 +38,10 @@ data <- cbind(data, data_encoded) %>%
 
 # Remove rows with NA in critical columns
 data <- na.omit(data)
-colSums(is.na(data))
+#colSums(is.na(data))
 
 # Data after cleaning:
-summary(data)
+#summary(data)
 correlation_matrix <- cor(data %>% select_if(is.numeric), use = "complete.obs")
 correlation_matrix_melted <- melt(correlation_matrix) # Convert matrix to a tidy data frame
 
@@ -57,7 +60,8 @@ test_data <- data[-index, ]
 
 # Step 3: Linear Regression Model + k-cross validation
 train_control <- trainControl(method = "cv", number = 4)
-model <- train(Försäljningspris ~ ., data = train_data, method = "lm", trControl = train_control)
+model <- train(Försäljningspris ~ ., data = train_data, method = "glm",
+                       family = poisson(link = "log"), trControl = train_control)
 
 
 # Step 4: Evaluate Model Performance
@@ -81,7 +85,7 @@ ggplot(data.frame(Actual = test_data$Försäljningspris, Predicted = predictions
 
 # Combine actual and predicted prices in a data frame
 results <- data.frame(Actual = test_data$Försäljningspris, Predicted = predictions)
-
+print("Done")
 
 
 

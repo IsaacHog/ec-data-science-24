@@ -64,7 +64,7 @@ train_model <- function(data) {
   model <- train(Försäljningspris ~ ., data = train_data, method = "glm",
                  family = poisson(link = "log"), trControl = train_control)
   
- return(list(model = model, test_data = test_data, data = data))
+ return(list(model = model, test_data = test_data, data = data, train_data = train_data))
 }
 
 evalute_model <- function(model, test_data) {

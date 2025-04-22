@@ -4,7 +4,6 @@ library(caret)
 library(scales)
 library(reshape2)
 
-# Set working directory to where your CSV file is located
 setwd("C:/Users/Isaac/Documents/GitHub/ec-data-science-24/r_programming")
 
 load_data <- function(file_path) {
@@ -77,10 +76,10 @@ evalute_model <- function(model, test_data) {
   plot_obj <- ggplot(data.frame(Actual = test_data$Försäljningspris, Predicted = predictions), 
                      aes(x = Actual, y = Predicted)) +
     geom_point() +
-    geom_abline(intercept = 0, slope = 1, color = "red") + # Perfect prediction line
+    geom_abline(intercept = 0, slope = 1, color = "red") +
     labs(title = "Actual vs. Predicted Försäljningspris", x = "Actual Försäljningspris", y = "Predicted Försäljningspris") +
-    scale_x_continuous(labels = label_comma()) + # Format x-axis labels
-    scale_y_continuous(labels = label_comma())   # Format y-axis labels
+    scale_x_continuous(labels = label_comma()) +
+    scale_y_continuous(labels = label_comma())
   
   print(plot_obj)
   
@@ -99,7 +98,3 @@ create_model <- function() {
 model_object = create_model()
 visualise_corr_matrix(data = model_object$data)
 results = evalute_model(model = model_object$model, test_data = model_object$test_data)
-
-
-
-

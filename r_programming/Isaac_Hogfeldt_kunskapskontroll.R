@@ -67,11 +67,11 @@ train_model <- function(data) {
 }
 
 evalute_model <- function(model, test_data) {
-  summary(model)
+  summary(model) # This is not printed while being inside a function
   predictions <- predict(model, newdata = test_data)
   rmse <- sqrt(mean((predictions - test_data$Försäljningspris)^2))
   print(paste("RMSE:", rmse))
-  varImp(model)
+  varImp(model) # This is not printed while being inside a function
   
   plot_obj <- ggplot(data.frame(Actual = test_data$Försäljningspris, Predicted = predictions), 
                      aes(x = Actual, y = Predicted)) +

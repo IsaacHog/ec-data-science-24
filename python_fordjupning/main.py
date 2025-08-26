@@ -12,8 +12,11 @@ def setup_logger():
 setup_logger()
 init_db()
 
+lat_odesa = 46.775
+lon_odesa = 30.7326
+
 def run():
-    data = fetch_weather()
+    data = fetch_weather(lat = lat_odesa, lon = lon_odesa)
     if data != {}:
         temp = data["main"]["temp"]
         desc = data["weather"][0]["description"]

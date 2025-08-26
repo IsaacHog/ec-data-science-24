@@ -1,0 +1,1 @@
+This project fetches weather data from the OpenWeatherMap API, processes it, and stores the results in a local SQLite database. It’s designed to be simple, modular, and testable.

@@ -29,7 +29,16 @@ def get_events():
         
         if response.status_code == 200:
             data = response.json()
-            print()
+            for event in data['events']:
+                if datetime.strptime(event['event']['start'], '%Y-%m-%dT%H:%M:%SZ').day != todays_date.day:
+                    continue
+                if event['event']['state'] == 'STARTED':
+                    continue
+                events.append({
+                    'id': event['event']['id'],
+                    'match_name': event['event']['englishName'],
+                    'eventStart': (datetime.strptime(event['event']['start'], "%Y-%m-%dT%H:%M:%SZ") + timedelta(hours=1)).isoformat(),
+                })
         else:
             throw_error("Failed to retrieve events", response.status_code)
     print(f"Got {len(events)} events...")

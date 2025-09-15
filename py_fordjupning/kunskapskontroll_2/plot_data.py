@@ -25,9 +25,9 @@ def plot_event(event_id, label):
     match_name = label.split(' (')[0]
 
     ax_plot.clear()
-    ax_plot.plot(match_data['time_stamp'], match_data['home_odds'], label='Home Odds', marker='o')
-    ax_plot.plot(match_data['time_stamp'], match_data['even_odds'], label='Draw Odds', marker='o')
-    ax_plot.plot(match_data['time_stamp'], match_data['away_odds'], label='Away Odds', marker='o')
+    ax_plot.plot(match_data['time_stamp'], match_data['home_odds']/1000, label='Home Odds', marker='o')
+    ax_plot.plot(match_data['time_stamp'], match_data['even_odds']/1000, label='Draw Odds', marker='o')
+    ax_plot.plot(match_data['time_stamp'], match_data['away_odds']/1000, label='Away Odds', marker='o')
 
     ax_plot.set_title(f"Odds Over Time: {match_name}")
     ax_plot.set_xlabel("Timestamp")

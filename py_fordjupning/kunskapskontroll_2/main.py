@@ -1,4 +1,4 @@
-from config import LOGGER, HEADERS
+from config import LOGGER, HEADERS, LEAGUES
 from datetime import datetime, timedelta
 import time
 import requests
@@ -14,16 +14,8 @@ def throw_error(attempted_action="", error=""):
 
 def get_events():
     print("Getting events...")
-    leagues = [
-        "england/premier_league",
-        "italy/serie_a",
-        "spain/la_liga",
-        "germany/bundesliga",
-        "france/ligue_1",
-    ]
-    
     events = []
-    for league in leagues:
+    for league in LEAGUES:
         url = f'https://eu-offering-api.kambicdn.com/offering/v2018/ubca/listView/football/{league}.json?lang=en_GB&market=ZZ&client_id=2&channel_id=1&ncid=1693053935240&useCombined=true'
         response = requests.get(url, headers=HEADERS)
         

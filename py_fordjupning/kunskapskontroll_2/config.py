@@ -18,3 +18,11 @@ HEADERS = {
     'Sec-Fetch-Mode': 'cors',
     'Sec-Fetch-Site': 'cross-site'
 }
+
+LEAGUES = [
+    "england/premier_league",
+    "italy/serie_a",
+    "spain/la_liga",
+    "germany/bundesliga",
+    "france/ligue_1",
+]

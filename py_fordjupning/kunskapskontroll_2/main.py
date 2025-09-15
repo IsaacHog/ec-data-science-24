@@ -1,9 +1,7 @@
 from config import LOGGER, HEADERS, LEAGUES
 from datetime import datetime, timedelta
-import time
 import requests
 import traceback
-import json
 import csv
 import os
 
@@ -15,7 +13,7 @@ def throw_error(attempted_action="", error=""):
     LOGGER.error(f"Error: {error}")
 
 def get_events():
-    print("Getting events...")
+    LOGGER.debug("Getting events...")
     events = []
     for league in LEAGUES:
         url = f'https://eu-offering-api.kambicdn.com/offering/v2018/ubca/listView/football/{league}.json?lang=en_GB&market=ZZ&client_id=2&channel_id=1&ncid=1693053935240&useCombined=true'
@@ -35,17 +33,17 @@ def get_events():
                 })
         else:
             throw_error("Failed to retrieve events", response.status_code)
-    print(f"Got {len(events)} events...")
+    LOGGER.debug(f"Got {len(events)} events...")
     return events
 
 def get_events_full_time_odds(events):
-    print("Getting betoffers...")
+    LOGGER.debug("Getting betoffers...")
     full_time_odds = []
     for event in events:
         url = f"https://eu-offering-api.kambicdn.com/offering/v2018/ubca/betoffer/event/{event['id']}.json?lang=en_GB&market=ZZ&client_id=2&channel_id=1&ncid=1698228899164&includeParticipants=true"
         response = requests.get(url, headers=HEADERS)
         if response.status_code != 200:
-            print(f"Failed to retrieve events for {event['match_name']}:", response.text)
+            LOGGER.debug(f"Failed to retrieve events for {event['match_name']}:", response.text)
             continue
         data = response.json()
 
@@ -64,10 +62,8 @@ def get_events_full_time_odds(events):
         
     return full_time_odds
 
-import csv
-import os
-
 def log_full_time_odds(full_time_odds):
+    LOGGER.debug("Logging to csv file...")
     filename = "full_time_log.csv"
     existing_logs = []
 
@@ -82,15 +78,6 @@ def log_full_time_odds(full_time_odds):
     new_entries = []
     for odds in full_time_odds:
         new_entries.append(odds)
-        """
-            "event_id": odds["event_id"],
-            "match_name": odds["match_name"],
-            "time_stamp": odds['time_stamp'],
-            'event_start': odds['event_start'],
-            "home_odds": odds["home_odds"],
-            "even_odds": odds["even_odds"],
-            "away_odds": odds["away_odds"]
-        """
 
     combined_logs = existing_logs + new_entries
 
@@ -99,16 +86,16 @@ def log_full_time_odds(full_time_odds):
         writer = csv.DictWriter(file, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(combined_logs)
+    LOGGER.debug("Logged new entries to csv file")
 
 
-def bot_loop():
+def main_loop():
     events = get_events()
     full_time_odds = get_events_full_time_odds(events)
     log_full_time_odds(full_time_odds)
-    print()
 
-print("--------------- Script initiated--------------------")
+LOGGER.debug("--------------- Script initiated--------------------")
 try:
-    bot_loop()
+    main_loop()
 except Exception:
     throw_error("Last try except", traceback.format_exc())

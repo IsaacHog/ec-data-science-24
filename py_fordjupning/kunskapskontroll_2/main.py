@@ -36,23 +36,33 @@ def get_events():
     print(f"Got {len(events)} events...")
     return events
 
-def get_betoffers(events):
+def get_events_full_time_odds(events):
     print("Getting betoffers...")
-    betoffers = []
+    full_time_odds = []
     for event in events:
         url = f"https://eu-offering-api.kambicdn.com/offering/v2018/ubca/betoffer/event/{event['id']}.json?lang=en_GB&market=ZZ&client_id=2&channel_id=1&ncid=1698228899164&includeParticipants=true"
         response = requests.get(url, headers=HEADERS)
         if response.status_code != 200:
             print(f"Failed to retrieve events for {event['match_name']}:", response.text)
             continue
-        
         data = response.json()
-        print()
+
+        for bet_offer in data['betOffers']:
+            if 'Full Time' == bet_offer['criterion']['label']:
+                full_time_odds.append( {
+                    'match_name': event['match_name'],
+                    'home_odds': bet_offer['outcomes'][0]['odds'],
+                    'even_odds': bet_offer['outcomes'][1]['odds'],
+                    'away_odds': bet_offer['outcomes'][2]['odds']
+                })
+                break
+        
+    return full_time_odds
 
 
 def bot_loop():
     events = get_events()
-    betoffers = get_betoffers(events)
+    full_time_odds = get_events_full_time_odds(events)
     print()
 
 print("--------------- Script initiated--------------------")

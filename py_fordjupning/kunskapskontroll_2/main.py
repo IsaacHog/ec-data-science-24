@@ -4,6 +4,8 @@ import time
 import requests
 import traceback
 import json
+import csv
+import os
 
 todays_date = datetime.today()
 
@@ -29,7 +31,7 @@ def get_events():
                 events.append({
                     'id': event['event']['id'],
                     'match_name': event['event']['englishName'],
-                    'eventStart': (datetime.strptime(event['event']['start'], "%Y-%m-%dT%H:%M:%SZ") + timedelta(hours=1)).isoformat(),
+                    'event_start': (datetime.strptime(event['event']['start'], "%Y-%m-%dT%H:%M:%SZ") + timedelta(hours=1)).isoformat(),
                 })
         else:
             throw_error("Failed to retrieve events", response.status_code)
@@ -50,7 +52,10 @@ def get_events_full_time_odds(events):
         for bet_offer in data['betOffers']:
             if 'Full Time' == bet_offer['criterion']['label']:
                 full_time_odds.append( {
+                    'event_id': event['id'],
                     'match_name': event['match_name'],
+                    'time_stamp': datetime.now().isoformat(timespec='seconds'),
+                    'event_start': event['event_start'],
                     'home_odds': bet_offer['outcomes'][0]['odds'],
                     'even_odds': bet_offer['outcomes'][1]['odds'],
                     'away_odds': bet_offer['outcomes'][2]['odds']
@@ -59,10 +64,47 @@ def get_events_full_time_odds(events):
         
     return full_time_odds
 
+import csv
+import os
+
+def log_full_time_odds(full_time_odds):
+    filename = "full_time_log.csv"
+    existing_logs = []
+
+    if os.path.exists(filename):
+        with open(filename, mode="r", newline="", encoding="utf-8") as file:
+            reader = csv.DictReader(file)
+            existing_logs = list(reader)
+    else:
+        throw_error("Read full_time_log.csv", "File not found")
+        return
+
+    new_entries = []
+    for odds in full_time_odds:
+        new_entries.append(odds)
+        """
+            "event_id": odds["event_id"],
+            "match_name": odds["match_name"],
+            "time_stamp": odds['time_stamp'],
+            'event_start': odds['event_start'],
+            "home_odds": odds["home_odds"],
+            "even_odds": odds["even_odds"],
+            "away_odds": odds["away_odds"]
+        """
+
+    combined_logs = existing_logs + new_entries
+
+    with open(filename, mode="w", newline="", encoding="utf-8") as file:
+        fieldnames = ["event_id", "match_name", "event_start", "time_stamp", "home_odds", "even_odds", "away_odds"]
+        writer = csv.DictWriter(file, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(combined_logs)
+
 
 def bot_loop():
     events = get_events()
     full_time_odds = get_events_full_time_odds(events)
+    log_full_time_odds(full_time_odds)
     print()
 
 print("--------------- Script initiated--------------------")

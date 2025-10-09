@@ -1,24 +1,15 @@
 import pandas as pd
 
-# Load the CSV file
 df = pd.read_csv("full_time_log.csv", parse_dates=["event_start", "time_stamp"])
-
-# Set the percentage change threshold (e.g., 5% = 0.05)
-THRESHOLD = 0.08
-
-# Sort by event and timestamp
 df.sort_values(by=["event_id", "time_stamp"], inplace=True)
 
-# Function to calculate percentage change
 def percent_change(old, new):
     if old == 0:
         return 0
     return abs(new - old) / old
 
-# Store flagged events
 flagged_events = []
-
-# Group by event
+THRESHOLD = 0.08
 for event_id, group in df.groupby("event_id"):
     group = group.reset_index(drop=True)
     for i in range(len(group) - 1):
@@ -44,6 +35,5 @@ for event_id, group in df.groupby("event_id"):
                     "away_change": changes["away"],
                 })
 
-# Convert to DataFrame for display
 flagged_df = pd.DataFrame(flagged_events)
 print(flagged_df)

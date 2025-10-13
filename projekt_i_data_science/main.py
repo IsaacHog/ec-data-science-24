@@ -24,7 +24,7 @@ def get_events():
             for event in data['events']:
                 if datetime.strptime(event['event']['start'], '%Y-%m-%dT%H:%M:%SZ').day != todays_date.day:
                     continue
-                if (datetime.strptime(event['eventStart'], '%Y-%m-%dT%H:%M:%S') > datetime.now() + timedelta(minutes=65)):
+                if (datetime.strptime(event['event']['start'], '%Y-%m-%dT%H:%M:%SZ') > todays_date + timedelta(minutes=65)):
                     # Hoping to get 2-3 data points per game incase a betoffer is temporarily suspended during one scraping cycle
                     continue
 
@@ -55,11 +55,11 @@ def get_events_odds(events):
         for bet_offer in bet_offers:
             if 'Full Time' == bet_offer['criterion']['label']:
                 home_odds, even_odds, away_odds = assign_odds(bet_offer['outcomes'])
-            elif 'Totala kort' == bet_offer['criterion']['label']:
+            elif 'Total Cards' == bet_offer['criterion']['label']:
                 if str(bet_offer['outcomes'][0]['line']/1000) != "4.5":
                     continue
                 over_4_5_cards, under_4_5_cards = assign_odds(bet_offer['outcomes'])
-            elif 'Totala mål' == bet_offer['criterion']['label']:
+            elif 'Total Goals' == bet_offer['criterion']['label']: 
                 if str(bet_offer['outcomes'][0]['line']/1000) != "2.5":
                     continue
                 over_2_5_goals, under_2_5_goals = assign_odds(bet_offer['outcomes'])
@@ -91,7 +91,7 @@ def get_events_odds(events):
    
     return odds
 
-def log_odds(odds):
+def log_odds(odds): 
     LOGGER.debug("Logging to csv file...")
     filename = "full_time_log.csv"
     existing_logs = []
@@ -111,7 +111,7 @@ def log_odds(odds):
     combined_logs = existing_logs + new_entries
 
     with open(filename, mode="w", newline="", encoding="utf-8") as file:
-        fieldnames = ["event_id", "match_name", "event_start", "time_stamp", "home_odds", "even_odds", "away_odds"]
+        fieldnames = ["event_id", "match_name", "event_start", "time_stamp", "home_odds", "even_odds", "away_odds", "over_4_5_cards", "under_4_5_cards", "over_2_5_goals", "under_2_5_goals"]
         writer = csv.DictWriter(file, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(combined_logs)

@@ -1,4 +1,5 @@
-event_id,match_name,event_start,time_stamp,home_odds,even_odds,away_odds,over_4_5_cards,under_4_5_cards,over_2_5_goals,under_2_5_goals
-1024182599,Real Oviedo - Espanyol,2025-10-17T20:00:00,2025-10-13T11:59:03,2900,3250,2430,1900,1900,2200,1640
-1024136782,1. FC Union Berlin - Borussia Mönchengladbach,2025-10-17T19:30:00,2025-10-13T11:59:03,2250,3600,2900,1800,2100,1780,2000
-1024143698,PSG - Strasbourg,2025-10-17T19:45:00,2025-10-13T11:59:03,1280,6000,9500,1200,3000,1460,2750
+event_id,match_name,event_start,time_stamp,home_odds,even_odds,away_odds,over_4_5_cards,over_2_5_goals
+1024182599,Real Oviedo - Espanyol,2025-10-17T20:00:00,2025-10-13T11:59:03,2900,3250,2430,1900,2200
+1024136782,1. FC Union Berlin - Borussia Mönchengladbach,2025-10-17T19:30:00,2025-10-13T11:59:03,2250,3600,2900,18001780
+1024143698,PSG - Strasbourg,2025-10-17T19:45:00,2025-10-13T11:59:03,1280,6000,9500,1200,1460
+1024143698,Hertha Berlin - Augsburg,2025-10-17T19:45:00,2025-10-13T11:59:03,1280,6000,9500,3000,1460

@@ -49,9 +49,9 @@ def get_events_odds(events):
         even_odds = None
         away_odds = None
         over_4_5_cards = None
-        under_4_5_cards = None
+        under_4_5_cards = None # Not logged
         over_2_5_goals = None
-        under_2_5_goals = None 
+        under_2_5_goals = None # Not logged
         for bet_offer in bet_offers:
             if 'Full Time' == bet_offer['criterion']['label']:
                 home_odds, even_odds, away_odds = assign_odds(bet_offer['outcomes'])
@@ -73,9 +73,7 @@ def get_events_odds(events):
             'even_odds': even_odds,
             'away_odds': away_odds,
             'over_4_5_cards': over_4_5_cards,
-            'under_4_5_cards': under_4_5_cards,
-            'over_2_5_goals': over_2_5_goals,
-            'under_2_5_goals': under_2_5_goals
+            'over_2_5_goals': over_2_5_goals
         }
     
     LOGGER.debug("Getting betoffers...")
@@ -111,7 +109,7 @@ def log_odds(odds):
     combined_logs = existing_logs + new_entries
 
     with open(filename, mode="w", newline="", encoding="utf-8") as file:
-        fieldnames = ["event_id", "match_name", "event_start", "time_stamp", "home_odds", "even_odds", "away_odds", "over_4_5_cards", "under_4_5_cards", "over_2_5_goals", "under_2_5_goals"]
+        fieldnames = ["event_id", "match_name", "event_start", "time_stamp", "home_odds", "even_odds", "away_odds", "over_4_5_cards", "over_2_5_goals"]
         writer = csv.DictWriter(file, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(combined_logs)

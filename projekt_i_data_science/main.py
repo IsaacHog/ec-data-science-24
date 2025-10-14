@@ -43,7 +43,11 @@ def get_events():
 def get_events_odds(events):
     def find_odds_in_betoffers(bet_offers):
         def assign_odds(bet_offer_outcomes):
-            return [outcome['odds'] for outcome in bet_offer_outcomes]
+            try:
+                return [outcome['odds'] for outcome in bet_offer_outcomes]
+            except:
+                LOGGER.debug("Skipping event due to suspended odds")
+                return ["SUSPENDED" for outcome in bet_offer_outcomes]
                 
         home_odds = None
         even_odds = None
@@ -63,7 +67,12 @@ def get_events_odds(events):
                 if str(bet_offer['outcomes'][0]['line']/1000) != "2.5":
                     continue
                 over_2_5_goals, under_2_5_goals = assign_odds(bet_offer['outcomes'])
-            
+        
+        if over_2_5_goals == None or over_4_5_cards == None:
+            return
+        if "SUSPENDED" in [home_odds, even_odds, away_odds, over_4_5_cards, over_2_5_goals]:
+            return
+        
         return {
             'event_id': event['id'],
             'match_name': event['match_name'],
@@ -85,7 +94,9 @@ def get_events_odds(events):
             LOGGER.debug(f"Failed to retrieve events for {event['match_name']}:", response.text)
             continue
         data = response.json()
-        odds.append(find_odds_in_betoffers(data['betOffers']))
+        bet_offers = find_odds_in_betoffers(data['betOffers'])
+        if bet_offers:             
+            odds.append(bet_offers)
    
     return odds
 

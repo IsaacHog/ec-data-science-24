@@ -25,4 +25,5 @@ LEAGUES = [
     "spain/la_liga",
     "germany/bundesliga",
     "france/ligue_1",
+    "world_cup_qualifying_-_europe"
 ]
